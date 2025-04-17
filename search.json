@@ -33,18 +33,37 @@
     ]
   },
   {
-    "objectID": "exercises/e01.html",
-    "href": "exercises/e01.html",
-    "title": "Aufgabe 01",
+    "objectID": "exercises/participation.html",
+    "href": "exercises/participation.html",
+    "title": "Leistungsanforderungen für die aktive Teilnahme",
     "section": "",
-    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
+    "text": "In diesem Kurs besteht keine Anwesenheitspflicht. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass Ihre Eigenverantwortung in diesem Kurs besonders hoch ist.\nAlle grundlegenden Informationen sowie Materialien und Aufgabenstellungen werden Ihnen über diese Kurswebseite sowie Moodle (LMS) zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte selbstständig vor- und nachzubereiten. Beachten Sie, dass ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert wurde.\nEs liegt in Ihrer Verantwortung, sich kontinuierlich mit den Inhalten auseinanderzusetzen, die zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten und diese fristgerecht zu erfüllen.\nFalls Sie an bestimmten Terminen nicht anwesend sein können, aber Gruppenarbeiten vorgesehen sind, sind Sie dennoch verpflichtet, sich aktiv und zuverlässig in die Gruppenprozesse einzubringen – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie nicht von der Mitverantwortung gegenüber Ihrer Gruppe.\nGerade in empirisch ausgerichteten Kursen gibt es zahlreiche essentielle Sitzungen, die eng mit dem Erfolg Ihrer Projektarbeit und dem abschließenden Bericht verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich.",
+    "crumbs": [
+      "Kursinformationen",
+      "Aktive Teilnahme"
+    ]
   },
   {
-    "objectID": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
-    "href": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
-    "title": "Aufgabe 01",
+    "objectID": "exercises/participation.html#kursorganisation-und-teilnahmebedingungen",
+    "href": "exercises/participation.html#kursorganisation-und-teilnahmebedingungen",
+    "title": "Leistungsanforderungen für die aktive Teilnahme",
     "section": "",
-    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
+    "text": "In diesem Kurs besteht keine Anwesenheitspflicht. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass Ihre Eigenverantwortung in diesem Kurs besonders hoch ist.\nAlle grundlegenden Informationen sowie Materialien und Aufgabenstellungen werden Ihnen über diese Kurswebseite sowie Moodle (LMS) zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte selbstständig vor- und nachzubereiten. Beachten Sie, dass ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert wurde.\nEs liegt in Ihrer Verantwortung, sich kontinuierlich mit den Inhalten auseinanderzusetzen, die zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten und diese fristgerecht zu erfüllen.\nFalls Sie an bestimmten Terminen nicht anwesend sein können, aber Gruppenarbeiten vorgesehen sind, sind Sie dennoch verpflichtet, sich aktiv und zuverlässig in die Gruppenprozesse einzubringen – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie nicht von der Mitverantwortung gegenüber Ihrer Gruppe.\nGerade in empirisch ausgerichteten Kursen gibt es zahlreiche essentielle Sitzungen, die eng mit dem Erfolg Ihrer Projektarbeit und dem abschließenden Bericht verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich.",
+    "crumbs": [
+      "Kursinformationen",
+      "Aktive Teilnahme"
+    ]
+  },
+  {
+    "objectID": "exercises/participation.html#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme",
+    "href": "exercises/participation.html#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme",
+    "title": "Leistungsanforderungen für die aktive Teilnahme",
+    "section": "Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme",
+    "text": "Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme",
+    "crumbs": [
+      "Kursinformationen",
+      "Aktive Teilnahme"
+    ]
   },
   {
     "objectID": "slides/slides.html#zum-einstieg",
@@ -100,34 +119,6 @@
       "Materialien",
       "Folien"
     ]
-  },
-  {
-    "objectID": "prep/p02.html",
-    "href": "prep/p02.html",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "",
-    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die beiden Videos 1 (Befragungsdesigns) und 2 (Theoretische Konzeption & Forschungsinteresse) an. Senden Sie bis spätestens Dienstag, 22.04., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
-  },
-  {
-    "objectID": "prep/p02.html#lernvideos",
-    "href": "prep/p02.html#lernvideos",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "",
-    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die beiden Videos 1 (Befragungsdesigns) und 2 (Theoretische Konzeption & Forschungsinteresse) an. Senden Sie bis spätestens Dienstag, 22.04., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
-  },
-  {
-    "objectID": "prep/p02.html#leseaufgabe",
-    "href": "prep/p02.html#leseaufgabe",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "Leseaufgabe",
-    "text": "Leseaufgabe\nUm sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte die folgenden Paper (PDFs im LMS):\nVerpflichtende Lektüre:\n\nPossler, D., Scheper, J., Raney, A. A., & Klimmt, C. (2025). Is There an Easy Path to Eudaimonia? Novel Insights on the Dual-Process Perspective in Media Entertainment. Communication Research, 00936502241306709. https://doi.org/10/g8xsrm\nBhandari, A., & Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and the Future of Self-Making on Social Media. Social Media + Society, 8(1), 20563051221086241. https://doi.org/10.1177/20563051221086241\nEg, R., Demirkol Tønnesen, Ö., & Tennfjord, M. K. (2023). A Scoping Review of Personalized User Experiences on Social Media: The Interplay between Algorithms and Human Factors. Computers in Human Behavior Reports, 9, 100253. https://doi.org/10/g8s4kp\n\nMachen Sie sich während der Lektüre Notizen zu den folgenden Fragen. Sie sollten in der Lage sein, diese Fragen in der Sitzung soweit es geht zu beantworten und mit Ihren Kommiliton:innen darüber zu diskutieren. Aber: Die Texte sind nicht unbedingt einfach zu verstehen. Es ist nicht schlimm, wenn Sie nicht alles direkt verstehen. Notieren Sie sich Fragen zu Aspekten, die Ihnen unklar geblieben sind.\n\nInwiefern beeinflussen Personalisierung und algorithmisches Design nicht nur, was wir sehen, sondern auch, was wir bei der Rezeption fühlen und welche Effekte die Mediennutzung hat?\nWie wirken sich das Verhalten der Nutzer:innen und ihr Bewusstsein für Algorithmen auf das Erleben und die Wirkung personalisierter Inhalte in sozialen Medien aus?\nInwiefern ist der Algoroithmus auf TikTok einzigartig im Vergleich zu Plattformen wie Instagram oder YouTube? Wo gibt es Gemeinsamkeiten?\nWie hinterfragt die Studie von Possler et al. etablierte Zweiprozessmodelle von hedonischem versus eudaimonischem Unterhaltungserleben?\nWelche Bedeutung hat das Konzept der „Meaning Detection“ für das Verständnis moderner Mediennutzung, insbesondere im Kontext algorithmisch-kuratierter Inhalte?\n\nErgänzende Literatur:\nScrollen Sie darüber hinaus auch einmal durch die Liste mit ergänzender Literatur und prüfen Sie, welche Themenbereiche (insbesondere aus theoretischer Perspektive) Sie ansprechen."
-  },
-  {
-    "objectID": "prep/p02.html#anfrage-youtube-takeout-daten",
-    "href": "prep/p02.html#anfrage-youtube-takeout-daten",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "Anfrage YouTube Takeout Daten",
-    "text": "Anfrage YouTube Takeout Daten\nSofern Sie einen YouTube-Account / ein Google-Konto besitzen, fragen Sie bitte bis zur nächsten Sitzung Ihre YouTube-Nutzungsdaten als TakeOut an. Keine Sorge: Sie müssen/werden diese Daten mit niemandem teilen!\n\nRufen Sie die Adresse takeout.google.com auf und melden Sie sich, sofern nicht bereits geschehen, mit Ihrem Google-Account an, der Ihrem YouTube-Konto zugeordnet ist.\nWählen Sie unter “Neuen Export erstellen”, sofern dort zurzeit alle Produkte markiert sind, die Option “Auswahl aufheben”, um bei allen Produkten den Haken zu entfernen.\nScrollen Sie in der Liste der Produkte weit nach unten bis Sie “YouTube und YouTube Music” finden (die Liste ist alphabetisch sortiert).\nSetzen Sie nur bei diesem Produkt (“YouTube und YouTube Music”) einen Haken.\nWählen Sie anschließend den darunter befindlichen linken Button auf dem (vermutlich) “Mehrere Formate” steht. Ändern Sie bei “Verlauf” die Option von “HTML” auf “JSON” und bestätigen Sie mit “OK”. Auf dem Button sollte nun “JSON-Format” stehen.\nAuf dem rechten Button steht (vermutlich) standardmäßig “Alle YouTube Daten eingeschlossen”. Dies können Sie so belassen (dann können Sie sich alle Daten ansehen, die Google auf YouTube über Sie gesammelt hat). Wenn Sie möchten, können Sie jedoch auch einzelne Datenpunkte abwählen, die Sie als zu sensibel betrachten.\nWählen Sie am Seitenende den Button “Nächster Schritt”.\nWählen Sie, wie Sie die Daten empfangen wollen. Ich empfehle hier “Download-Link per E-Mail senden”. Wählen Sie außerdem bei Häufigkeit “Einmal exportieren” und bei Dateityp “ZIP”. Die angegebene Dateigröße ist i.d.R. irrelevant, diese können Sie bei der Standardeinstellung belassen.\nWählen Sie den Button “Export erstellen”.\nNormalerweise dauert der Datenexport, sofern Sie nur YouTube ausgewählt haben, nur wenige Sekunden. Warten Sie 20-30 Sekunden und laden Sie dann die Seite neu. Nun sollten Sie oben auf der Seite bei “Ihr letzer Export” einen Button zum “Herunterladen” der Daten finden. Wählen Sie diesen aus und laden Sie die Daten herunter. Speichern Sie sie auf Ihrem Computer an einem sicheren Ort ab.\nSollte der Daten-Export unerwartet doch länger dauern, erhalten Sie eine E-Mail an Ihre Google-Mail Adresse (mail.google.com), sobald der Download bereitsteht. Laden Sie die Daten dann über den dort bereitgestellten Link herunter.\n\nBringen Sie die Daten auf Ihrem Computer zur nächsten Sitzung mit. Wenn Sie möchten, können Sie die .zip-Datei bereits entpacken und sich ein wenig durch die Daten klicken um herauszufinden, was alles im Data-Takeout enthalten ist."
   },
   {
     "objectID": "index.html",
@@ -196,6 +187,34 @@
     ]
   },
   {
+    "objectID": "prep/p02.html",
+    "href": "prep/p02.html",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "",
+    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die beiden Videos 1 (Befragungsdesigns) und 2 (Theoretische Konzeption & Forschungsinteresse) an. Senden Sie bis spätestens Dienstag, 22.04., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
+  },
+  {
+    "objectID": "prep/p02.html#lernvideos",
+    "href": "prep/p02.html#lernvideos",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "",
+    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die beiden Videos 1 (Befragungsdesigns) und 2 (Theoretische Konzeption & Forschungsinteresse) an. Senden Sie bis spätestens Dienstag, 22.04., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
+  },
+  {
+    "objectID": "prep/p02.html#leseaufgabe",
+    "href": "prep/p02.html#leseaufgabe",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "Leseaufgabe",
+    "text": "Leseaufgabe\nUm sich auf die nächste Sitzung vorzubereiten, lesen Sie bitte die folgenden Paper (PDFs im LMS):\nVerpflichtende Lektüre:\n\nPossler, D., Scheper, J., Raney, A. A., & Klimmt, C. (2025). Is There an Easy Path to Eudaimonia? Novel Insights on the Dual-Process Perspective in Media Entertainment. Communication Research, 00936502241306709. https://doi.org/10/g8xsrm\nBhandari, A., & Bimo, S. (2022). Why’s Everyone on TikTok Now? The Algorithmized Self and the Future of Self-Making on Social Media. Social Media + Society, 8(1), 20563051221086241. https://doi.org/10.1177/20563051221086241\nEg, R., Demirkol Tønnesen, Ö., & Tennfjord, M. K. (2023). A Scoping Review of Personalized User Experiences on Social Media: The Interplay between Algorithms and Human Factors. Computers in Human Behavior Reports, 9, 100253. https://doi.org/10/g8s4kp\n\nMachen Sie sich während der Lektüre Notizen zu den folgenden Fragen. Sie sollten in der Lage sein, diese Fragen in der Sitzung soweit es geht zu beantworten und mit Ihren Kommiliton:innen darüber zu diskutieren. Aber: Die Texte sind nicht unbedingt einfach zu verstehen. Es ist nicht schlimm, wenn Sie nicht alles direkt verstehen. Notieren Sie sich Fragen zu Aspekten, die Ihnen unklar geblieben sind.\n\nInwiefern beeinflussen Personalisierung und algorithmisches Design nicht nur, was wir sehen, sondern auch, was wir bei der Rezeption fühlen und welche Effekte die Mediennutzung hat?\nWie wirken sich das Verhalten der Nutzer:innen und ihr Bewusstsein für Algorithmen auf das Erleben und die Wirkung personalisierter Inhalte in sozialen Medien aus?\nInwiefern ist der Algoroithmus auf TikTok einzigartig im Vergleich zu Plattformen wie Instagram oder YouTube? Wo gibt es Gemeinsamkeiten?\nWie hinterfragt die Studie von Possler et al. etablierte Zweiprozessmodelle von hedonischem versus eudaimonischem Unterhaltungserleben?\nWelche Bedeutung hat das Konzept der „Meaning Detection“ für das Verständnis moderner Mediennutzung, insbesondere im Kontext algorithmisch-kuratierter Inhalte?\n\nErgänzende Literatur:\nScrollen Sie darüber hinaus auch einmal durch die Liste mit ergänzender Literatur und prüfen Sie, welche Themenbereiche (insbesondere aus theoretischer Perspektive) Sie ansprechen."
+  },
+  {
+    "objectID": "prep/p02.html#anfrage-youtube-takeout-daten",
+    "href": "prep/p02.html#anfrage-youtube-takeout-daten",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "Anfrage YouTube Takeout Daten",
+    "text": "Anfrage YouTube Takeout Daten\nSofern Sie einen YouTube-Account / ein Google-Konto besitzen, fragen Sie bitte bis zur nächsten Sitzung Ihre YouTube-Nutzungsdaten als TakeOut an. Keine Sorge: Sie müssen/werden diese Daten mit niemandem teilen!\n\nRufen Sie die Adresse takeout.google.com auf und melden Sie sich, sofern nicht bereits geschehen, mit Ihrem Google-Account an, der Ihrem YouTube-Konto zugeordnet ist.\nWählen Sie unter “Neuen Export erstellen”, sofern dort zurzeit alle Produkte markiert sind, die Option “Auswahl aufheben”, um bei allen Produkten den Haken zu entfernen.\nScrollen Sie in der Liste der Produkte weit nach unten bis Sie “YouTube und YouTube Music” finden (die Liste ist alphabetisch sortiert).\nSetzen Sie nur bei diesem Produkt (“YouTube und YouTube Music”) einen Haken.\nWählen Sie anschließend den darunter befindlichen linken Button auf dem (vermutlich) “Mehrere Formate” steht. Ändern Sie bei “Verlauf” die Option von “HTML” auf “JSON” und bestätigen Sie mit “OK”. Auf dem Button sollte nun “JSON-Format” stehen.\nAuf dem rechten Button steht (vermutlich) standardmäßig “Alle YouTube Daten eingeschlossen”. Dies können Sie so belassen (dann können Sie sich alle Daten ansehen, die Google auf YouTube über Sie gesammelt hat). Wenn Sie möchten, können Sie jedoch auch einzelne Datenpunkte abwählen, die Sie als zu sensibel betrachten.\nWählen Sie am Seitenende den Button “Nächster Schritt”.\nWählen Sie, wie Sie die Daten empfangen wollen. Ich empfehle hier “Download-Link per E-Mail senden”. Wählen Sie außerdem bei Häufigkeit “Einmal exportieren” und bei Dateityp “ZIP”. Die angegebene Dateigröße ist i.d.R. irrelevant, diese können Sie bei der Standardeinstellung belassen.\nWählen Sie den Button “Export erstellen”.\nNormalerweise dauert der Datenexport, sofern Sie nur YouTube ausgewählt haben, nur wenige Sekunden. Warten Sie 20-30 Sekunden und laden Sie dann die Seite neu. Nun sollten Sie oben auf der Seite bei “Ihr letzer Export” einen Button zum “Herunterladen” der Daten finden. Wählen Sie diesen aus und laden Sie die Daten herunter. Speichern Sie sie auf Ihrem Computer an einem sicheren Ort ab.\nSollte der Daten-Export unerwartet doch länger dauern, erhalten Sie eine E-Mail an Ihre Google-Mail Adresse (mail.google.com), sobald der Download bereitsteht. Laden Sie die Daten dann über den dort bereitgestellten Link herunter.\n\nBringen Sie die Daten auf Ihrem Computer zur nächsten Sitzung mit. Wenn Sie möchten, können Sie die .zip-Datei bereits entpacken und sich ein wenig durch die Daten klicken um herauszufinden, was alles im Data-Takeout enthalten ist."
+  },
+  {
     "objectID": "exercises/term_paper.html",
     "href": "exercises/term_paper.html",
     "title": "Informationen zum Projektbericht",
@@ -262,36 +281,17 @@
     ]
   },
   {
-    "objectID": "exercises/participation.html",
-    "href": "exercises/participation.html",
-    "title": "Leistungsanforderungen für die aktive Teilnahme",
+    "objectID": "exercises/e01.html",
+    "href": "exercises/e01.html",
+    "title": "Aufgabe 01",
     "section": "",
-    "text": "In diesem Kurs besteht keine Anwesenheitspflicht. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass Ihre Eigenverantwortung in diesem Kurs besonders hoch ist.\nAlle grundlegenden Informationen sowie Materialien und Aufgabenstellungen werden Ihnen über diese Kurswebseite sowie Moodle (LMS) zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte selbstständig vor- und nachzubereiten. Beachten Sie, dass ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert wurde.\nEs liegt in Ihrer Verantwortung, sich kontinuierlich mit den Inhalten auseinanderzusetzen, die zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten und diese fristgerecht zu erfüllen.\nFalls Sie an bestimmten Terminen nicht anwesend sein können, aber Gruppenarbeiten vorgesehen sind, sind Sie dennoch verpflichtet, sich aktiv und zuverlässig in die Gruppenprozesse einzubringen – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie nicht von der Mitverantwortung gegenüber Ihrer Gruppe.\nGerade in empirisch ausgerichteten Kursen gibt es zahlreiche essentielle Sitzungen, die eng mit dem Erfolg Ihrer Projektarbeit und dem abschließenden Bericht verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich.",
-    "crumbs": [
-      "Kursinformationen",
-      "Aktive Teilnahme"
-    ]
+    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
   },
   {
-    "objectID": "exercises/participation.html#kursorganisation-und-teilnahmebedingungen",
-    "href": "exercises/participation.html#kursorganisation-und-teilnahmebedingungen",
-    "title": "Leistungsanforderungen für die aktive Teilnahme",
+    "objectID": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
+    "href": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
+    "title": "Aufgabe 01",
     "section": "",
-    "text": "In diesem Kurs besteht keine Anwesenheitspflicht. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass Ihre Eigenverantwortung in diesem Kurs besonders hoch ist.\nAlle grundlegenden Informationen sowie Materialien und Aufgabenstellungen werden Ihnen über diese Kurswebseite sowie Moodle (LMS) zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte selbstständig vor- und nachzubereiten. Beachten Sie, dass ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert wurde.\nEs liegt in Ihrer Verantwortung, sich kontinuierlich mit den Inhalten auseinanderzusetzen, die zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten und diese fristgerecht zu erfüllen.\nFalls Sie an bestimmten Terminen nicht anwesend sein können, aber Gruppenarbeiten vorgesehen sind, sind Sie dennoch verpflichtet, sich aktiv und zuverlässig in die Gruppenprozesse einzubringen – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie nicht von der Mitverantwortung gegenüber Ihrer Gruppe.\nGerade in empirisch ausgerichteten Kursen gibt es zahlreiche essentielle Sitzungen, die eng mit dem Erfolg Ihrer Projektarbeit und dem abschließenden Bericht verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich.",
-    "crumbs": [
-      "Kursinformationen",
-      "Aktive Teilnahme"
-    ]
-  },
-  {
-    "objectID": "exercises/participation.html#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme",
-    "href": "exercises/participation.html#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme",
-    "title": "Leistungsanforderungen für die aktive Teilnahme",
-    "section": "Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme",
-    "text": "Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme",
-    "crumbs": [
-      "Kursinformationen",
-      "Aktive Teilnahme"
-    ]
+    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
   }
 ]
