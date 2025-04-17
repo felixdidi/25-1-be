@@ -1,0 +1,24 @@
+---
+title: "Leistungsanforderungen für die aktive Teilnahme"
+listing:
+  id: participation
+  contents: participation.yml
+  type: table
+  sort-ui: false
+  filter-ui: true
+---
+
+## Kursorganisation und Teilnahmebedingungen
+
+In diesem Kurs besteht **keine Anwesenheitspflicht**. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass **Ihre Eigenverantwortung in diesem Kurs besonders hoch ist**. 
+
+Alle **grundlegenden Informationen** sowie Materialien und Aufgabenstellungen werden Ihnen über **diese Kurswebseite sowie Moodle (LMS)** zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte **selbstständig vor- und nachzubereiten**. Beachten Sie, dass **ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert** wurde. 
+
+Es liegt in Ihrer Verantwortung, sich **kontinuierlich mit den Inhalten auseinanderzusetzen**, die **zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten** und diese fristgerecht zu erfüllen. 
+
+Falls Sie an bestimmten Terminen **nicht anwesend sein können**, aber **Gruppenarbeiten** vorgesehen sind, sind Sie dennoch verpflichtet, sich **aktiv und zuverlässig in die Gruppenprozesse einzubringen** – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie **nicht von der Mitverantwortung gegenüber Ihrer Gruppe**.
+
+Gerade in **empirisch ausgerichteten Kursen** gibt es **zahlreiche essentielle Sitzungen**, die eng mit dem **Erfolg Ihrer Projektarbeit und dem abschließenden Bericht** verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist **ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich**.
+
+## Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme
+

@@ -1,0 +1,216 @@
+/*-- scss:defaults --*/
+@import url(https://fonts.bunny.net/css?family=aleo:400,400i,700,700i,900,900i);
+$font-family-sans-serif: "Aleo", sans-serif !default;
+$presentation-font-size-root: 24px !default;
+$presentation-line-height: 1.2;
+
+// colors
+$body-bg: #ffffff !default;
+$body-color: #3c3836 !default;
+$link-color: #3c3836 !default;
+$selection-bg: #fabd2f !default;
+$red: #cc241d;
+$green: #98971a;
+$yellow: #fabd2f;
+$blue: #458588;
+$purple: #b16286;
+$aqua: #689d6a;
+$gray: #a89984;
+$theme-orange: #fabd2f;
+
+// headings
+// $presentation-heading-font: sans-serif !default;
+$presentation-heading-color: #3c3836 !default;
+// $presentation-heading-text-transform: uppercase !default;
+
+// $presentation-title-slide-text-align: left !default;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+  text-decoration: underline !important;
+  text-decoration-color: #fabd2f !important;
+  text-decoration-thickness: 2px;
+  transition: 0.3s !important;
+}
+
+.reveal a:hover {
+  color: var(--body-color) !important;
+  text-decoration-style: wavy !important;
+}
+
+.reveal .progress {
+  color: #fabd2f;
+}
+
+/*********************************************
+ * CALLOUT
+ *********************************************/
+
+.callout-icon-container {
+  height: 27px !important;
+  width: 27px !important;
+}
+
+.callout-icon::before {
+  background-size: 1.2rem 1.2rem !important;
+  margin-top: .6rem !important;
+}
+
+.callout-caption {
+  background-color: rgba(250, 189, 47, .4) !important;
+}
+
+.callout-tip {
+  border-left-color: #fabd2f !important;
+}
+
+.callout-caption p {
+  text-transform: uppercase;
+}
+
+.small-url {
+  font-size: .5em !important;
+}
+
+.reveal .footer {
+  z-index: 0 !important;
+}
+
+/*********************************************
+ * TABLES
+ *********************************************/
+
+.reveal table {
+  min-width: 100% !important;
+  border: none;
+  margin: 0;
+}
+
+caption {
+  font-style: italic !important;
+  font-weight: 300 !important;
+  margin-bottom: 10px !important;
+  text-align: left;
+}
+
+td {
+  border: none !important;
+  padding: 10px !important;
+}
+
+th {
+  border: none !important;
+  border-bottom: 2px solid $yellow !important;
+  padding: 10px !important;
+}
+
+colgroup {
+  display: none !important
+}
+
+/*********************************************
+ * FONTS
+ *********************************************/
+
+/*p, li, tb, td, .csl-entry {
+  font-weight: 300 !important;
+}*/
+
+/*********************************************
+ * LAYOUT
+ *********************************************/
+
+h2, h3 {
+  margin-bottom: 30px !important;
+}
+
+/*********************************************
+ * MENU
+ *********************************************/
+
+.reveal .slide-menu-button .fa-bars::before {
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(140, 131, 127)" class="bi bi-list" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>');
+}
+
+/*********************************************
+ * IMAGES
+ *********************************************/
+
+img {
+  max-width: 100% !important;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.reveal .slide aside {
+  font-size: 0.5em !important;
+  display: flex !important;
+  bottom: -100px !important;
+  left: 0 !important;
+  color: #3c3836 !important;
+}
+
+.reveal .slide aside p {
+    padding-right: 20px;
+}
+
+.navigate-up .controls-arrow,
+.navigate-down .controls-arrow,
+.navigate-right .controls-arrow, 
+.navigate-left .controls-arrow {
+  font-size: 5px;
+  color: #3c3836;
+}
+
+.navigate-down {
+  bottom: 0 !important;
+}
+
+/* .reveal .footer {
+  top: 18px;
+}
+
+.reveal .slide-menu-button {
+  top: 8px;
+}
+
+.reveal .slide-logo {
+  top: 0;
+} */
+
+.big-text {
+  font-size: 100px;
+  font-weight: 600;
+  text-align: center;
+  margin-top: -30px;
+}
+
+blockquote {
+  color: #3c3836 !important;
+  border-left-color: #fabd2f !important;
+}
+
+.reveal .slide ul {
+  margin-left: 40px;
+}
+
+hr {
+  height: 2px;
+  border-width: 0px;
+  background-color: #fabd2f;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.instagram-media {
+    height: 500px !important; /* Force a specific height */
+}
+
+.base-timer__path-remaining {
+  color: #fabd2f;
+}

@@ -1,0 +1,62 @@
+project:
+  type: website
+  lib-dir: site_libs
+  
+author:
+  - name: Felix Dietrich
+    affiliation: 02 507
+
+categories:
+  - "BA Befragung: Mediennutzung & -effekte KF C "
+  - "Sommersemester 2025"
+  
+lang: de
+language:
+  title-block-author-single: "Dozent"
+  title-block-affiliation-single: "Raum"
+  title-block-published: ""
+
+website:
+  site-url: https://felixdidi.github.io
+  sidebar:
+    style: "floating"
+    align: "center"
+    logo: "img/logo.png"
+    search: true
+    contents:
+      - section: "Kursinformationen"
+        contents:
+          - href: "index.qmd"
+            text: "Übersicht"
+          - href: "https://lms.uni-mainz.de"
+            text: "Moodle"
+          - href: "exercises/participation.html"
+            text: "Aktive Teilnahme"
+          - href: "exercises/term_paper.html"
+            text: "Projektbericht"
+          - href: "https://www.mediapsychology.ifp.uni-mainz.de/felix-dietrich/"
+            text: "Kontakt"
+      - section: "Materialien"
+        contents:
+          - href: "slides/slides.html"
+            text: "Folien"
+          - href: "literature.html"
+            text: "Literatur"
+
+format:
+  html:
+    toc: true
+    number-sections: false
+    smooth-scroll: true
+    footnotes-hover: true
+    code-fold: false
+  #  code-tools: true
+    code-line-numbers: true
+    highlight-style: gruvbox
+    lang: de-DE
+    link-external-newwindow: true
+theme:
+  light: [cosmo, theme.scss]
+  
+execute:
+  freeze: auto

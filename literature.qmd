@@ -1,0 +1,55 @@
+---
+title: "Literatur"
+csl: https://www.zotero.org/styles/apa
+bibliography: "bib/24-2-ia.bib"
+link-citations: false
+nocite: '@*'
+bibliography:
+  grundlagen: "bib/25-1-be-grundlagen.bib"
+  fragebogenkonstruktion: "bib/25-1-be-fragebogenkonstruktion.bib"
+  stichprobenziehung: "bib/25-1-be-stichprobenziehung.bib"
+  auswertung: "bib/25-1-be-auswertung.bib"
+  verhaltensdaten: "bib/25-1-be-verhaltensdaten.bib"
+  entertainment: "bib/25-1-be-entertainment.bib"
+
+filters:
+  - multibib
+validate-yaml: false
+# quarto add pandoc-ext/multibib
+---
+
+Anbei finden Sie als Nachschlagewerk eine Sammlung aller Literaturangaben, die im Rahmen dieses Kurses (bspw. in Übungen oder auch auf den Folien) genannt wurden oder die anderweitig (bspw. als ergänzende Literatur) für Sie relevant sein könnten.
+
+## Methoden
+
+### Grundlagen (quantitativer) Befragung
+
+::: {#refs-grundlagen}
+:::
+
+### Fragebogenkonstruktion
+
+::: {#refs-fragebogenkonstruktion}
+:::
+
+### Stichprobenziehung
+
+::: {#refs-stichprobenziehung}
+:::
+
+### Auswertung
+
+::: {#refs-auswertung}
+:::
+
+### Verhaltensdaten
+
+::: {#refs-verhaltensdaten}
+:::
+
+## Theorie
+
+### Media Entertainment
+
+::: {#refs-entertainment}
+:::

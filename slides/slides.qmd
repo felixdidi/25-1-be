@@ -1,0 +1,589 @@
+---
+title: "BA Befragung: Mediennutzung & -effekte"
+subtitle: "Mediennutzung zur Unterhaltung"
+institute: "<br><br>Johannes Gutenberg-Universität Mainz<br>BA Befragung: Mediennutzung & -effekte KF C<br>Sommersemester 2025"
+author: "Felix Dietrich"
+logo: img/logo.png
+# footer: "BA Inhaltsanalyse (CCS Track) | 24-2 | Felix Dietrich"
+bibliography: "../bib/25-1-be.bib"
+csl: https://www.zotero.org/styles/apa
+format: revealjs
+filters: 
+  - timer
+# quarto add produnis/quarto-timer
+---
+
+```{r}
+#| include: false
+
+library(tidyverse)
+```
+
+
+# Willkommen!
+
+- Sie können horizontal durch die Sitzungen und vertikal innerhalb der Sitzungen navigieren
+- Verwenden Sie die Pfeiltasten
+- Verwenden Sie "M", um das Menü zu öffnen
+- Die Kurs-Website und alle Folien finden Sie unter <https://felixdidi.github.io/25-1-be>
+- Drücken Sie `?` auf Ihrer Tastatur, um mehr darüber zu erfahren, wie Sie durch die Folien navigieren können!
+
+# Sitzung 01: Einführung & Theoretische Grundlagen
+
+<br>
+
+![](img/01/intro.jpeg){height=300px}
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+<https://felixdidi.github.io/25-1-be/>
+
+@brosiusMethodenEmpirischenKommunikationsforschung2016; @mohringBefragungMedienUnd2010; 
+:::
+
+:::aside
+Bild generiert mit FLUX.1-schnell: "A TV screen showing a male and a female working together as a black and white cartoon"
+:::
+
+## Zum Einstieg...
+
+Bitte aufschreiben... so, dass Sie diese Notizen nächste Woche noch wiederfinden können
+
+***
+
+### Wie lange benutzen Sie AM TAG YouTube?
+
+Antwort: Eine exakte, gerade Zahl in Minuten, z.B. 10 Minuten oder 84 Minuten
+
+***
+
+### Wie lange benutzen Sie IN DER WOCHE YouTube?
+
+Antwort: Eine exakte, gerade Zahl in Minuten, z.B. 10 Minuten oder 84 Minuten
+
+***
+
+### Wie häufig benutzen Sie YouTube?
+
+Antwort eine von:
+
+- nie
+- einmal in der Woche
+- mehrmals in der Woche
+- täglich
+- mehrmals täglich
+
+***
+
+### Auswertung
+
+***
+
+![](img/01/yt_nutzung_1.png)
+
+***
+
+![](img/01/yt_nutzung_2.png)
+
+## Los geht's!
+
+:::{.fragment .semi-fade-out fragment-index=1}
+
+**Welche sind die wichtigsten Fragen, die in dieser Sitzung beantwortet werden sollen?**
+
+- Worum geht es in diesem Kurs?
+- Was werde ich lernen?
+- Was werde ich tun (müssen)?
+
+:::
+
+:::{.fragment .fade-in-then-semi-out fragment-index=1}
+
+**Kurs-Website**
+
+- Verfügbar unter <https://felixdidi.github.io/25-1-be>
+- Bitte nach dieser Sitzung im Detail ansehen
+
+:::
+
+:::fragment
+
+**Kursmaterial**
+
+- Wird über die Kurs-Website (und Moodle) bereitgestellt
+- Bitte prüfen Sie, ob Sie Zugang zur Moodle-Plattform haben
+- Sie sollten automatisch zum Moodle-Kurs hinzugefügt werden
+- Wenn Sie bis Ende dieser Woche keinen Zugang haben, schreiben Sie bitte eine E-Mail
+
+:::
+
+***
+
+### Vorstellungsrunde
+
+::::columns
+:::column
+:::{.fragment .semi-fade-out fragment-index=1}
+![](img/01/fd.jpg){width="85%" style="border: 2px solid #fabd2f; margin-left: 0 !important; margin-top: -20px; margin-bottom: 30px"}
+
+**Über Felix**
+
+- Doktorand & wiss. Mitarbeiter<br>am Fachbereich Medienpsychologie<br>*JGU Mainz*
+:::
+:::
+:::column
+
+:::{.fragment .fade-in-then-semi-out fragment-index=1}
+**Meine Forschungsinteressen umfassen:**
+
+- Rezeption und Wirkung von Unterhaltungsmedien
+- Algorithmische Kuratierung von Medieninhalten
+- Digitale Autonomie & mentale Gesundheit
+- Open & Computational Communication Science
+:::
+
+:::fragment
+
+**Und Sie?**
+
+- Wie ist Ihr Name?
+- Was ist Ihr Haupt- und Nebenfach?
+- Hatten Sie im Studium schonmal Kontakt mit Forschung zu Unterhaltungsmedien? Wie groß ist Ihr Interesse an computergestützten Analysemethoden?
+
+:::
+:::
+::::
+
+## Worum geht es in diesem Kurs?
+
+***
+
+### Unterhaltungserleben: Klassische Definition
+
+:::{.fragment .semi-fade-out fragment-index=1}
+
+In der kommunikationswissenschaftlichen Unterhaltungsforschung wird Medienunterhaltung meist als **Rezeptionsphänomen** definiert:
+
+> Unterhaltung ist, was Rezipienten als unterhaltsam wahrnehmen
+>
+> @bosshartMediaEntertainment1998
+
+:::
+
+:::{.fragment .fade-in-then-semi-out fragment-index=1}
+
+Traditionell wird das Unterhaltungserleben als **angenehmer und positiver Erlebenszustand** beschrieben:
+
+> "enjoyment typically has been defined using terms associated with pleasure and measured as a positive emotional reaction to content"
+>
+> @raneyEntertainmentEnjoymentMedia2019 [S. 324]
+
+:::
+
+:::fragment
+
+Die klassischen Definitionen des Unterhaltungserlebens nehmen somit eine rein **hedonische Sichtweise** ein: Unterhaltungserleben ist das reine Vergnügen an der Medienrezeption
+
+**Problem**: Die **rein hedonische Perspektive** klassischer Unterhaltungstheorien vernachlässigt die Rezeption von Stimuli, die zunächst zu **aversiven Reaktionen** führen
+
+:::
+
+:::aside
+Bosshart, L., & Macconi, I. (1998). Media Entertainment. *Communication Research Trends, 18*(3), 3–8.
+:::
+
+:::aside
+Raney, A. A., & Bryant, J. (2019). Entertainment and Enjoyment as Media Effect. In M. B. Oliver, A. A. Raney, & J. Bryant (Hrsg.), *Media Effects: Advances in Theory and Research* (4. Aufl., S. 324–341). Routledge. https://doi.org/10.4324/9780429491146-21
+:::
+
+***
+
+### Aktuelle Ansätze zum Unterhaltungserleben: Zwei-Prozess-Modelle
+
+Neuere **Zwei-Prozess-Modelle des Unterhaltungserlebens** berücksichtigen auch die non-hedonische Seite der Medienunterhaltung
+
+:::fragment
+
+::::columns
+:::column
+<br><center>
+**Basic Psychological Needs**
+<hr></hr>
+</center>
+
+- Menschen streben nicht (nur) nach hedonischem Glück, sondern nach **psychologischem Wachstum** [Self-Determination Theory, @ryanSelfdeterminationTheoryFacilitation2000]
+- Grundlegende psych. Bedürfnisse:
+  - Kompetenz
+  - Autonomie
+  - Soziale Verbundenheit
+- Mediennutzung orientiert sich an diesen Bedürfnissen [bspw. @tamboriniMediaEnjoymentNeed2011]
+
+:::
+
+:::column
+<br><center>
+**Appreciation**
+<hr></hr>
+</center>
+- Statt Streben nach Unterhaltung, Suche nach **"Meaningful Entertainment"** [@oliverEntertainmentPleasurableMeaningful2011]
+- Form des Genusses von Medien auf höherer kognitiver Ebene
+- Wird empfunden bei:
+  - Moralischer/ästhetischer Schönheit
+  - Erinnerung an die eigene Endlichkeit und den Sinn des Lebens
+
+:::
+::::
+:::
+
+:::aside
+Oliver, M. B., & Raney, A. A. (2011). Entertainment as Pleasurable and Meaningful: Identifying Hedonic and Eudaimonic Motivations for Entertainment Consumption. *Journal of Communication, 61*(5), 984–1004. https://doi.org/10.1111/j.1460-2466.2011.01585.x
+:::
+
+:::aside
+Ryan, R. M., & Deci, E. L. (2000). Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being. *American Psychologist, 55*, 68–78.
+:::
+
+:::aside
+Tamborini, R., Grizzard, M., Bowman, N. D., Reinecke, L., Lewis, R. J., & Eden, A. (2011). Media Enjoyment as Need Satisfaction: The Contribution of Hedonic and Nonhedonic Needs. *Journal of Communication, 61*(6), 1025–1042. https://doi.org/10.1111/j.1460-2466.2011.01593.x
+:::
+
+***
+
+### Warum forschen wir dazu?
+
+:::aside
+Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials: A review of research on hedonic and eudaimonic well-being. *Annual Review of Psychology, 52*, 141–166. https://doi.org/10.1146/annurev.psych.52.1.141
+:::
+
+**Psychologisches Wohlbefinden**
+
+>"Optimal psychological functioning and experience”
+>
+> @ryanHappinessHumanPotentials2001 [p. 142]
+
+:::fragment
+
+:::columns
+:::column
+<br><center>
+**Hedonia**
+<hr></hr>
+</center>
+
+- Fokus auf Glück und Lebenszufriedenheit
+- Erreichen von Freude (positiver Affekt)
+- Schmerzvermeidung (Vermeidung von negativem Affekt)
+- Manchmal auch subjektives Wohlbefinden genannt
+:::
+
+:::column
+<br><center>
+**Eudaimonia**
+<hr></hr>
+</center>
+
+- Fokus auf volle Funktionsfähigkeit
+- Bedeutsamkeit / Sinn (Meaning)
+- Selbstverwirklichung
+:::
+::::
+
+:::
+
+***
+
+### Zwei-Kontinua-Modelle der psychischen Gesundheit
+
+im Zusammenhang mit computervermittelter Kommunikation, siehe @meierComputermediatedCommunicationSocial2021
+
+<br><div style="display: flex; flex-direction: column; align-items: center; gap: 20px;"><div style="border: 2px solid #fabd2f; border-radius: 10px; padding: 10px 40px; font-weight: bold;">Mentale Gesundheit</div><div style="display: flex; gap: 60px;"><div style="border: 2px solid #fabd2f; border-radius: 10px; padding: 20px; width: 400px;"><div style="font-weight: bold;">Psychopathologie</div><ul style="margin: 10px 0; padding-left: 20px;"><li>Psychische Erkrankung</li><li>Persönliches Leiden</li><li>Beeinträchtigung der Lebensfunktionen</li><li>Dysfunktion</li></ul></div><div style="display: flex; flex-direction: column; border: 2px solid #fabd2f; border-radius: 10px; padding: 20px; width: 400px;"><div style="font-weight: bold;">Psychologisches Wohlbefinden</div><ul style="margin: 10px 0; padding-left: 20px;"><li>Glück und Lebenszufriedenheit</li><li>Persönliches Wachstum</li><li>Entfaltung und Lebensqualität</li></ul><div style="display: flex; gap: 20px; margin-top: 10px; justify-content: center; width: 100%;"><div style="border: 2px solid #fabd2f; border-radius: 10px; padding: 10px 20px; font-weight: bold;">Hedonia</div><div style="border: 2px solid #fabd2f; border-radius: 10px; padding: 10px 20px; font-weight: bold;">Eudaimonia</div></div></div></div></div><br>
+
+:::aside
+Meier, A., & Reinecke, L. (2021). Computer-mediated communication, social media, and mental health: A conceptual and empirical meta-review. *Communication Research, 48*(8), 1182–1209. https://doi.org/10.1177/0093650220958224
+:::
+
+***
+
+### Woher wissen wir, ob das alles stimmt? Wie können wir das überprüfen?
+
+***
+
+### Empirische Wissenschaft
+
+- Empirische Wissenschaft ist die **systematische, intersubjektiv nachprüfbare** Sammlung, Kontrolle und Kritik von Erfahrungen
+- Den Ausgangspunkt der Forschung bildet eine Frage, eine **Vorstellung bzw. Vermutung über reale Sachverhalte**, also etwas Gedachtes, ein Begriff bzw. ein Problem
+- Es folgt der Versuch einer theoretischen Erklärung in Form von **Hypothesen oder Theorien**
+- Im dritten Schritt sind dann diese theoretischen Erklärungsversuche durch den **Einsatz bestimmter Methoden** zu überprüfen, indem sie an konkreten, erfahrbaren Sachverhalten getestet werden
+- Ziel empirischer Forschung ist: (a) **Beschreibung**, (b) **Erklärung** und/oder (c) **Prognose**
+
+@fruhInhaltsanalyseTheorieUnd2001 [S. 19]
+
+:::aside
+Früh, W. (2001). *Inhaltsanalyse: Theorie Und Praxis* (5., überarb. Aufl.). UVK Verl.-Ges.
+:::
+
+***
+
+### Ablaufplan: Von der Idee zur Antwort
+
+![](img/01/ablaufplan.png)
+
+***
+
+### Methoden der Kommunikationswissenschaft
+
+![](img/01/methoden.png){height=500}
+
+@brosiusMethodenEmpirischenKommunikationsforschung2016
+
+:::aside
+Brosius, H.-B., Haas, A., & Koschel, F. (2016). *Methoden der empirischen Kommunikationsforschung: Eine Einführung* (7. Aufl.). VS Verlag für Sozialwissenschaften.
+:::
+
+***
+
+### Definitionen quantitative Befragung
+
+> "Die nebeneinander gebrauchten Begriffe Umfrageforschung und Demoskopie bezeichnen eine statistisch-psychologische Untersuchungsmethode, mit der gesellschaftliche Massenerscheinungen beobachtet und analysiert werden können."
+> 
+> @noelle-neumannAlleNichtJeder2005 [S. 619]
+
+
+> "Die standardisierte Befragung ist eine besondere Form der geplanten Kommunikation, die auf einem Fragebogen basiert. Ihr Ziel ist es, zahlreiche individuelle Antworten zu generieren, die in ihrer Gesamtheit zur Klärung einer Fragestellung beitragen."
+>
+> @mohringBefragungMedienUnd2010 [S. 14]
+
+:::aside
+Möhring, W., & Schlütz, D. (2010). *Die Befragung in der Medien- und Kommunikationswissenschaft: Eine praxisorientierte Einführung* (2. Aufl.). VS Verlag für Sozialwissenschaften.
+:::
+
+:::aside
+Noelle-Neumann, E., & Petersen, T. (2005). *Alle, nicht jeder: Einführung in die Methoden der Demoskopie* (4. Aufl.). Springer.
+:::
+
+***
+
+### Befragungsmodi
+
+![](img/01/befragungsmodi.png)
+
+***
+
+### Entscheidung für einen Modus
+
+Welcher Befragungsmodus besser geeignet ist, hängt davon ab...
+
+- was das Befragungsziel ist,
+- wer befragt werden soll und welcher Grad an Repräsentativität erforderlich ist,
+- was das Befragungsthema ist,
+- wie schnell es gehen muss,
+- wie viel Geld und Ressourcen man zur Verfügung hat
+
+## Was werde ich lernen?
+
+***
+
+### Was werde ich lernen?
+
+:::{.fragment .semi-fade-out fragment-index=1}
+
+**Expertise**
+
+- Forschung zur digitalen Mediennutzung, Fokus auf Unterhaltungsmediennutzung
+- Kompetenz zum kritischen Umgang mit Forschungsergebnissen, besonders Befragungen
+
+:::
+
+:::{.fragment .fade-in-then-semi-out fragment-index=1}
+
+**Methodische Kompetenz**
+
+- Entwicklung empirischer Forschungsdesigns als Befragungsdesign (Schwerpunkt **Computational Communication Science**)
+- Durchführung und Dokumentation von **Datenanalyse** und Reflexion der methodischen Grenzen
+
+:::
+
+:::fragment
+
+**Persönliche Kompetenz**
+
+- **Problemlösungskompetenz** bei forschungsorientierten Aufgaben
+- **Übertragung** des Wissens auf ähnliche Fragestellungen
+
+:::
+
+## Was muss ich tun?
+
+***
+
+### Was muss ich tun?
+
+:::{.fragment .semi-fade-out fragment-index=1}
+
+**Seminar-Sitzungen**
+
+- Nehmen Sie an den Seminar-Sitzungen teil
+
+:::
+
+:::{.fragment .fade-in-then-semi-out fragment-index=1}
+
+**Leseaufgaben & Lernvideos (siehe "Vorbereitung" im Seminarplan)**
+
+- Lesen Sie die bereitgestellte Literatur, um sich auf eine Seminar-Sitzung vorzubereiten
+- Orientieren Sie sich bei der Lektüre an den Fragen, die am Ende der letzten Sitzung gestellt wurden
+- Schauen Sie die bereitgestellten Lernvideos und stellen Sie Fragen dazu
+
+:::
+
+:::fragment
+
+**Wie man liest und wie man *nicht* lesen sollte?**
+
+- Lesen Sie wissenschaftliche Literatur nicht wie einen Roman
+- Beginnen Sie mit Titel, Zusammenfassung und Zwischenüberschriften, um einen ersten Eindruck zu gewinnen
+- Wenn Sie digital lesen, suchen Sie nach Schlüsselwörtern
+- Überlegen Sie: "Was will ich von diesem Text?"
+- Beantworten Sie Ihre eigenen Fragen (ich werde auch einige stellen)
+
+:::
+  
+***
+
+### Was muss ich tun?
+
+**Keine Anwesenheitspflicht bedeutet...**
+
+- Sie erhalten alle grundlegenden Informationen im LMS und auf der Kurswebseite
+- Sie können viele Kursinhalte **selbständig vor- und nachbereiten**
+- Ein Teil der Aufgaben wird auf nicht-Präsenz-Zeiten verlagert
+- Sie sind **selbst verantwortlich**, alle Inhalte aufzunehmen und alle zentralen Abgaben/Aufgaben/Voraussetzungen für die aktive Teilnahme zu erfüllen/im Blick zu behalten
+- Wenn Sie nicht anwesend sind, es aber Gruppenarbeiten gibt, sind Sie selbst dafür verantwortlich, sich im Sinne der Gruppe einzubringen
+- Gerade bei empirischen Kursen gibt es viele essenzielle Sitzungen, die direkt an den Erfolg in diesem Kurs geknüpft sind, d.h. kein Abschlussbericht ohne regelmäßige Anwesenheit oder sehr hohes Maß an eigenständiger
+Nachbereitung
+
+***
+
+### Was muss ich tun?
+
+:::{.fragment .semi-fade-out fragment-index=1}
+
+**Arbeit in den Arbeitsgruppen**
+
+- Gruppenarbeit im Seminar: ca. 4 Studierende pro Gruppe  
+- Maximal 5 Arbeitsgruppen im Seminar  
+- Prinzip: **"Learning by doing"**
+- Studierende sammeln praktische Erfahrungen in Arbeitsgruppen (AGs)  
+- Austausch mit anderen AGs: Kennenlernen von Methoden, Themen und Arbeitsweisen  
+- Feedback geben und erhalten: zur eigenen und zu anderer AG-Arbeit
+:::
+
+:::{.fragment fragment-index=1}
+
+**Diverse Aufgaben (nicht benotet)**
+
+- Dienen dem Projektfortschritt und sind von allen Kursteilnehmer:innen zu erbringen
+  
+:::
+
+***
+
+### Was muss ich tun?
+
+| Anforderung                                                                                         | Abgabe                   | Deadline                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| Aktive Teilnahme an Diskussionen und Gruppenarbeiten im Kurs                                       |                          | Fortlaufend                                                              |
+| Sitzungsvorbereitung durch Literatur-Lektüre & -Recherche                                          |                          | Fortlaufend                                                              |
+| Einreichen von jeweils einer Verständnis- oder Diskussionsfrage zu den Videos                      | E-Mail an den Dozenten   | Dienstag vor der jeweiligen Sitzung (22.04. & 06.05.), 23:59 Uhr         |
+| Individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt | E-Mail an den Dozenten   | Sonntag, 27.04., 23:59 Uhr                                               |
+| Individuelle Abgabe einer überarbeiteten Problemstellung/übergeordneten Frage für das Forschungsprojekt | E-Mail an den Dozenten   | Sonntag, 11.05., 23:59 Uhr                                               |
+
+***
+
+### Was muss ich tun?
+
+| Anforderung                                                                                         | Abgabe                   | Deadline                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| Gruppen-Abgabe eines Proposals für das Forschungsprojekt                                           | E-Mail an den Dozenten   | Sonntag, 18.05., 23:59 Uhr                                               |
+| Gruppen-Abgabe der (vorläufigen) Präregistrierung für das Forschungsprojekt                        | E-Mail an den Dozenten   | Sonntag, 18.05., 23:59 Uhr                                               |
+| Pretest des Fragebogens & Rekrutierung von Studienteilnehmenden                                   |                          | Donnerstag, 05.06., 16:15 Uhr                                            |
+| Abschlusspräsentation                                                                              | E-Mail an den Dozenten   | Abgabe Dienstag, 15.07., 23:59 Uhr, Präsentation Donnerstag, 17.07., 16:15 Uhr |
+
+***
+
+### Was muss ich tun?
+
+**Benotete Leistung ("Prüfungsleistung")**
+
+- Informationen auf der Kurswebsite & in der letzten Sitzung
+
+***
+
+### Seminarübersicht
+
+*Theoretische Grundlagen & Empirische Umsetzung*
+
+| Datum      | Thema                                                | Ziele         |
+|------------|------------------------------------------------------|---------------|
+| 17.04.25   | Einführung, Organisation & Theoretische Grundlagen   |               |
+| 24.04.25   | Digitale Verhaltensdaten*                            |               |
+| 01.05.25   | Keine Sitzung: Feiertag                              |               |
+| 08.05.25   | Situative Befragungsdesigns*                         |               |
+| 15.05.25   | Open Science                                         |               |
+| 22.05.25   | Projekt-Sitzung                                      | Präregistrierung|
+| 29.05.25   | Keine Sitzung: Feiertag                              | Pretest       |
+| 05.06.25   | Projekt-Sitzung                                      | Fragebogen    |
+| 12.06.25   | Keine Sitzung: Dienstreise                           | Feldphase     |
+| 19.06.25   | Keine Sitzung: Feiertag                              | Feldphase     |
+
+***
+
+### Seminarübersicht
+
+*Auswertung & Aufbereitung*
+
+| Datum      | Thema                                                | Ziele         |
+|------------|------------------------------------------------------|---------------|
+| 26.06.25   | Datenaufbereitung*                                   |               |
+| 03.07.25   | Hypothesentests                                      |               |
+| 10.07.25   | Projekt-Sitzung                                      |               |
+| 17.07.25   | Semesterabschluss und Informationen zum Projektbericht| Projekt-Präsentation|
+| 01.09.25   | Einreichungsfrist für Hausarbeiten                   |               |
+
+<br><br>Hinweis: Die Seminarstruktur kann an die individuellen Bedürfnisse und Interessen der Projektgruppen angepasst werden. Sitzungen, die mit einem Sternchen markiert sind, qualifizieren anteilig für den Computional Methods Track.
+
+***
+
+### Allgemeine Literatur
+
+Siehe Kurswebseite
+
+***
+
+:::big-text
+Soweit Fragen?
+:::
+
+<br><br>
+
+:::center-text
+<https://felixdidi.github.io/25-1-be>
+:::
+
+***
+
+:::big-text
+Vorbereitung auf die kommende Sitzung
+:::
+
+<br><br>
+
+:::center-text
+Siehe Vorbereitung Sitzung 2:
+
+Lernvideos anschauen, Fragen einreichen, Literatur lesen, YouTube Takeout-Daten anfragen
+:::
+
+# Literaturangaben

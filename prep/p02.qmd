@@ -1,0 +1,52 @@
+---
+title: "Wöchentliche Vorbereitung auf die Seminar-Sitzung"
+csl: https://www.zotero.org/styles/apa-cv
+bibliography: "../bib/25-1-be.bib"
+suppress-bibliography: true
+link-citations: false
+---
+
+## Lernvideos
+
+Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die beiden **Videos 1 (Befragungsdesigns) und 2 (Theoretische Konzeption & Forschungsinteresse)** an. Senden Sie bis spätestens Dienstag, 22.04., 23:59 **pro Video eine Verständnisfrage und eine Diskussionsfrage** zu den im Video vorgestellten Inhalten an den Dozenten.
+
+## Leseaufgabe
+
+Um sich auf die nächste Sitzung vorzubereiten, **lesen Sie bitte die folgenden Paper** (PDFs im LMS):
+
+**Verpflichtende Lektüre:**
+
+- @posslerThereEasyPath2025
+- @bhandariWhysEveryoneTikTok2022
+- @egScopingReviewPersonalized2023
+
+
+Machen Sie sich während der Lektüre **Notizen zu den folgenden Fragen**. Sie sollten in der Lage sein, diese **Fragen in der Sitzung soweit es geht zu beantworten** und **mit Ihren Kommiliton:innen darüber zu diskutieren**. Aber: Die Texte sind nicht unbedingt einfach zu verstehen. Es ist nicht schlimm, wenn Sie nicht alles direkt verstehen. Notieren Sie sich Fragen zu Aspekten, die Ihnen unklar geblieben sind.
+
+- Inwiefern beeinflussen Personalisierung und algorithmisches Design nicht nur, was wir sehen, sondern auch, was wir bei der Rezeption fühlen und welche Effekte die Mediennutzung hat?
+- Wie wirken sich das Verhalten der Nutzer:innen und ihr Bewusstsein für Algorithmen auf das Erleben und die Wirkung personalisierter Inhalte in sozialen Medien aus?
+- Inwiefern ist der Algoroithmus auf TikTok einzigartig im Vergleich zu Plattformen wie Instagram oder YouTube? Wo gibt es Gemeinsamkeiten?
+- Wie hinterfragt die Studie von Possler et al. etablierte Zweiprozessmodelle von hedonischem versus eudaimonischem Unterhaltungserleben?
+- Welche Bedeutung hat das Konzept der „Meaning Detection“ für das Verständnis moderner Mediennutzung, insbesondere im Kontext algorithmisch-kuratierter Inhalte?
+
+**Ergänzende Literatur:**
+
+Scrollen Sie darüber hinaus auch einmal durch die [Liste mit ergänzender Literatur](../literature.html) und prüfen Sie, welche Themenbereiche (insbesondere aus theoretischer Perspektive) Sie ansprechen.
+
+## Anfrage YouTube Takeout Daten
+
+Sofern Sie einen YouTube-Account / ein Google-Konto besitzen, fragen Sie bitte bis zur nächsten Sitzung Ihre YouTube-Nutzungsdaten als TakeOut an. Keine Sorge: Sie müssen/werden diese Daten mit niemandem teilen!
+
+1. Rufen Sie die Adresse [takeout.google.com](https://takeout.google.com) auf und melden Sie sich, sofern nicht bereits geschehen, mit Ihrem Google-Account an, der Ihrem YouTube-Konto zugeordnet ist.
+2. Wählen Sie unter "Neuen Export erstellen", sofern dort zurzeit alle Produkte markiert sind, die Option "Auswahl aufheben", um bei allen Produkten den Haken zu entfernen.
+3. Scrollen Sie in der Liste der Produkte weit nach unten bis Sie "YouTube und YouTube Music" finden (die Liste ist alphabetisch sortiert). 
+4. Setzen Sie nur bei diesem Produkt ("YouTube und YouTube Music") einen Haken.
+5. Wählen Sie anschließend den darunter befindlichen linken Button auf dem (vermutlich) "Mehrere Formate" steht. Ändern Sie bei "Verlauf" die Option von "HTML" auf "JSON" und bestätigen Sie mit "OK". Auf dem Button sollte nun "JSON-Format" stehen.
+6. Auf dem rechten Button steht (vermutlich) standardmäßig "Alle YouTube Daten eingeschlossen". Dies können Sie so belassen (dann können Sie sich alle Daten ansehen, die Google auf YouTube über Sie gesammelt hat). Wenn Sie möchten, können Sie jedoch auch einzelne Datenpunkte abwählen, die Sie als zu sensibel betrachten.
+7. Wählen Sie am Seitenende den Button "Nächster Schritt".
+8. Wählen Sie, wie Sie die Daten empfangen wollen. Ich empfehle hier "Download-Link per E-Mail senden". Wählen Sie außerdem bei Häufigkeit "Einmal exportieren" und bei Dateityp "ZIP". Die angegebene Dateigröße ist i.d.R. irrelevant, diese können Sie bei der Standardeinstellung belassen.
+9. Wählen Sie den Button "Export erstellen".
+10. Normalerweise dauert der Datenexport, sofern Sie nur YouTube ausgewählt haben, nur wenige Sekunden. Warten Sie 20-30 Sekunden und laden Sie dann die Seite neu. Nun sollten Sie oben auf der Seite bei "Ihr letzer Export" einen Button zum "Herunterladen" der Daten finden. Wählen Sie diesen aus und laden Sie die Daten herunter. Speichern Sie sie auf Ihrem Computer an einem sicheren Ort ab.
+11. Sollte der Daten-Export unerwartet doch länger dauern, erhalten Sie eine E-Mail an Ihre Google-Mail Adresse ([mail.google.com](https://mail.google.com)), sobald der Download bereitsteht. Laden Sie die Daten dann über den dort bereitgestellten Link herunter.
+
+Bringen Sie die Daten auf Ihrem Computer zur nächsten Sitzung mit. Wenn Sie möchten, können Sie die `.zip`-Datei bereits entpacken und sich ein wenig durch die Daten klicken um herauszufinden, was alles im Data-Takeout enthalten ist.
