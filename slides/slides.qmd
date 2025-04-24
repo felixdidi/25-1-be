@@ -586,4 +586,441 @@ Siehe Vorbereitung Sitzung 2:
 Lernvideos anschauen, Fragen einreichen, Literatur lesen, YouTube Takeout-Daten anfragen
 :::
 
+# Sitzung 02: Digitale Verhaltensdaten
+
+<br>
+
+![](img/02/traces.jpeg){height=300px}
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@lazerMeaningfulMeasuresHuman2021; @ohmeDigitalTraceData2024; @stierIntegratingSurveyData2020
+:::
+
+:::aside
+Bild generiert mit FLUX.1-schnell: "A TV screen showing multiple people walking around and leaving footsteps on the ground as a black and white cartoon"
+:::
+
+## Agenda
+
+- **Befragung**: Recap
+  - Video 1 (Befragungsdesigns)
+  - Video 2 (Theoretische Konzeption & Forschungsinteresse)
+- **CCS**: Digitale Verhaltensdaten
+- **Forschungsprojekt**: Ideen "Speed-Dating"
+
+***
+
+### Seminarübersicht & anstehende Deadlines
+
+| Datum      | Thema                                                | Ziele         |
+|------------|------------------------------------------------------|---------------|
+| 17.04.25   | Einführung, Organisation & Theoretische Grundlagen   |               |
+| 24.04.25   | Digitale Verhaltensdaten*                            |               |
+| 01.05.25   | Keine Sitzung: Feiertag                              |               |
+| 08.05.25   | Situative Befragungsdesigns*                         |               |
+
+<br>
+
+| Anforderung                                                                                         | Abgabe                   | Deadline                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| Einreichen von jeweils einer Verständnis- oder Diskussionsfrage zu den Videos                      | E-Mail an den Dozenten   | Dienstag vor der jeweiligen Sitzung (22.04. & 06.05.), 23:59 Uhr         |
+| Individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt | E-Mail an den Dozenten   | Sonntag, 27.04., 23:59 Uhr                                               |
+
+## Befragungsdesigns
+
+:::incremental
+- Wozu brauchen wir Split-Ballot Befragungen?
+- Wie verhält es sich mit Panelbefragungen und Kausalität?
+- Warum machen wir nicht immer (intensive) Längsschnittbefragungen?
+  - Kosten
+  - Panelmortalität
+- Ab welchem Grad der Manipulation kann von einem experimentellen Befragungsdesign gesprochen werden?
+:::
+
+***
+
+### Bitte schalten Sie auch das nächste Mal wieder ein, wenn es heißt...
+
+- Wie wähle ich das richte Befragungsdesign aus?
+- Fragenformulierung / Fragebogenaufbau
+- Besonderheiten von intensiven Längsschnittdesigns
+- Vermeidung von fragwürdigen Forschungspraktiken
+- Auswertung / Hypothesenprüfung
+
+## Theoretische Konzeption & Forschungsinteresse
+
+:::incremental
+- Macht es Sinn eine ungerichtete Recherche durchzuführen? Kostet das nicht zu viel Zeit?
+- Kann man Unterschiedshypothesen mit Befragungen ohne Experimentaldesign überprüfen?
+- Was genau ist der Unterschied zwischen einer konfirmatorischen Befragungshypothese und einer explorativen Forschungsfrage?
+- Was sind Richtlinien für ethische Befragungsstudien?
+  - [DGPuK](https://www.dgpuk.de/sites/default/files/Ethik-Kodex-der-DGPuK-vom-13.-Mai-2015-zuletzt-geändert-am-31.-März-2017_0.pdf), [DGPs (insb. Kap. 7)](https://www.dgps.de/fileadmin/user_upload/PDF/Berufsetische_Richtlinien/BER-Foederation-20230426-Web-1.pdf)
+- Was ist der Unterschied zwischen einer "Theorie", einem "Ansatz" und dem "Theoretischen Konzept/Konstrukt"?
+:::
+
+***
+
+:::big-text
+Noch Fragen?
+:::
+
+## CCS & Digitale Verhaltensdaten
+
+**Vergleichen Sie Ihre in der letzten Woche notierte Bildschirmzeit mit den Angaben in der "Screentime"-Rubrik Ihres Smartphones**
+
+- Wie groß sind die Abweichungen vom geschätzten Wert?
+- Wie lassen sich Abweichungen erklären?
+
+***
+
+### Die Grenzen von Selbstauskunft
+
+::: {.columns}
+::: {.column}
+- Selbstauskünfte für kleinteilige und stark fragmentierte Mediennutzung werden vermehrt als **verzerrt** identifiziert
+  - Über- vs. Unterschätzen von Bildschirmzeit an PCs und Mobiltelefonen
+  - **Biases** wie soziale Erwünschtheit, und/oder verfälschtes **Erinnerungsvermögen** (= "Recall Bias")
+- Verzerrungen werden im Kontrast zu aufgezeichneten digitalen Daten sichtbar
+
+z.B. @scharkowAccuracySelfreportedInternet2016
+:::
+::: {.column}
+![](img/02/scharkow_2016.png)
+:::
+:::
+
+:::aside
+Scharkow, M. (2016). The accuracy of self-reported internet use: A validation study using client log data. *Communication Methods and Measures, 10*(1), 13–27. https://doi.org/10/gdvnnw
+:::
+
+***
+
+### Sinnvolle Fragen & CCS
+
+:::aside
+Jungherr, A., & Theocharis, Y. (2017). The empiricist’s challenge: Asking meaningful questions in political science in the age of big data. *Journal of Information Technology & Politics, 14*(2), 97–109. <https://doi.org/10.1080/19331681.2017.1312187>
+:::
+
+basierend auf @jungherrEmpiricistsChallengeAsking2017
+
+1. Nutzung neuer Daten, um bestehende Theorien zu überprüfen, aber vor allem, um neue Theorien zu entwickeln, die auf **neuen Erkenntnissen** beruhen, die mit den bisherigen Forschungsinstrumenten nicht hätten gewonnen werden können
+2. Entwicklung neuer Konzepte und Messmethoden, die uns in Kombination dabei helfen können, besser zu verstehen, wie die von dieser neuen Datenquelle erfassten Einstellungen und Verhaltensweisen nicht nur auf größere Phänomene, sondern auch auf unser bestehendes Verständnis abgebildet werden, wodurch klarer wird, **welche Schlüsse wir bei der Untersuchung komplexer sozialer und politischer Prozesse ziehen können - und welche nicht**.
+3. Unsere erkenntnistheoretischen Instrumente und Methoden neu bewerten und durch interdisziplinäre Zusammenarbeit neu abstimmen, so dass sie **synergisieren**, anstatt miteinander zu konkurrieren
+4. Sicherstellen, dass das gesamte Forschungsprogramm im Einklang mit **wissenschaftlichen Werten, Ethik und Praktiken** steht
+
+***
+
+### Zugang zu digitalen Verhaltensdaten
+
+- **Aufdringliche** vs. **unaufdringliche** Datenerhebungen unterscheiden sich anhand des Aufwandes, den die Teilnehmer:innen aufwenden müssen, um die Daten bereitzustellen
+- **Plattformzentrierte** vs. **nutzer:innenzentrierte** Ansätze unterscheiden sich anhand der Einwilligungsmöglichkeit der Teilnehmer:innen
+- Bewertung und Erwartung an Datensammlung ist abhängig
+  - von der Plattform/Webseite/App, von der man die digitalen Verhaltensdaten sammeln möchte sowie
+  - von der Methode der Erhebung digitaler Verhaltensdaten
+
+***
+
+### Zugang zu digitalen Verhaltensdaten
+
+**Scraping**
+
+- **Unauthorisiertes Scraping**:
+  - "automatically extracting the content of web pages" [@freelonComputationalResearchPostAPI2018, S. 666]
+  - fortgeschrittene Kenntnisse notwendig
+  - fehleranfällig und fragil
+- **Authorisiertes Scraping** mit APIs (application programming interfaces):
+  - "essentially platform-specific pipelines for obtaining machine-readable digital data" [@ohmeDigitalTraceData2024, S. 127]
+  - API-Zugriff = kontrolliertes Scraping mit bereitgestelltem "Schlüssel"
+  - Nur öffentliche Nutzungsdaten verfügbar
+- We are living in an APIpocalypse [z.B. @freelonComputationalResearchPostAPI2018]
+
+:::aside
+Freelon, D. (2018). Computational research in the post-API age. *Political Communication, 35*(4), 665–668. https://doi.org/10/gfs6ng
+:::
+
+:::aside
+Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., & and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### Zugang zu digitalen Verhaltensdaten
+
+**Datenspenden (Data Donations)**
+
+- "A user-centric approach in which research participants donate their existing DTD [digital trace data] to researchers" [@ohmeDigitalTraceData2024, S. 128]
+  - Durch Regelungen der DSGVO, Artikel 15.1 haben alle Nutzenden das Recht, auf Ihre persönlichen Daten auf einer Plattform zuzugreifen
+  - In der Realität machen es die Unternehmen ihren Nutzenden nicht gerade einfach, an diese Daten zu gelangen und diese leicht verständlich zu lesen
+  - Akademische Forschung versucht Workflows zu etablieren, um den Download von Datenspenden für die Wissenschaft zu erleichtern
+
+:::aside
+Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., & and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### Zugang zu digitalen Verhaltensdaten
+
+**Tracking**
+
+- "A user-centric method approach in which behavioral information is automatically captured, most often from individuals and in close temporal succession to the actual behavior, with the help of clientside tracking software" [@ohmeDigitalTraceData2024, S. 128-129]
+- Formen des Trackings [Auswahl, @christnerAutomatedTrackingApproaches2022]
+  - Smartphone Logs, um besuchte URLs im Web aufzuzeichnen oder das Öffnen und Schließen von Apps (z.B. ESM-Apps)
+  - Browser-Erweiterungen, um besuchte URLs und Inhalte zu sehen, die im jeweiligen Browser angesehen wurden
+  - Screencapture/Screenomics, für In-App Browsing Inhalte
+  - Auch: Screenrecordings als Work-around
+
+:::aside
+Christner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated tracking approaches for studying online media use: A critical review and recommendations. *Communication Methods and Measures, 16*(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841
+:::
+
+:::aside
+Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., & and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+
+***
+
+### Potenziale und Herausforderungen
+
+::: {.columns}
+::: {.column width="66%"}
+- Welche Potenziale und welche Herausforderungen sehen Sie in Bezug auf digitale Verhaltensdaten?
+- Besprechen Sie sich zu zweit oder zu dritt zu diesen Fragen. Nach sieben Minuten sammeln wir Ihre Antworten im Plenum.
+:::
+:::{.column width="33%"}
+:::{.timer #ccs-herausforderungen seconds=420 starton=interaction}
+:::
+:::
+:::
+
+## Übersicht: Digitale Verhaltensdaten
+
+***
+
+### Potenziale digitaler Verhaltensdaten
+
+- Daten werden in **großen Mengen** und **hoher Geschwindigkeit** generiert
+- **Direkte Erfassung** von (Online-)Verhalten
+- Je nach Zugang **ggf. geringere Kosten** als Befragungen
+- Einsatz besonders vorteilhaft bei Themen bzw. Untersuchungen...
+  - ...für die es schwierig ist, Studienteilnehmer:innen zu rekrutieren
+  - ...bei denen Beobachtungen vorteilhafter sind als Befragungen
+
+  :::aside
+Freelon, D. (2018). Computational research in the post-API age. *Political Communication, 35*(4), 665–668. https://doi.org/10/gfs6ng
+:::
+
+:::aside
+Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful measures of human society in the twenty-first century. *Nature, 595*(7866), 189–196. https://doi.org/10/gkzp4x
+:::
+
+:::aside
+Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. *Frontiers in Big Data*, 2. https://doi.org/10/ggcxgj
+:::
+
+:::aside
+Sen, I., Flöck, F., Weller, K., Weiß, B., & Wagner, C. (2021). A total error framework for digital traces of human behavior on online platforms. *Public Opinion Quarterly, 85*(S1), 399–422. https://doi.org/10/gmx62w
+:::
+
+siehe auch @freelonComputationalResearchPostAPI2018; @lazerMeaningfulMeasuresHuman2021; @olteanuSocialDataBiases2019; @senTotalErrorFramework2021
+
+***
+
+### Herausforderungen digitaler Verhaltensdaten
+
+**Methodisch/forschungspraktisch**
+
+- "New digital divides" [@mahrtValueBigData2013] & diverse Biases [@senTotalErrorFramework2021]
+  - z.B. durch Plattform-Algorithmen
+  - Über wen kann ich durch die jeweiligen digitalen Verhaltensdaten Aussagen treffen?
+- Sehr große und oft zunächst schwer durchschaubare Datensätze: **Know-how notwendig!**
+- Messung psychologischer Variablen (Kognitionen, Emotionen oder Einstellungen) nur eingeschränkt möglich (**nur sichtbare Verhaltensspuren**)
+- Kaum bis **keine Informationen über mediale Offline-Aktivitäten**
+- Datenzugang von Unwägbarkeiten und **Unsicherheiten** geprägt und oft vom „Goodwill“ großer Konzerne abhängig (v.a. im Falle von APIs)
+- Geringe Reproduzierbarkeit, Unvollständigkeit, oft auch Ambiguität in den Meta-Daten
+
+:::aside
+Freelon, D. (2018). Computational research in the post-API age. *Political Communication, 35*(4), 665–668. https://doi.org/10/gfs6ng
+:::
+
+:::aside
+Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful measures of human society in the twenty-first century. *Nature, 595*(7866), 189–196. https://doi.org/10/gkzp4x
+:::
+
+:::aside
+Mahrt, M., & Scharkow, M. (2013). The value of big data in digital media research. *Journal of Broadcasting & Electronic Media, 57*(1), 20–33. https://doi.org/10.1080/08838151.2012.761700
+:::
+
+:::aside
+Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. *Frontiers in Big Data*, 2. https://doi.org/10/ggcxgj
+:::
+
+:::aside
+Sen, I., Flöck, F., Weller, K., Weiß, B., & Wagner, C. (2021). A total error framework for digital traces of human behavior on online platforms. *Public Opinion Quarterly, 85*(S1), 399–422. https://doi.org/10/gmx62w
+:::
+
+siehe auch @freelonComputationalResearchPostAPI2018; @lazerMeaningfulMeasuresHuman2021; @olteanuSocialDataBiases2019; @senTotalErrorFramework2021
+
+***
+
+### Herausforderungen digitaler Verhaltensdaten
+
+**Rechtliche und ethische Herausforderungen**
+
+- Schutz der Privatsphäre von Nutzenden durch Anonymität/Pseudonymität
+  - große Datensätze ≠ anonyme Datensätze
+  - Implikationen für Open Science: Teilen von Daten nur möglich, wenn sie so anonymisiert sind, dass sie nicht von Dritten missbraucht, zweckentfremdet oder de-anonymisiert werden können
+  - Beispiel: Ein einzelner Kommentar unter einem Tweet, der mit einer TweetURL im Datensatz hinterlegt ist, kann auf den Absender zurückverfolgt werden, sofern der Tweet öffentlich und noch online ist
+
+Daher: Prüfung der Vorteile und Risiken durch Forschung für Nutzende strikt abwägen, **Datensparsamkeit** (nur das erheben, was wirklich notwendig ist), ggf. beim Teilen der Daten aggregieren
+
+siehe auch @olteanuSocialDataBiases2019; @vanatteveldtTroubleSharingYour2021
+
+:::aside
+Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. *Frontiers in Big Data*, 2. https://doi.org/10/ggcxgj
+:::
+
+:::aside
+Van Atteveldt, W., Althaus ,Scott, & and Wessler, H. (2021). The trouble with sharing your privates: Pursuing ethical open science and collaborative research across national jurisdictions using sensitive data. *Political Communication*, 38(1–2), 192–198. https://doi.org/10/g9ghxq
+:::
+
+***
+
+### Digitale Verhaltensdaten [@ohmeDigitalTraceData2024]
+
+|  | API Data | Data Donations | Tracking |
+|---|---|---|---|
+| User- vs. platform centrality | Platform | User | User |
+| Definition | Official data pipelines that offer different data types depending on the platform | Donation of existing digital traces with informed consent | Client-side tracking software that is installed with informed consent |
+| Time frame of collected data | Retrospective | Retrospective (collects existing digital trace data) | Prospective (tracks digital traces as they are produced) |
+| Consent of participants | No | Yes | Yes |
+| Type of user involvement | None | Donate existing data to science | Generate data for science |
+
+<br>
+
+:::aside
+Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### Digitale Verhaltensdaten [@ohmeDigitalTraceData2024]
+
+|  | API Data | Data Donations | Tracking |
+|---|---|---|---|
+| Potential for reactivity/social desirability biases | Low | Low | Medium to high |
+| Reliance on third-party platform | High | Medium | Low to Medium (No, if researcher-developed) |
+| Transparency to review DTD by user | Low | High | Medium |
+| Level of gathered content | (Mostly) Aggregate-level data | Individual-level data | Individual-level data |
+
+<br>
+
+:::aside
+Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### Digitale Verhaltensdaten [@ohmeDigitalTraceData2024]
+
+|  | API Data | Data Donations | Tracking |
+|---|---|---|---|
+| Types of data | Includes published and public data from digital platforms | Includes non- or semi-public user data and data not visible to user (e.g., profiling, etc.) | Includes (mostly nonpublic) behavioral sequence data (e.g., click streams, screenshots, etc.) |
+| Measurement unit | User Content | Account | Device |
+| Predictability of content included in collected data | High | Medium | Low |
+| Privacy risks in the collection of personally identifiable information | Medium to high | High | Very high |
+
+<br>
+
+:::aside
+Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### Digitale Verhaltensdaten [@ohmeDigitalTraceData2024]
+
+|  | API Data | Data Donations | Tracking |
+|---|---|---|---|
+| Examples | ~~Twitter Academic API, Crowdtangle (for Facebook and Instagram)~~ | OSD2F, PORT, Webhistorian, PIEGraph | Screenomics-App, ScreenLife-AppCommercial companies such as Netquest and Comscore |
+
+Für Google API, siehe heutige Übungsaufgabe
+
+Für Data Donations, siehe z.B.: <https://datadonation.eu>
+
+Für Screenomics, siehe z.B.: <https://screenomics.stanford.edu>
+
+<br>
+
+:::aside
+Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. *Communication Methods and Measures, 18*(2), 124–141. https://doi.org/10/gs53z3
+:::
+
+***
+
+### "The Human Screenome"
+
+{{< video https://screenomics.stanford.edu/wp-content/uploads/2024/11/ScreenomeSampleforPublic_2020_0127.mp4 >}}
+
+Screenshots alle 5 Sekunden bei aktiviertem Bildschirm
+
+## Kurze Pause
+
+Im Anschluss: Übungsaufgabe zu digitalen Verhaltensdaten
+
+<br><br>
+<center>
+:::{.timer #break02-1 seconds=300 starton=interaction}
+:::
+</center>
+
+## Übungsaufgabe: Digitale Verhaltensdaten
+
+***
+
+### Forschungsinteresse: Zielsetzungen
+
+**Zielsetzungen für empirische Studien** [@deandreaIncreasingClarityWhere2017]
+
+- Beschreibung, Beobachtung, Hypothesengenerierung
+  - bildet Grundlage für Theoriebildung
+- Adressierung konzeptueller Angelegenheiten (z.B. durch verbesserte Definition und Messung von Konstrukten)
+- Replikation einer Studie
+- Erweiterung des Rahmens bestehender Theorie (z.B. durch neuen Prädiktor)
+- Testen einer Theorie als gesamtes oder in Teilen
+- Theoriebildung, -vergleich, oder -synthese
+- Zusätzlich (aber teilweise fortgeschritten):
+  - Explikation von Mechanismen und Randbedingungen (durch Mediatoren und Moderatoren)
+  - Theorieüberblick (z.B. durch narrative oder systematische Reviews)
+
+:::aside
+DeAndrea, D. C., & Holbert, R. L. (2017). Increasing Clarity Where It Is Needed Most: Articulating and Evaluating Theoretical Contributions. *Annals of the International Communication Association, 41*(2), 168–180. https://doi.org/10.1080/23808985.2017.1304163
+:::
+
+## Forschungsprojekt: Ideen "Speed-Dating"
+
+<br><br>
+<center>
+:::{.timer #ideen-speed-dating seconds=120 starton=interaction}
+:::
+</center>
+
+***
+
+:::big-text
+Vorbereitung auf die kommende Sitzung
+:::
+
+<br><br>
+
+:::center-text
+Siehe Vorbereitung Sitzung 4:
+
+Lernvideos anschauen, Fragen einreichen, Übungsaufgabe abschließen und einreichen, individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt
+:::
+
 # Literaturangaben

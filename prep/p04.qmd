@@ -1,0 +1,24 @@
+---
+title: "Wöchentliche Vorbereitung auf die Seminar-Sitzung"
+csl: https://www.zotero.org/styles/apa-cv
+bibliography: "../bib/25-1-be.bib"
+suppress-bibliography: true
+link-citations: false
+---
+
+## Lernvideos
+
+Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die folgenden **Videos** an:
+
+- Video 3: Messen
+- Video 4: Fragebogengestaltung
+- Video 5: Auswahlverfahren
+- Video 6: Besonderheiten intensiv longitudinaler Designs I
+- Video 7: Besonderheiten intensiv longitudinaler Designs II
+- Video 8: Besonderheiten intensiv longitudinaler Designs III
+
+Senden Sie bis spätestens Dienstag, 06.05., 23:59 **pro Video eine Verständnisfrage und eine Diskussionsfrage** zu den im Video vorgestellten Inhalten an den Dozenten.
+
+## Abgabe der CCS-Übung zu digitalen Verhaltensdaten
+
+Geben Sie ebenfalls bis spätestens Dienstag, 06.05., 23:59 eine `.R`-Datei mit Ihrer Bearbeitung der [Aufgaben aus der Übung zu digitalen Verhaltensdaten](https://stats.ifp.uni-mainz.de/ba-ccs-track/befragung-daten.html) ab.
