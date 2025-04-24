@@ -8,7 +8,9 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7a74a04c80d9ab624e168011e1613f8c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.js"></script>
-<link href="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet"><meta charset="utf-8">
+<link href="../site_libs/quarto-contrib/quarto-timer-1.0.0/timer.css" rel="stylesheet">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.43">
 
   <meta name="author" content="Felix Dietrich">
@@ -881,6 +883,639 @@ Eudaimonia
 <p>Lernvideos anschauen, Fragen einreichen, Literatur lesen, YouTube Takeout-Daten anfragen</p>
 </div>
 </section></section>
+<section>
+<section id="sitzung-02-digitale-verhaltensdaten" class="title-slide slide level1 center">
+<h1>Sitzung 02: Digitale Verhaltensdaten</h1>
+<p><br></p>
+<p><img data-src="img/02/traces.jpeg" height="300"></p>
+<p><br></p>
+<div class="callout callout-warning callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Ressourcen für diese Sitzung</strong></p>
+</div>
+<div class="callout-content">
+<p><span class="citation" data-cites="lazerMeaningfulMeasuresHuman2021">Lazer et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span>; <span class="citation" data-cites="ohmeDigitalTraceData2024">Ohme et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2024</a>)</span>; <span class="citation" data-cites="stierIntegratingSurveyData2020">Stier et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2020</a>)</span></p>
+</div>
+</div>
+</div>
+
+<aside><div>
+<p>Bild generiert mit FLUX.1-schnell: “A TV screen showing multiple people walking around and leaving footsteps on the ground as a black and white cartoon”</p>
+</div></aside></section>
+<section id="agenda" class="slide level2 center">
+<h2>Agenda</h2>
+<ul>
+<li><strong>Befragung</strong>: Recap
+<ul>
+<li>Video 1 (Befragungsdesigns)</li>
+<li>Video 2 (Theoretische Konzeption &amp; Forschungsinteresse)</li>
+</ul></li>
+<li><strong>CCS</strong>: Digitale Verhaltensdaten</li>
+<li><strong>Forschungsprojekt</strong>: Ideen “Speed-Dating”</li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<h3 id="seminarübersicht-anstehende-deadlines">Seminarübersicht &amp; anstehende Deadlines</h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 14%">
+<col style="width: 66%">
+<col style="width: 18%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Datum</th>
+<th>Thema</th>
+<th>Ziele</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>17.04.25</td>
+<td>Einführung, Organisation &amp; Theoretische Grundlagen</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>24.04.25</td>
+<td>Digitale Verhaltensdaten*</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>01.05.25</td>
+<td>Keine Sitzung: Feiertag</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>08.05.25</td>
+<td>Situative Befragungsdesigns*</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 12%">
+<col style="width: 36%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Anforderung</th>
+<th>Abgabe</th>
+<th>Deadline</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Einreichen von jeweils einer Verständnis- oder Diskussionsfrage zu den Videos</td>
+<td>E-Mail an den Dozenten</td>
+<td>Dienstag vor der jeweiligen Sitzung (22.04. &amp; 06.05.), 23:59 Uhr</td>
+</tr>
+<tr class="even">
+<td>Individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt</td>
+<td>E-Mail an den Dozenten</td>
+<td>Sonntag, 27.04., 23:59 Uhr</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="befragungsdesigns" class="slide level2 center">
+<h2>Befragungsdesigns</h2>
+<div>
+<ul>
+<li class="fragment">Wozu brauchen wir Split-Ballot Befragungen?</li>
+<li class="fragment">Wie verhält es sich mit Panelbefragungen und Kausalität?</li>
+<li class="fragment">Warum machen wir nicht immer (intensive) Längsschnittbefragungen?
+<ul>
+<li class="fragment">Kosten</li>
+<li class="fragment">Panelmortalität</li>
+</ul></li>
+<li class="fragment">Ab welchem Grad der Manipulation kann von einem experimentellen Befragungsdesign gesprochen werden?</li>
+</ul>
+</div>
+</section>
+<section class="slide level2 center">
+
+<h3 id="bitte-schalten-sie-auch-das-nächste-mal-wieder-ein-wenn-es-heißt">Bitte schalten Sie auch das nächste Mal wieder ein, wenn es heißt…</h3>
+<ul>
+<li>Wie wähle ich das richte Befragungsdesign aus?</li>
+<li>Fragenformulierung / Fragebogenaufbau</li>
+<li>Besonderheiten von intensiven Längsschnittdesigns</li>
+<li>Vermeidung von fragwürdigen Forschungspraktiken</li>
+<li>Auswertung / Hypothesenprüfung</li>
+</ul>
+</section>
+<section id="theoretische-konzeption-forschungsinteresse" class="slide level2 center">
+<h2>Theoretische Konzeption &amp; Forschungsinteresse</h2>
+<div>
+<ul>
+<li class="fragment">Macht es Sinn eine ungerichtete Recherche durchzuführen? Kostet das nicht zu viel Zeit?</li>
+<li class="fragment">Kann man Unterschiedshypothesen mit Befragungen ohne Experimentaldesign überprüfen?</li>
+<li class="fragment">Was genau ist der Unterschied zwischen einer konfirmatorischen Befragungshypothese und einer explorativen Forschungsfrage?</li>
+<li class="fragment">Was sind Richtlinien für ethische Befragungsstudien?
+<ul>
+<li class="fragment"><a href="https://www.dgpuk.de/sites/default/files/Ethik-Kodex-der-DGPuK-vom-13.-Mai-2015-zuletzt-geändert-am-31.-März-2017_0.pdf">DGPuK</a>, <a href="https://www.dgps.de/fileadmin/user_upload/PDF/Berufsetische_Richtlinien/BER-Foederation-20230426-Web-1.pdf">DGPs (insb. Kap. 7)</a></li>
+</ul></li>
+<li class="fragment">Was ist der Unterschied zwischen einer “Theorie”, einem “Ansatz” und dem “Theoretischen Konzept/Konstrukt”?</li>
+</ul>
+</div>
+</section>
+<section class="slide level2 center">
+
+<div class="big-text">
+<p>Noch Fragen?</p>
+</div>
+</section>
+<section id="ccs-digitale-verhaltensdaten" class="slide level2 center">
+<h2>CCS &amp; Digitale Verhaltensdaten</h2>
+<p><strong>Vergleichen Sie Ihre in der letzten Woche notierte Bildschirmzeit mit den Angaben in der “Screentime”-Rubrik Ihres Smartphones</strong></p>
+<ul>
+<li>Wie groß sind die Abweichungen vom geschätzten Wert?</li>
+<li>Wie lassen sich Abweichungen erklären?</li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<h3 id="die-grenzen-von-selbstauskunft">Die Grenzen von Selbstauskunft</h3>
+<div class="columns">
+<div class="column">
+<ul>
+<li>Selbstauskünfte für kleinteilige und stark fragmentierte Mediennutzung werden vermehrt als <strong>verzerrt</strong> identifiziert
+<ul>
+<li>Über- vs.&nbsp;Unterschätzen von Bildschirmzeit an PCs und Mobiltelefonen</li>
+<li><strong>Biases</strong> wie soziale Erwünschtheit, und/oder verfälschtes <strong>Erinnerungsvermögen</strong> (= “Recall Bias”)</li>
+</ul></li>
+<li>Verzerrungen werden im Kontrast zu aufgezeichneten digitalen Daten sichtbar</li>
+</ul>
+<p>z.B. <span class="citation" data-cites="scharkowAccuracySelfreportedInternet2016">Scharkow (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div><div class="column">
+<p><img data-src="img/02/scharkow_2016.png"></p>
+</div></div>
+
+<aside><div>
+<p>Scharkow, M. (2016). The accuracy of self-reported internet use: A validation study using client log data. <em>Communication Methods and Measures, 10</em>(1), 13–27. https://doi.org/10/gdvnnw</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="sinnvolle-fragen-ccs">Sinnvolle Fragen &amp; CCS</h3>
+
+<p>basierend auf <span class="citation" data-cites="jungherrEmpiricistsChallengeAsking2017">Jungherr &amp; Theocharis (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2017</a>)</span></p>
+<ol type="1">
+<li>Nutzung neuer Daten, um bestehende Theorien zu überprüfen, aber vor allem, um neue Theorien zu entwickeln, die auf <strong>neuen Erkenntnissen</strong> beruhen, die mit den bisherigen Forschungsinstrumenten nicht hätten gewonnen werden können</li>
+<li>Entwicklung neuer Konzepte und Messmethoden, die uns in Kombination dabei helfen können, besser zu verstehen, wie die von dieser neuen Datenquelle erfassten Einstellungen und Verhaltensweisen nicht nur auf größere Phänomene, sondern auch auf unser bestehendes Verständnis abgebildet werden, wodurch klarer wird, <strong>welche Schlüsse wir bei der Untersuchung komplexer sozialer und politischer Prozesse ziehen können - und welche nicht</strong>.</li>
+<li>Unsere erkenntnistheoretischen Instrumente und Methoden neu bewerten und durch interdisziplinäre Zusammenarbeit neu abstimmen, so dass sie <strong>synergisieren</strong>, anstatt miteinander zu konkurrieren</li>
+<li>Sicherstellen, dass das gesamte Forschungsprogramm im Einklang mit <strong>wissenschaftlichen Werten, Ethik und Praktiken</strong> steht</li>
+</ol>
+<aside><div>
+<p>Jungherr, A., &amp; Theocharis, Y. (2017). The empiricist’s challenge: Asking meaningful questions in political science in the age of big data. <em>Journal of Information Technology &amp; Politics, 14</em>(2), 97–109. <a href="https://doi.org/10.1080/19331681.2017.1312187" class="uri">https://doi.org/10.1080/19331681.2017.1312187</a></p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="zugang-zu-digitalen-verhaltensdaten">Zugang zu digitalen Verhaltensdaten</h3>
+<ul>
+<li><strong>Aufdringliche</strong> vs.&nbsp;<strong>unaufdringliche</strong> Datenerhebungen unterscheiden sich anhand des Aufwandes, den die Teilnehmer:innen aufwenden müssen, um die Daten bereitzustellen</li>
+<li><strong>Plattformzentrierte</strong> vs.&nbsp;<strong>nutzer:innenzentrierte</strong> Ansätze unterscheiden sich anhand der Einwilligungsmöglichkeit der Teilnehmer:innen</li>
+<li>Bewertung und Erwartung an Datensammlung ist abhängig
+<ul>
+<li>von der Plattform/Webseite/App, von der man die digitalen Verhaltensdaten sammeln möchte sowie</li>
+<li>von der Methode der Erhebung digitaler Verhaltensdaten</li>
+</ul></li>
+</ul>
+</section>
+<section class="slide level2 center">
+
+<h3 id="zugang-zu-digitalen-verhaltensdaten-1">Zugang zu digitalen Verhaltensdaten</h3>
+<p><strong>Scraping</strong></p>
+<ul>
+<li><strong>Unauthorisiertes Scraping</strong>:
+<ul>
+<li>“automatically extracting the content of web pages” <span class="citation" data-cites="freelonComputationalResearchPostAPI2018">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Freelon, 2018, S. 666</a>)</span></li>
+<li>fortgeschrittene Kenntnisse notwendig</li>
+<li>fehleranfällig und fragil</li>
+</ul></li>
+<li><strong>Authorisiertes Scraping</strong> mit APIs (application programming interfaces):
+<ul>
+<li>“essentially platform-specific pipelines for obtaining machine-readable digital data” <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024, S. 127</a>)</span></li>
+<li>API-Zugriff = kontrolliertes Scraping mit bereitgestelltem “Schlüssel”</li>
+<li>Nur öffentliche Nutzungsdaten verfügbar</li>
+</ul></li>
+<li>We are living in an APIpocalypse <span class="citation" data-cites="freelonComputationalResearchPostAPI2018">(z.B. <a href="#/literaturangaben" role="doc-biblioref" onclick="">Freelon, 2018</a>)</span></li>
+</ul>
+
+
+<aside><div>
+<p>Freelon, D. (2018). Computational research in the post-API age. <em>Political Communication, 35</em>(4), 665–668. https://doi.org/10/gfs6ng</p>
+</div><div>
+<p>Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., &amp; and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="zugang-zu-digitalen-verhaltensdaten-2">Zugang zu digitalen Verhaltensdaten</h3>
+<p><strong>Datenspenden (Data Donations)</strong></p>
+<ul>
+<li>“A user-centric approach in which research participants donate their existing DTD [digital trace data] to researchers” <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024, S. 128</a>)</span>
+<ul>
+<li>Durch Regelungen der DSGVO, Artikel 15.1 haben alle Nutzenden das Recht, auf Ihre persönlichen Daten auf einer Plattform zuzugreifen</li>
+<li>In der Realität machen es die Unternehmen ihren Nutzenden nicht gerade einfach, an diese Daten zu gelangen und diese leicht verständlich zu lesen</li>
+<li>Akademische Forschung versucht Workflows zu etablieren, um den Download von Datenspenden für die Wissenschaft zu erleichtern</li>
+</ul></li>
+</ul>
+
+<aside><div>
+<p>Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., &amp; and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="zugang-zu-digitalen-verhaltensdaten-3">Zugang zu digitalen Verhaltensdaten</h3>
+<p><strong>Tracking</strong></p>
+<ul>
+<li>“A user-centric method approach in which behavioral information is automatically captured, most often from individuals and in close temporal succession to the actual behavior, with the help of clientside tracking software” <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024, S. 128–129</a>)</span></li>
+<li>Formen des Trackings <span class="citation" data-cites="christnerAutomatedTrackingApproaches2022">(Auswahl, <a href="#/literaturangaben" role="doc-biblioref" onclick="">Christner et al., 2022</a>)</span>
+<ul>
+<li>Smartphone Logs, um besuchte URLs im Web aufzuzeichnen oder das Öffnen und Schließen von Apps (z.B. ESM-Apps)</li>
+<li>Browser-Erweiterungen, um besuchte URLs und Inhalte zu sehen, die im jeweiligen Browser angesehen wurden</li>
+<li>Screencapture/Screenomics, für In-App Browsing Inhalte</li>
+<li>Auch: Screenrecordings als Work-around</li>
+</ul></li>
+</ul>
+
+
+<aside><div>
+<p>Christner, C., Urman, A., Adam, S., &amp; Maier, M. (2022). Automated tracking approaches for studying online media use: A critical review and recommendations. <em>Communication Methods and Measures, 16</em>(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841</p>
+</div><div>
+<p>Ohme, J., Araujo ,Theo, Boeschoten ,Laura, Freelon ,Deen, Ram ,Nilam, Reeves ,Byron B., &amp; and Robinson, T. N. (2024). Digital trace data collection for social media effects research: APIs, data donation, and (screen) tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="potenziale-und-herausforderungen">Potenziale und Herausforderungen</h3>
+<div class="columns">
+<div class="column" style="width:66%;">
+<ul>
+<li>Welche Potenziale und welche Herausforderungen sehen Sie in Bezug auf digitale Verhaltensdaten?</li>
+<li>Besprechen Sie sich zu zweit oder zu dritt zu diesen Fragen. Nach sieben Minuten sammeln wir Ihre Antworten im Plenum.</li>
+</ul>
+</div><div class="column" style="width:33%;">
+                    <div id="ccs-herausforderungen"></div>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            initializeTimer("ccs-herausforderungen", 420, "interaction");
+                        });
+                    </script>
+                
+</div></div>
+</section>
+<section id="übersicht-digitale-verhaltensdaten" class="slide level2 center">
+<h2>Übersicht: Digitale Verhaltensdaten</h2>
+</section>
+<section class="slide level2 center">
+
+<h3 id="potenziale-digitaler-verhaltensdaten">Potenziale digitaler Verhaltensdaten</h3>
+<ul>
+<li>Daten werden in <strong>großen Mengen</strong> und <strong>hoher Geschwindigkeit</strong> generiert</li>
+<li><strong>Direkte Erfassung</strong> von (Online-)Verhalten</li>
+<li>Je nach Zugang <strong>ggf. geringere Kosten</strong> als Befragungen</li>
+<li>Einsatz besonders vorteilhaft bei Themen bzw. Untersuchungen…
+<ul>
+<li>…für die es schwierig ist, Studienteilnehmer:innen zu rekrutieren</li>
+<li>…bei denen Beobachtungen vorteilhafter sind als Befragungen</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p>siehe auch <span class="citation" data-cites="freelonComputationalResearchPostAPI2018">Freelon (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2018</a>)</span>; <span class="citation" data-cites="lazerMeaningfulMeasuresHuman2021">Lazer et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span>; <span class="citation" data-cites="olteanuSocialDataBiases2019">Olteanu et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2019</a>)</span>; <span class="citation" data-cites="senTotalErrorFramework2021">Sen et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span></p>
+<aside><div>
+<p>Freelon, D. (2018). Computational research in the post-API age. <em>Political Communication, 35</em>(4), 665–668. https://doi.org/10/gfs6ng</p>
+</div><div>
+<p>Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., &amp; Radford, J. (2021). Meaningful measures of human society in the twenty-first century. <em>Nature, 595</em>(7866), 189–196. https://doi.org/10/gkzp4x</p>
+</div><div>
+<p>Olteanu, A., Castillo, C., Diaz, F., &amp; Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. <em>Frontiers in Big Data</em>, 2. https://doi.org/10/ggcxgj</p>
+</div><div>
+<p>Sen, I., Flöck, F., Weller, K., Weiß, B., &amp; Wagner, C. (2021). A total error framework for digital traces of human behavior on online platforms. <em>Public Opinion Quarterly, 85</em>(S1), 399–422. https://doi.org/10/gmx62w</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="herausforderungen-digitaler-verhaltensdaten">Herausforderungen digitaler Verhaltensdaten</h3>
+<p><strong>Methodisch/forschungspraktisch</strong></p>
+<ul>
+<li>“New digital divides” <span class="citation" data-cites="mahrtValueBigData2013">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Mahrt &amp; Scharkow, 2013</a>)</span> &amp; diverse Biases <span class="citation" data-cites="senTotalErrorFramework2021">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Sen et al., 2021</a>)</span>
+<ul>
+<li>z.B. durch Plattform-Algorithmen</li>
+<li>Über wen kann ich durch die jeweiligen digitalen Verhaltensdaten Aussagen treffen?</li>
+</ul></li>
+<li>Sehr große und oft zunächst schwer durchschaubare Datensätze: <strong>Know-how notwendig!</strong></li>
+<li>Messung psychologischer Variablen (Kognitionen, Emotionen oder Einstellungen) nur eingeschränkt möglich (<strong>nur sichtbare Verhaltensspuren</strong>)</li>
+<li>Kaum bis <strong>keine Informationen über mediale Offline-Aktivitäten</strong></li>
+<li>Datenzugang von Unwägbarkeiten und <strong>Unsicherheiten</strong> geprägt und oft vom „Goodwill“ großer Konzerne abhängig (v.a. im Falle von APIs)</li>
+<li>Geringe Reproduzierbarkeit, Unvollständigkeit, oft auch Ambiguität in den Meta-Daten</li>
+</ul>
+
+
+
+
+
+<p>siehe auch <span class="citation" data-cites="freelonComputationalResearchPostAPI2018">Freelon (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2018</a>)</span>; <span class="citation" data-cites="lazerMeaningfulMeasuresHuman2021">Lazer et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span>; <span class="citation" data-cites="olteanuSocialDataBiases2019">Olteanu et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2019</a>)</span>; <span class="citation" data-cites="senTotalErrorFramework2021">Sen et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span></p>
+<aside><div>
+<p>Freelon, D. (2018). Computational research in the post-API age. <em>Political Communication, 35</em>(4), 665–668. https://doi.org/10/gfs6ng</p>
+</div><div>
+<p>Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., &amp; Radford, J. (2021). Meaningful measures of human society in the twenty-first century. <em>Nature, 595</em>(7866), 189–196. https://doi.org/10/gkzp4x</p>
+</div><div>
+<p>Mahrt, M., &amp; Scharkow, M. (2013). The value of big data in digital media research. <em>Journal of Broadcasting &amp; Electronic Media, 57</em>(1), 20–33. https://doi.org/10.1080/08838151.2012.761700</p>
+</div><div>
+<p>Olteanu, A., Castillo, C., Diaz, F., &amp; Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. <em>Frontiers in Big Data</em>, 2. https://doi.org/10/ggcxgj</p>
+</div><div>
+<p>Sen, I., Flöck, F., Weller, K., Weiß, B., &amp; Wagner, C. (2021). A total error framework for digital traces of human behavior on online platforms. <em>Public Opinion Quarterly, 85</em>(S1), 399–422. https://doi.org/10/gmx62w</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="herausforderungen-digitaler-verhaltensdaten-1">Herausforderungen digitaler Verhaltensdaten</h3>
+<p><strong>Rechtliche und ethische Herausforderungen</strong></p>
+<ul>
+<li>Schutz der Privatsphäre von Nutzenden durch Anonymität/Pseudonymität
+<ul>
+<li>große Datensätze ≠ anonyme Datensätze</li>
+<li>Implikationen für Open Science: Teilen von Daten nur möglich, wenn sie so anonymisiert sind, dass sie nicht von Dritten missbraucht, zweckentfremdet oder de-anonymisiert werden können</li>
+<li>Beispiel: Ein einzelner Kommentar unter einem Tweet, der mit einer TweetURL im Datensatz hinterlegt ist, kann auf den Absender zurückverfolgt werden, sofern der Tweet öffentlich und noch online ist</li>
+</ul></li>
+</ul>
+<p>Daher: Prüfung der Vorteile und Risiken durch Forschung für Nutzende strikt abwägen, <strong>Datensparsamkeit</strong> (nur das erheben, was wirklich notwendig ist), ggf. beim Teilen der Daten aggregieren</p>
+<p>siehe auch <span class="citation" data-cites="olteanuSocialDataBiases2019">Olteanu et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2019</a>)</span>; <span class="citation" data-cites="vanatteveldtTroubleSharingYour2021">Van Atteveldt et al. (<a href="#/literaturangaben" role="doc-biblioref" onclick="">2021</a>)</span></p>
+
+
+<aside><div>
+<p>Olteanu, A., Castillo, C., Diaz, F., &amp; Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. <em>Frontiers in Big Data</em>, 2. https://doi.org/10/ggcxgj</p>
+</div><div>
+<p>Van Atteveldt, W., Althaus ,Scott, &amp; and Wessler, H. (2021). The trouble with sharing your privates: Pursuing ethical open science and collaborative research across national jurisdictions using sensitive data. <em>Political Communication</em>, 38(1–2), 192–198. https://doi.org/10/g9ghxq</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="digitale-verhaltensdaten-ohmedigitaltracedata2024">Digitale Verhaltensdaten <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024</a>)</span></h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>API Data</th>
+<th>Data Donations</th>
+<th>Tracking</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>User- vs.&nbsp;platform centrality</td>
+<td>Platform</td>
+<td>User</td>
+<td>User</td>
+</tr>
+<tr class="even">
+<td>Definition</td>
+<td>Official data pipelines that offer different data types depending on the platform</td>
+<td>Donation of existing digital traces with informed consent</td>
+<td>Client-side tracking software that is installed with informed consent</td>
+</tr>
+<tr class="odd">
+<td>Time frame of collected data</td>
+<td>Retrospective</td>
+<td>Retrospective (collects existing digital trace data)</td>
+<td>Prospective (tracks digital traces as they are produced)</td>
+</tr>
+<tr class="even">
+<td>Consent of participants</td>
+<td>No</td>
+<td>Yes</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td>Type of user involvement</td>
+<td>None</td>
+<td>Donate existing data to science</td>
+<td>Generate data for science</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+
+<aside><div>
+<p>Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, &amp; and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="digitale-verhaltensdaten-ohmedigitaltracedata2024-1">Digitale Verhaltensdaten <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024</a>)</span></h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>API Data</th>
+<th>Data Donations</th>
+<th>Tracking</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Potential for reactivity/social desirability biases</td>
+<td>Low</td>
+<td>Low</td>
+<td>Medium to high</td>
+</tr>
+<tr class="even">
+<td>Reliance on third-party platform</td>
+<td>High</td>
+<td>Medium</td>
+<td>Low to Medium (No, if researcher-developed)</td>
+</tr>
+<tr class="odd">
+<td>Transparency to review DTD by user</td>
+<td>Low</td>
+<td>High</td>
+<td>Medium</td>
+</tr>
+<tr class="even">
+<td>Level of gathered content</td>
+<td>(Mostly) Aggregate-level data</td>
+<td>Individual-level data</td>
+<td>Individual-level data</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+
+<aside><div>
+<p>Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, &amp; and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="digitale-verhaltensdaten-ohmedigitaltracedata2024-2">Digitale Verhaltensdaten <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024</a>)</span></h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>API Data</th>
+<th>Data Donations</th>
+<th>Tracking</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Types of data</td>
+<td>Includes published and public data from digital platforms</td>
+<td>Includes non- or semi-public user data and data not visible to user (e.g., profiling, etc.)</td>
+<td>Includes (mostly nonpublic) behavioral sequence data (e.g., click streams, screenshots, etc.)</td>
+</tr>
+<tr class="even">
+<td>Measurement unit</td>
+<td>User Content</td>
+<td>Account</td>
+<td>Device</td>
+</tr>
+<tr class="odd">
+<td>Predictability of content included in collected data</td>
+<td>High</td>
+<td>Medium</td>
+<td>Low</td>
+</tr>
+<tr class="even">
+<td>Privacy risks in the collection of personally identifiable information</td>
+<td>Medium to high</td>
+<td>High</td>
+<td>Very high</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+
+<aside><div>
+<p>Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, &amp; and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="digitale-verhaltensdaten-ohmedigitaltracedata2024-3">Digitale Verhaltensdaten <span class="citation" data-cites="ohmeDigitalTraceData2024">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">Ohme et al., 2024</a>)</span></h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>API Data</th>
+<th>Data Donations</th>
+<th>Tracking</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Examples</td>
+<td><del>Twitter Academic API, Crowdtangle (for Facebook and Instagram)</del></td>
+<td>OSD2F, PORT, Webhistorian, PIEGraph</td>
+<td>Screenomics-App, ScreenLife-AppCommercial companies such as Netquest and Comscore</td>
+</tr>
+</tbody>
+</table>
+<p>Für Google API, siehe heutige Übungsaufgabe</p>
+<p>Für Data Donations, siehe z.B.: <a href="https://datadonation.eu" class="uri">https://datadonation.eu</a></p>
+<p>Für Screenomics, siehe z.B.: <a href="https://screenomics.stanford.edu" class="uri">https://screenomics.stanford.edu</a></p>
+<p><br></p>
+
+<aside><div>
+<p>Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, &amp; and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. <em>Communication Methods and Measures, 18</em>(2), 124–141. https://doi.org/10/gs53z3</p>
+</div></aside></section>
+<section class="slide level2 center">
+
+<h3 id="the-human-screenome">“The Human Screenome”</h3>
+<video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="https://screenomics.stanford.edu/wp-content/uploads/2024/11/ScreenomeSampleforPublic_2020_0127.mp4"></video>
+<p>Screenshots alle 5 Sekunden bei aktiviertem Bildschirm</p>
+</section>
+<section id="kurze-pause" class="slide level2 center">
+<h2>Kurze Pause</h2>
+<p>Im Anschluss: Übungsaufgabe zu digitalen Verhaltensdaten</p>
+<br><br>
+<center>
+                    <div id="break02-1"></div>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            initializeTimer("break02-1", 300, "interaction");
+                        });
+                    </script>
+                
+</center>
+</section>
+<section id="übungsaufgabe-digitale-verhaltensdaten" class="slide level2 center">
+<h2>Übungsaufgabe: Digitale Verhaltensdaten</h2>
+</section>
+<section class="slide level2 center">
+
+<h3 id="forschungsinteresse-zielsetzungen">Forschungsinteresse: Zielsetzungen</h3>
+<p><strong>Zielsetzungen für empirische Studien</strong> <span class="citation" data-cites="deandreaIncreasingClarityWhere2017">(<a href="#/literaturangaben" role="doc-biblioref" onclick="">DeAndrea &amp; Holbert, 2017</a>)</span></p>
+<ul>
+<li>Beschreibung, Beobachtung, Hypothesengenerierung
+<ul>
+<li>bildet Grundlage für Theoriebildung</li>
+</ul></li>
+<li>Adressierung konzeptueller Angelegenheiten (z.B. durch verbesserte Definition und Messung von Konstrukten)</li>
+<li>Replikation einer Studie</li>
+<li>Erweiterung des Rahmens bestehender Theorie (z.B. durch neuen Prädiktor)</li>
+<li>Testen einer Theorie als gesamtes oder in Teilen</li>
+<li>Theoriebildung, -vergleich, oder -synthese</li>
+<li>Zusätzlich (aber teilweise fortgeschritten):
+<ul>
+<li>Explikation von Mechanismen und Randbedingungen (durch Mediatoren und Moderatoren)</li>
+<li>Theorieüberblick (z.B. durch narrative oder systematische Reviews)</li>
+</ul></li>
+</ul>
+
+<aside><div>
+<p>DeAndrea, D. C., &amp; Holbert, R. L. (2017). Increasing Clarity Where It Is Needed Most: Articulating and Evaluating Theoretical Contributions. <em>Annals of the International Communication Association, 41</em>(2), 168–180. https://doi.org/10.1080/23808985.2017.1304163</p>
+</div></aside></section>
+<section id="forschungsprojekt-ideen-speed-dating" class="slide level2 center">
+<h2>Forschungsprojekt: Ideen “Speed-Dating”</h2>
+<br><br>
+<center>
+                    <div id="ideen-speed-dating"></div>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function () {
+                            initializeTimer("ideen-speed-dating", 120, "interaction");
+                        });
+                    </script>
+                
+</center>
+</section>
+<section class="slide level2 center">
+
+<div class="big-text">
+<p>Vorbereitung auf die kommende Sitzung</p>
+</div>
+<p><br><br></p>
+<div class="center-text">
+<p>Siehe Vorbereitung Sitzung 4:</p>
+<p>Lernvideos anschauen, Fragen einreichen, Übungsaufgabe abschließen und einreichen, individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt</p>
+</div>
+</section></section>
 <section id="literaturangaben" class="title-slide slide level1 smaller scrollable">
 <h1>Literaturangaben</h1>
 
@@ -892,8 +1527,26 @@ Bosshart, L., &amp; Macconi, I. (1998). Media Entertainment. <em>Communication R
 <div id="ref-brosiusMethodenEmpirischenKommunikationsforschung2016" class="csl-entry" role="listitem">
 Brosius, H.-B., Haas, A., &amp; Koschel, F. (2016). <em>Methoden Der Empirischen <span>Kommunikationsforschung</span>: <span>Eine Einführung</span></em> (7. Aufl.). VS Verlag für Sozialwissenschaften.
 </div>
+<div id="ref-christnerAutomatedTrackingApproaches2022" class="csl-entry" role="listitem">
+Christner, C., Urman, A., Adam, S., &amp; Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. <em>Communication Methods and Measures</em>, <em>16</em>(2), 79–95. <a href="https://doi.org/10.1080/19312458.2021.1907841">https://doi.org/10.1080/19312458.2021.1907841</a>
+</div>
+<div id="ref-deandreaIncreasingClarityWhere2017" class="csl-entry" role="listitem">
+DeAndrea, D. C., &amp; Holbert, R. L. (2017). Increasing Clarity Where It Is Needed Most: Articulating and Evaluating Theoretical Contributions. <em>Annals of the International Communication Association</em>, <em>41</em>(2), 168–180. <a href="https://doi.org/10.1080/23808985.2017.1304163">https://doi.org/10.1080/23808985.2017.1304163</a>
+</div>
+<div id="ref-freelonComputationalResearchPostAPI2018" class="csl-entry" role="listitem">
+Freelon, D. (2018). Computational Research in the Post-<span>API</span> Age. <em>Political Communication</em>, <em>35</em>(4), 665–668. <a href="https://doi.org/10/gfs6ng">https://doi.org/10/gfs6ng</a>
+</div>
 <div id="ref-fruhInhaltsanalyseTheorieUnd2001" class="csl-entry" role="listitem">
 Früh, W. (2001). <em>Inhaltsanalyse: <span>Theorie</span> Und <span>Praxis</span></em> (5., überarb. Aufl.). UVK Verl.-Ges.
+</div>
+<div id="ref-jungherrEmpiricistsChallengeAsking2017" class="csl-entry" role="listitem">
+Jungherr, A., &amp; Theocharis, Y. (2017). The Empiricist’s Challenge: <span>Asking</span> Meaningful Questions in Political Science in the Age of Big Data. <em>Journal of Information Technology &amp; Politics</em>, <em>14</em>(2), 97–109. <a href="https://doi.org/10.1080/19331681.2017.1312187">https://doi.org/10.1080/19331681.2017.1312187</a>
+</div>
+<div id="ref-lazerMeaningfulMeasuresHuman2021" class="csl-entry" role="listitem">
+Lazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., &amp; Radford, J. (2021). Meaningful Measures of Human Society in the Twenty-First Century. <em>Nature</em>, <em>595</em>(7866), 189–196. <a href="https://doi.org/10/gkzp4x">https://doi.org/10/gkzp4x</a>
+</div>
+<div id="ref-mahrtValueBigData2013" class="csl-entry" role="listitem">
+Mahrt, M., &amp; Scharkow, M. (2013). The Value of Big Data in Digital Media Research. <em>Journal of Broadcasting &amp; Electronic Media</em>, <em>57</em>(1), 20–33. <a href="https://doi.org/10.1080/08838151.2012.761700">https://doi.org/10.1080/08838151.2012.761700</a>
 </div>
 <div id="ref-meierComputermediatedCommunicationSocial2021" class="csl-entry" role="listitem">
 Meier, A., &amp; Reinecke, L. (2021). Computer-Mediated Communication, Social Media, and Mental Health: A Conceptual and Empirical Meta-Review. <em>Communication Research</em>, <em>48</em>(8), 1182–1209. <a href="https://doi.org/10.1177/0093650220958224">https://doi.org/10.1177/0093650220958224</a>
@@ -904,8 +1557,14 @@ Möhring, W., &amp; Schlütz, D. (2010). <em>Die <span>Befragung</span> in Der <
 <div id="ref-noelle-neumannAlleNichtJeder2005" class="csl-entry" role="listitem">
 Noelle-Neumann, E., &amp; Petersen, T. (2005). <em>Alle, Nicht Jeder: <span>Einführung</span> in Die <span>Methoden</span> Der <span>Demoskopie</span></em> (4. Aufl.). Springer.
 </div>
+<div id="ref-ohmeDigitalTraceData2024" class="csl-entry" role="listitem">
+Ohme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, &amp; and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: <span>APIs</span>, Data Donation, and (Screen) Tracking. <em>Communication Methods and Measures</em>, <em>18</em>(2), 124–141. <a href="https://doi.org/10/gs53z3">https://doi.org/10/gs53z3</a>
+</div>
 <div id="ref-oliverEntertainmentPleasurableMeaningful2011" class="csl-entry" role="listitem">
 Oliver, M. B., &amp; Raney, A. A. (2011). Entertainment as Pleasurable and Meaningful: <span>Identifying</span> Hedonic and Eudaimonic Motivations for Entertainment Consumption. <em>Journal of Communication</em>, <em>61</em>(5), 984–1004. <a href="https://doi.org/10.1111/j.1460-2466.2011.01585.x">https://doi.org/10.1111/j.1460-2466.2011.01585.x</a>
+</div>
+<div id="ref-olteanuSocialDataBiases2019" class="csl-entry" role="listitem">
+Olteanu, A., Castillo, C., Diaz, F., &amp; Kıcıman, E. (2019). Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. <em>Frontiers in Big Data</em>, <em>2</em>. <a href="https://doi.org/10/ggcxgj">https://doi.org/10/ggcxgj</a>
 </div>
 <div id="ref-raneyEntertainmentEnjoymentMedia2019" class="csl-entry" role="listitem">
 Raney, A. A., &amp; Bryant, J. (2019). Entertainment and Enjoyment as Media Effect. In M. B. Oliver, A. A. Raney, &amp; J. Bryant (Hrsg.), <em>Media Effects: <span>Advances</span> in Theory and Research</em> (4. Aufl., S. 324–341). Routledge. <a href="https://doi.org/10.4324/9780429491146-21">https://doi.org/10.4324/9780429491146-21</a>
@@ -916,8 +1575,20 @@ Ryan, R. M., &amp; Deci, E. L. (2000). Self-Determination Theory and the Facilit
 <div id="ref-ryanHappinessHumanPotentials2001" class="csl-entry" role="listitem">
 Ryan, R. M., &amp; Deci, E. L. (2001). On Happiness and Human Potentials: A Review of Research on Hedonic and Eudaimonic Well-Being. <em>Annual Review of Psychology</em>, <em>52</em>, 141–166. <a href="https://doi.org/10.1146/annurev.psych.52.1.141">https://doi.org/10.1146/annurev.psych.52.1.141</a>
 </div>
+<div id="ref-scharkowAccuracySelfreportedInternet2016" class="csl-entry" role="listitem">
+Scharkow, M. (2016). The Accuracy of Self-Reported Internet Use—a Validation Study Using Client Log Data. <em>Communication Methods and Measures</em>, <em>10</em>(1), 13–27. <a href="https://doi.org/10/gdvnnw">https://doi.org/10/gdvnnw</a>
+</div>
+<div id="ref-senTotalErrorFramework2021" class="csl-entry" role="listitem">
+Sen, I., Flöck, F., Weller, K., Weiß, B., &amp; Wagner, C. (2021). A Total Error Framework for Digital Traces of Human Behavior on Online Platforms. <em>Public Opinion Quarterly</em>, <em>85</em>(S1), 399–422. <a href="https://doi.org/10/gmx62w">https://doi.org/10/gmx62w</a>
+</div>
+<div id="ref-stierIntegratingSurveyData2020" class="csl-entry" role="listitem">
+Stier, S., Breuer, J., Siegers, P., &amp; Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. <em>Social Science Computer Review</em>, <em>38</em>(5), 503–516. <a href="https://doi.org/10/gf3xxw">https://doi.org/10/gf3xxw</a>
+</div>
 <div id="ref-tamboriniMediaEnjoymentNeed2011" class="csl-entry" role="listitem">
 Tamborini, R., Grizzard, M., Bowman, N. D., Reinecke, L., Lewis, R. J., &amp; Eden, A. (2011). Media Enjoyment as Need Satisfaction: The Contribution of Hedonic and Nonhedonic Needs. <em>Journal of Communication</em>, <em>61</em>(6), 1025–1042. <a href="https://doi.org/10/dm34xj">https://doi.org/10/dm34xj</a>
+</div>
+<div id="ref-vanatteveldtTroubleSharingYour2021" class="csl-entry" role="listitem">
+Van Atteveldt, W., Althaus, &amp; and Wessler, H. (2021). The Trouble with Sharing Your Privates: Pursuing Ethical Open Science and Collaborative Research across National Jurisdictions Using Sensitive Data. <em>Political Communication</em>, <em>38</em>(1–2), 192–198. <a href="https://doi.org/10/g9ghxq">https://doi.org/10/g9ghxq</a>
 </div>
 </div>
 </section>
@@ -1360,6 +2031,7 @@ Tamborini, R., Grizzard, M., Bowman, N. D., Reinecke, L., Lewis, R. J., &amp; Ed
       }
     });
     </script>
+    <script>videojs(video_shortcode_videojs_video1);</script>
     
 
 </body></html>
