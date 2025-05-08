@@ -1023,4 +1023,310 @@ Siehe Vorbereitung Sitzung 4:
 Lernvideos anschauen, Fragen einreichen, Übungsaufgabe abschließen und einreichen, individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt
 :::
 
+
+# Sitzung 04: Situative Befragungsdesigns
+
+<br>
+
+![](img/04/time_series.jpeg){height=300px}
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@bolgerDiaryMethodsCapturing2003; @myin-germeysOpenHandbookExperience2022; @schnauber-stockmannMobileDevicesTools2020
+:::
+
+:::aside
+Bild generiert mit FLUX.1-schnell: "A time series graph on TV as a black and white cartoon"
+:::
+
+## Agenda
+
+- **Befragung**: Recap
+  - Video 3: Messen
+  - Video 4: Fragebogengestaltung
+  - Video 5: Auswahlverfahren
+  - Video 6: Grundlagen intensiv longitudinaler Designs
+  - Video 7: Besonderheiten intensiv longitudinaler Designs I
+  - Video 8: Besonderheiten intensiv longitudinaler Designs II
+  - Video 9: Besonderheiten intensiv longitudinaler Designs III
+- **CCS**: GESIS AppKit und intensive longitudinale Designs
+- **Forschungsprojekt**: Theoriearbeit & Themenfindung
+
+***
+
+### Seminarübersicht & anstehende Deadlines
+
+| Datum      | Thema                                                | Ziele         |
+|------------|------------------------------------------------------|---------------|
+| 01.05.25   | Keine Sitzung: Feiertag                              |               |
+| 08.05.25   | Situative Befragungsdesigns*                         |               |
+| 15.05.25   | Open Science                                         |               |
+| 22.05.25   | Projekt-Sitzung                                      | Präregistrierung|
+
+<br>
+
+| Anforderung                                                                                         | Abgabe                   | Deadline                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| Individuelle Abgabe einer überarbeiteten Problemstellung/übergeordneten Frage für das Forschungsprojekt | LMS   | Sonntag, 11.05., 23:59 Uhr                                           |
+
+## Messen
+
+:::incremental
+- Gibt es außer der Randomisierung eine Lösung für den Primacy/Regency Effekt? (Wie) kann man Daten mit Primacy-/ Regency-Effekten „reparieren“?
+- Was ist der Unterschied zwischen Erinnerungsleistung und Aggregationsleistung? Was ist ein Recall-Bias?
+- Ist es sinnvoll verschiedene Formulierungen für Fragen an unterschiedlichen Messzeitpunkten zu nehmen, um den Probanden Abwechslung zu bieten?
+:::
+
+***
+
+## Fragebogengestaltung & Durchführung
+
+:::incremental
+- Sollte am Ende Raum für kritische Reflexion (z. B. "Haben Sie Fragen übersprungen? Warum?") geboten werden?
+- Wie vermeidet man bei der Rekrutierung vulnerabler Gruppen (z. B. Opfer von Cybermobbing) zusätzliche Belastungen – ohne die Stichprobe zu verfälschen?
+- Wie lässt sich die Balance finden zwischen der Standardisierung eines Fragebogens (durch geschlossene Fragen) und der Offenheit für unerwartete Antworten?
+- Wenn die Befragung „in unkontrolliertem Kontext“ stattfindet, wie kann man Störfaktoren (z.B. Ablenkung und dadurch weniger Konzentration) möglichst gering halten?
+- Wie wird die Sensibiltät um die korroekte Frageformulierung bei internationalen Zusammenarbeiten gehandelt (über Sprach- und Kulturgrenzen hinweg)?
+- Wieso ist es nicht Pflicht, dass eine Studie repräsentativ ist?
+:::
+
+***
+
+## Intensiv longitudinale Designs
+
+:::incremental
+- Welche Dauer haben intensive Längsschnittbefragungen?
+- Verlieren ESM-Designs (und longitudinale Designs allgemein) aufgrund der Pannel-Mortalität an Repräsentativität, da eine spezielle Gruppe der „Abbrecher“ rausfällt, die wohlmöglich Gemeinsamkeiten haben.
+- Was könnte man für Anreize schaffen, dass mehr Leute an Onlinebefragungen teilnehmen?
+- Sind 3 Messzeitpunkte bei Personen- und Situationsstichproben zu wenig? Gibt es einen Punkt der Sättigung (z.B. maximal 20) bei denen Ergebnisse eine maximale Genauigkeit erreichen?
+- Sind intensive longitudinale Designs =  Experience Sampling Method (ESM)?
+- Um für die Befragung am Ende bspw. 1.000 Teilnehmerergebnisse der ESM zu haben, wie viele Teilnehmer muss man am Anfang der Studie haben (wegen Trade-off) - anders: wie hoch ist die „aufhör“-Quote?
+- Sollte man in einer Befragung beide Fragen (zu Person & Situation) abdecken?
+- Kann bei dem intensiv longitudinalen Design ein Konstrukt durch Single Items gemessen werden ohne dass eine Verzerrung durch Extremfälle entsteht, weil die Befragten häufig die gleiche Frage beantworten und damit die Verzerrung/Gefahr durch extreme Antworten verringert wird
+- Wie lange und in welchen Abständen sollte man ein intensives longitudinales Design planen, wenn man die Nutzung und Effekte von YouTube untersuchen will? 
+:::
+
+***
+
+## Diverses
+
+:::incremental
+- Was genau ist das Measurement Burst Design?
+- Können bei event-basierter Auslösung nicht Verzerrungen entstehen, wenn bei einzelnen Personen das Event öfter auftritt und ihre Daten dadurch stärker gewichtet werden? Kann man das durch die Datenauswertung wieder bereinigen?
+- Sowohl bei Fragen auf der „between-person“ Ebene, als auch auf der „within-person“ Ebene werden die Einzelergebnisse letztendlich kollektiv betrachtet, also findet bei beiden Formen ein Vergleich zwischen den Testpersonen statt und nicht nur bei der ersten Variante oder? 
+- Weitere Informationen zur Auswertung in den Sitzungen nach der Feldphase
+:::
+
+
+## CCS: GESIS AppKit und intensive longitudinale Designs
+
+::: {.columns}
+::: {.column width="66%"}
+
+> “Das GESIS AppKit ist eine flexibel einsetzbare und nachhaltig gepflegte sowie kontinuierlich weiterentwickelte Lösung zur mobilen Datenerhebung per Smartphone - datenschutzkonform und kostenfrei für die nicht-kommerzielle Forschung.
+>
+>Mit einer intuitiven Weboberfläche und einer App für Android und iOS ermöglicht es die Durchführung verschiedenster Befragungen. Durch die individuelle zeitliche Steuerung von Befragungsplänen eignet sich das GESIS AppKit besonders für Forschungsdesigns wie Experience Sampling, Ambulatory Assessment und Ecological Momentary Assessment.”
+>
+> <https://www.gesis.org/gesis-appkit>
+
+:::
+:::{.column width="33%"}
+:::{.timer #ccs-appkit seconds=1800 starton=interaction}
+:::
+:::
+:::
+
+## Theoriearbeit & Themenfindung
+
+::::columns
+
+::: {.column width="33%"}
+
+**Gruppe 1**
+
+Slater, M. D., Johnson, B. K., Cohen, J., Comello, M. L. G., & Ewoldsen, D. R. (2014). Temporarily expanding the boundaries of the self: Motivations for entering the story world and implications for narrative effects.
+
+:::
+
+::: {.column width="33%"}
+
+**Gruppe 2**
+
+Johnson, B. K., Slater, M. D., Silver, N. A., & Ewoldsen, D. R. (2021). Stories enlarge the experience of self: Evidence for the temporarily expanded boundaries of the self (TEBOTS) model.
+
+:::
+
+::: {.column width="33%"}
+
+**Gruppe 3**
+
+Lee, A. Y., Mieczkowski, H., Ellison, N. B., & Hancock, J. T. (2022). The algorithmic crystal: Conceptualizing the self through algorithmic personalization on TikTok.
+
+:::
+
+::::
+
+::::columns
+
+::: {.column width="60%"}
+**Zwei zentrale Herausforderungen:**
+
+- Situative Einflussfaktoren auf Unterhaltungserleben identifizieren
+- Die Rolle algorithmischer Kuratierung identifizieren (und messen)
+:::
+
+::: {.column width="40%"}
+::: {.timer #themenfindung seconds=3600 starton=interaction}
+:::
+:::
+::::
+
+
+
+## Boundary Expansion Scale
+
+:::aside
+Johnson, B. K., Slater, M. D., Silver, N. A., & Ewoldsen, D. R. (2016). Entertainment and expanding boundaries of the self: Relief from the constraints of the everyday. *Journal of Communication, 66*(3), 386–408. https://doi.org/10.1111/jcom.12228
+:::
+
+***
+
+### Boundary Expansion Items
+
+| Item | Loading |
+|------|---------|
+| 1. … Relationships between people that are different from relationships in your life? | 0.807 |
+| 2. … What it might be like to relate others in ways different than you normally do yourself? | 0.880 |
+| 3. … Getting to know people you would never otherwise know? | 0.856 |
+| 4. … What it would be like to have skills and abilities that are different from your own? | 0.847 |
+| 5. … What it would be like to have emotional and interpersonal skills that are different from your own? | 0.890 |
+
+*Notes:* Participants were given the following instructions and indicated their agreement on a scale 0 = *not at all* to 10 = *very much*. “Please indicate your agreement with the following statements. When you read the story, did you experience …”
+
+***
+
+### Boundary Expansion Items
+
+| Item | Loading |
+|------|---------|
+| 6. … Doing things the characters did, that you haven’t done before? | 0.799 |
+| 7. … Being in a time or place other than where you are now? | 0.802 |
+| 8. … Facing situations and challenges other than those in your own life? | 0.844 |
+| 9. … What it was like to have someone else’s thoughts and feelings? | 0.893 |
+| 10. … What it was like to be someone else (that is, one or more of the characters in the story)? | 0.839 |
+
+*Notes:* Participants were given the following instructions and indicated their agreement on a scale 0 = *not at all* to 10 = *very much*. “Please indicate your agreement with the following statements. When you read the story, did you experience …”
+
+## The Algorithmic Crystal Scale
+
+:::aside
+Lee, A.Y., Cullen, Z.N., Ellision, N., & Hancock, J. (2024, June 20–24). The Algorithmic Crystal Scale: Development and Validation of a Measure of Perceptions of Personalized Algorithms [Conference Presentation]. 74th Conference of the International Communication Association (ICA), Gold Coast, Australia.
+:::
+
+***
+
+### Reflective
+
+- You would get a good sense of who I am by looking at the content that shows up in my feed.
+- I feel like the algorithm is tailored specifically to me.
+- Overall, the algorithm is reflective of who I am and what I care about.
+- I can see a lot of myself in the content that the algorithm recommends for me.
+
+***
+
+### Multi-faceted
+
+- I can see many different kinds of content that are relevant to me on my feed.
+- I feel like the algorithm creates a unique blend of content for me based on a variety of things I'm interested in.
+- Someone looking at my feed would be able to tell I have diverse interests.
+- My feed shows me content representing a wide variety of things I like.
+- I feel like the algorithm's recommendations for me are quite one-dimensional.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+***
+
+### Dynamic
+
+- My feed keeps up with my latest interests by showing me new, relevant content.
+- The content recommended by the algorithm changes to match what I'm currently interested in.
+- I feel like the algorithm is quick to catch on when I am interested in a new topic.
+- I notice that the algorithm tends to get stuck on content I'm not interested in anymore.*
+- When I look at my feed, it feels outdated because the content is no longer of interest to me.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+***
+
+### Agency
+
+- I can influence what shows up on my feed.
+- I have a good amount of control over what the algorithm shows me.
+- If I wanted to change what shows up on my feed, I could.
+- I can't do much to change what the algorithm shows me.*
+- I don't have much control over what the algorithm shows me.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+***
+
+### Strategic Refinement
+
+- I deliberately engage with certain kinds of content to influence what the algorithm shows me.
+- I decide what to watch, or not to watch, in order to influence what the algorithm thinks I like.
+- I purposefully don't engage with certain kinds of content to refine the algorithm's recommendations for me.
+
+***
+
+### Organic Refinement
+
+- The algorithm is influenced by the content that I normally engage with.
+- Interacting with content on my feed improves its ability to recommend content to me.
+- My everyday behaviors teach the algorithm what content I want to see.
+- The way I generally interact with content on my feed refines the algorithm's recommendations for me.
+- My behavior does not affect the algorithm's recommendations very much.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+***
+
+### Refraction
+
+- People that I see on my feed remind me of myself.
+- I feel like I can relate to people on my feed even if I don't know them.
+- I often see parts of myself represented in the people and content I come across through the algorithm.
+- When I see people show up in my feed, they remind me of myself.
+- I feel quite different from the people I see on my feed.*
+
+:::aside
+Reverse-coded items are denoted with an asterisk.
+:::
+
+***
+
+### Diffracted Belonging
+
+- I feel "seen" when the algorithm shows me content from people who are like me.
+- When I spend time browsing content on my feed, I feel that there are many other people who are similar to me.
+- The content on my feed makes me feel understood because it shows me people who have similar life experiences as me.
+- I feel more connected to others when I see content from people like me on my feed.
+- Seeing people like me on my feed makes me feel like I am not alone.
+
+
+***
+
+:::big-text
+Abschließende Fragen?
+:::
+
 # Literaturangaben

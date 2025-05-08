@@ -7,6 +7,7 @@ nocite: '@*'
 bibliography:
   grundlagen: "bib/25-1-be-grundlagen.bib"
   fragebogenkonstruktion: "bib/25-1-be-fragebogenkonstruktion.bib"
+  intensiv-longitudinal: "bib/25-1-be-intensiv-longitudinal.bib"
   stichprobenziehung: "bib/25-1-be-stichprobenziehung.bib"
   auswertung: "bib/25-1-be-auswertung.bib"
   verhaltensdaten: "bib/25-1-be-verhaltensdaten.bib"
@@ -30,6 +31,11 @@ Anbei finden Sie als Nachschlagewerk eine Sammlung aller Literaturangaben, die i
 ### Fragebogenkonstruktion
 
 ::: {#refs-fragebogenkonstruktion}
+:::
+
+### Intensiv longitudinale Designs
+
+::: {#refs-intensiv-longitudinal}
 :::
 
 ### Stichprobenziehung
