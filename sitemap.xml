@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://felixdidi.github.io/exercises/term_paper.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
-  </url>
-  <url>
-    <loc>https://felixdidi.github.io/exercises/e01.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
+    <loc>https://felixdidi.github.io/prep/p02.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
   <url>
     <loc>https://felixdidi.github.io/index.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
   <url>
-    <loc>https://felixdidi.github.io/prep/p02.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
+    <loc>https://felixdidi.github.io/exercises/e01.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
   <url>
-    <loc>https://felixdidi.github.io/literature.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
-  </url>
-  <url>
-    <loc>https://felixdidi.github.io/prep/p04.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
+    <loc>https://felixdidi.github.io/exercises/term_paper.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
   <url>
     <loc>https://felixdidi.github.io/slides/slides.html</loc>
-    <lastmod>2025-05-08T14:05:05.828Z</lastmod>
+    <lastmod>2025-05-15T13:43:55.121Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixdidi.github.io/literature.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
   <url>
     <loc>https://felixdidi.github.io/exercises/participation.html</loc>
-    <lastmod>2025-05-08T14:05:05.814Z</lastmod>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixdidi.github.io/exercises/e05.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://felixdidi.github.io/prep/p04.html</loc>
+    <lastmod>2025-05-15T13:43:55.107Z</lastmod>
   </url>
 </urlset>
