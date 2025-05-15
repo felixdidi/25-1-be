@@ -1329,4 +1329,141 @@ Reverse-coded items are denoted with an asterisk.
 Abschließende Fragen?
 :::
 
+
+# Sitzung 05: Open Science
+
+<br>
+
+![](img/05/open_science.jpeg){height=300px}
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+@dienlinAgendaOpenScience2021; @opensciencecollaborationEstimatingReproducibilityPsychological2015
+:::
+
+:::aside
+Bild generiert mit FLUX.1-schnell: "A TV screen showing three check marks as a black and white cartoon"
+:::
+
+## Agenda
+
+- **Open Science**
+- **Forschungsprojekt**:
+  - Kurzes Recap und weitere Schritte
+  - Gruppenbildung
+  - Gruppenarbeit
+
+***
+
+### Seminarübersicht & anstehende Deadlines
+
+| Datum      | Thema                                                | Ziele         |
+|------------|------------------------------------------------------|---------------|
+| 15.05.25   | Open Science                                         |               |
+| 22.05.25   | Projekt-Sitzung                                      | Präregistrierung|
+| 29.05.25   | Keine Sitzung: Feiertag                              | Pretest       |
+| 05.06.25   | Projekt-Sitzung                                      | Fragebogen    |
+
+*Anschließend Feldphase*
+
+<br>
+
+| Anforderung                                                                                         | Abgabe                   | Deadline                                                                 |
+|-----------------------------------------------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------|
+| Gruppen-Abgabe eines Proposals für das Forschungsprojekt | LMS   | Sonntag, 18.05., 23:59 Uhr                                           |
+
+*Kann schon basieren auf dem Template für Präregistrierung, siehe LMS*
+
+
+## Open Science: Warum?
+
+- **Replikationskrise**, v.a. in der Psychologie: Ein Großteil psychologischer Studien können nicht repliziert werden [@opensciencecollaborationEstimatingReproducibilityPsychological2015]
+- **Prominente Fälle von grobem wissenschaftlichem Fehlverhalten** wie fabrizierten Daten (z.B. Diederik Stapel)
+- **Problem**: fehlende Transparenz: Was wurde erhoben, manipuliert, ausgewertet?
+  - Bevorzugung signifikanter Ergebnisse im Veröffentlichungsprozess 
+  - fragwürdige Forschungspraktiken (QRP – questionable research practices), um solche Ergebnisse zu erzielen
+
+:::aside
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science, 349*(6251), aac4716. https://doi.org/10.1126/science.aac4716
+:::
+
+***
+
+### Beispiele für QRPs
+
+- **HARKing**: Hypothesizing After Results are Known
+  - Hypothesen erst dann aufstellen, wenn die Ergebnisse bekannt sind
+- **p-Hacking**
+  - Ergebnisdarstellung oder Datenanalysen so verändern, dass am Ende ein signifikantes Ergebnis herauskommt (z.B. durch selektives Berichten, Ausschluss bestimmter Teilnehmer:innen, Modelspezifizierungen, ...)
+- **Menschliche Fehler**
+  - Verschiedene Entscheidungen, die in der Studienkonzeption und Analyse getroffen werden (müssen)
+  - "Honest mistakes" in Datenanalysen
+
+:::fragment
+**Ist das Vertrauen in die Wissenschaft in Gefahr?**
+
+- Was können wir tun?
+- In der Kommunikationswissenschaft, siehe @dienlinAgendaOpenScience2021
+:::
+
+:::aside
+Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kümpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Schneider, F. M., Breuer, J., Parry, D. A., Vermeulen, I., Fisher, J. T., Banks, J., Weber, R., Ellis, D. A., … De Vreese, C. (2021). An agenda for open science in communication. *Journal of Communication, 71*(1), 1–26. https://doi.org/10.1093/joc/jqz052
+:::
+
+***
+
+### Was können wir tun?
+
+:::::: {.columns}
+::: {.column}
+- **Open Science** als fachübergreifende **Bewegung**, um den wissenschaftlichen Forschungsprozess und seine Ergebnisse transparenter zu machen
+- **Grundprinzipien**: Transparenz, Reproduzierbarkeit, Replizierbarkeit 
+- **Open Science Praktiken**:
+  - **Präregistrierung**: Vor dem Durchführen der Studie Hypothesen, Stichprobenziehung, Datenanalyseschritte etc. detailliert festhalten
+  - **Teilen von Materialien**: z.B. Fragebögen, Stimulusmaterial, Code der Datenauswertung, …
+  - **Teilen der Daten**
+:::
+::: {.column}
+![](img/05/batches.png)
+:::
+:::
+
+siehe auch siehe @dienlinAgendaOpenScience2021 und <https://osf.io/wpc8b>
+
+
+:::aside
+Dienlin, T., Johannes, N., Bowman, N. D., Masur, P. K., Engesser, S., Kümpel, A. S., Lukito, J., Bier, L. M., Zhang, R., Johnson, B. K., Huskey, R., Schneider, F. M., Breuer, J., Parry, D. A., Vermeulen, I., Fisher, J. T., Banks, J., Weber, R., Ellis, D. A., … De Vreese, C. (2021). An agenda for open science in communication. *Journal of Communication, 71*(1), 1–26. https://doi.org/10.1093/joc/jqz052
+:::
+
+***
+
+:::big-text
+Hierzu Fragen?
+:::
+
+<center>
+<br><br>
+Eigenes, ausführliches Beispiel:
+
+<https://osf.io/e2khm/?view_only=adcc7442e5fb4137897d6359fdb4e8f3>
+</center>
+
+## Kurzes Recap zum Projektfortschritt
+
+## Gruppenbildung
+
+## Gruppenarbeit
+
+:::::: {.columns}
+::: {.column width="66%"}
+**Konkretisieren Sie das Projektvorhaben inhaltlich und beginnen Sie mit der Arbeit an der Präregistrierung in der Kleingruppe!**
+:::
+::: {.column width="33%"}
+:::{.timer #gruppenarbeit-session-05 seconds=3600 starton=interaction}
+:::
+:::
+:::
+
 # Literaturangaben

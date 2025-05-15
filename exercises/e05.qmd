@@ -1,0 +1,44 @@
+---
+title: "Aufgabe 05"
+---
+
+## Gruppen-Abgabe eines Proposals für das Forschungsprojekt
+
+Setzen Sie die Arbeit aus der heutigen Sitzung fort und **erarbeiten Sie bis spätestens Sonntag, 18.05., 23:59 ein Gruppenproposal für Ihr Teilprojekt**. Dieses kann (muss aber nicht) bereits auf dem Template für eine Präregistrierung (siehe LMS) basieren. Je mehr Inhalte Sie hier bereits einbauen, desto besseres Feedback erhalten Sie in der nächsten Sitzung zum Fortschritt des Projekts.
+
+Jede Arbeitsgruppe soll **bis spätestens Freitag, 23.05.**, eine umfassende Präregistrierung für das aktuelle Forschungsprojekt erstellen, die alle in dem bereitgestellten Dokument enthaltenen Elemente abdeckt. Der Fokus liegt auf Transparenz, Vollständigkeit und Genauigkeit, um die Forschungsergebnisse nachvollziehbar und replizierbar zu machen.
+
+1. **Allgemeines**
+   - **Titel:** Formulieren Sie einen präzisen Arbeitstitel für die Studie.
+   - **Autor:innen:** Listen Sie alle beteiligten Teammitglieder auf.
+   - **Beschreibung:** Erstellen Sie eine kurze Studienbeschreibung (ca. 150 Wörter), einschließlich der übergeordneten Forschungsfrage und Zielsetzung.
+
+2. **Hypothesen und Forschungsfragen**
+   - Formulieren Sie die finalen Hypothesen und Forschungsfragen. Diese sollten nach der Festlegung nicht mehr geändert werden.
+
+3. **Forschungsdesign**
+   - **Studiendesign:** Beschreiben Sie das Gesamtdesign der Studie (z.B. ESM-Design).
+   - **Studiendauer:** Geben Sie die Anzahl der Tage für die ESM-Periode an.
+
+4. **Personenstichprobe**
+   - **Stichprobengröße und -ziehung:** Beschreiben Sie die geplante Stichprobengröße und die Methode der Rekrutierung.
+   - **Begründung für die Stichprobengröße:** Begründen Sie die Entscheidung für die Stichprobengröße (z.B. aufgrund vorheriger Studien, Ressourcenbeschränkungen).
+   - **Maßnahmen zur Steigerung der Teilnahmebereitschaft:** Beschreiben Sie alle geplanten Maßnahmen (z.B. Erinnerungen, Incentives).
+
+5. **Situationsstichprobe**
+   - **Stichprobengröße und -ziehung:** Beschreiben Sie die Art der Stichprobenziehung, die Anzahl der Situationen und die Begründung hierfür.
+   - **Erhebungsschema:** Spezifizieren Sie, wann und wie die Auslösung erfolgt (z.B. zufällig, intervallbasiert, event-basiert), den Zeitraumbezug der Items und das Time-out für die Beantwortung.
+
+6. **Operationalisierung**
+   - **Vorab- und Nachbefragung:** Listen Sie alle Variablen auf, die in der Vorab- und/oder Nachbefragung erhoben werden, einschließlich Fragen, Antwortoptionen, Skalen und Quellen.
+   - **ESM-Fragebogen:** Beschreiben Sie alle Variablen im ESM-Fragebogen, einschließlich Fragen, Antwortoptionen, Skalen, Quellen und die Reihenfolge der Items (randomisiert oder fest). Erläutern Sie die Auswahl von Items aus längeren Skalen.
+   - **Gesamtzahl und Art der Items:** Geben Sie die Gesamtzahl der Items pro Bewertung an, einschließlich offener und geschlossener Fragen, und schätzen Sie die Bearbeitungszeit.
+
+7. **Zusätzliche Erhebung von digitalen Verhaltensdaten**
+   - Beschreiben Sie, welche zusätzlichen Daten erhoben werden.
+
+8. **Durchführung**
+   - Geben Sie wichtige Informationen zur Durchführung während der Feldphase an, die nicht durch die anderen Punkte abgedeckt sind.
+
+9. **Literaturverzeichnis**
+   - Listen Sie alle Quellen auf, die in der Präregistrierung verwendet werden.
