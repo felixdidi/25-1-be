@@ -24,9 +24,33 @@ Legen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) D
 Sehen Sie sich mal die Dokumentation zu den folgenden `tidyverse`-Funktionen an; am einfachsten geht es vermutlich mit `left_join()`: <https://dplyr.tidyverse.org/reference/mutate-joins.html>
 :::
 
+**Lösung:**
+
+```r
+#|: eval = FALSE
+
+d <-
+  esm |>
+  left_join(intake, by = "participant")
+```
+
 ## Daten bereinigen
 
 Wir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.
+
+**Lösung:**
+
+```r
+#|: eval = FALSE
+
+esm <-
+  esm |>
+  arrange(participant, time) |>
+  group_by(participant) |>
+  mutate(very_close = difftime(time, lag(time), units = "minute"), .after = time) |>
+  ungroup() |>
+  filter(very_close >= 600) # Den Zeitabstand können wir variieren
+```
 
 ## Variablen anlegen
 
