@@ -8,7 +8,7 @@
 
 <meta name="author" content="Felix Dietrich">
 
-<title>Leistungsanforderungen für die aktive Teilnahme</title>
+<title>Aufgabe 12</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -70,66 +68,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Suchen"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-participation .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-Anforderung','listing-Abgabe','listing-Deadline',{ data: ['index'] },{ data: ['categories'] }],
-      
-      searchColumns: ["listing-Anforderung","listing-Abgabe","listing-Deadline"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-participation'] = new List('listing-participation', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -142,7 +82,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../index.html">Kursinformationen</a></li><li class="breadcrumb-item"><a href="../exercises/participation.html">Aktive Teilnahme</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Aufgabe 12</li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Suchen" onclick="window.quartoOpenSearch();">
@@ -190,7 +130,7 @@ window.Quarto = {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../exercises/participation.html" class="sidebar-item-text sidebar-link active">
+  <a href="../exercises/participation.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Aktive Teilnahme</span></a>
   </div>
 </li>
@@ -241,17 +181,20 @@ window.Quarto = {
     <h2 id="toc-title">Auf dieser Seite</h2>
    
   <ul>
-  <li><a href="#kursorganisation-und-teilnahmebedingungen" id="toc-kursorganisation-und-teilnahmebedingungen" class="nav-link active" data-scroll-target="#kursorganisation-und-teilnahmebedingungen">Kursorganisation und Teilnahmebedingungen</a></li>
-  <li><a href="#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme" id="toc-anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme" class="nav-link" data-scroll-target="#anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme">Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme</a></li>
+  <li><a href="#einen-überblick-verschaffen" id="toc-einen-überblick-verschaffen" class="nav-link active" data-scroll-target="#einen-überblick-verschaffen">Einen Überblick verschaffen</a></li>
+  <li><a href="#daten-laden" id="toc-daten-laden" class="nav-link" data-scroll-target="#daten-laden">Daten laden</a></li>
+  <li><a href="#daten-bereinigen" id="toc-daten-bereinigen" class="nav-link" data-scroll-target="#daten-bereinigen">Daten bereinigen</a></li>
+  <li><a href="#variablen-anlegen" id="toc-variablen-anlegen" class="nav-link" data-scroll-target="#variablen-anlegen">Variablen anlegen</a></li>
+  <li><a href="#modellspezifikation" id="toc-modellspezifikation" class="nav-link" data-scroll-target="#modellspezifikation">Modellspezifikation</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../index.html">Kursinformationen</a></li><li class="breadcrumb-item"><a href="../exercises/participation.html">Aktive Teilnahme</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Leistungsanforderungen für die aktive Teilnahme</h1>
+<h1 class="title">Aufgabe 12</h1>
   <div class="quarto-categories">
     <div class="quarto-category">BA Befragung: Mediennutzung &amp; -effekte KF C </div>
     <div class="quarto-category">Sommersemester 2025</div>
@@ -285,169 +228,67 @@ window.Quarto = {
 </header>
 
 
-<section id="kursorganisation-und-teilnahmebedingungen" class="level2">
-<h2 class="anchored" data-anchor-id="kursorganisation-und-teilnahmebedingungen">Kursorganisation und Teilnahmebedingungen</h2>
-<p>In diesem Kurs besteht <strong>keine Anwesenheitspflicht</strong>. Das bedeutet, dass Sie grundsätzlich nicht verpflichtet sind, physisch an den einzelnen Sitzungen teilzunehmen. Dennoch möchten ich Sie darauf hinweisen, dass <strong>Ihre Eigenverantwortung in diesem Kurs besonders hoch ist</strong>.</p>
-<p>Alle <strong>grundlegenden Informationen</strong> sowie Materialien und Aufgabenstellungen werden Ihnen über <strong>diese Kurswebseite sowie Moodle (LMS)</strong> zur Verfügung gestellt. Sie haben somit die Möglichkeit, viele Inhalte <strong>selbstständig vor- und nachzubereiten</strong>. Beachten Sie, dass <strong>ein Teil der Kursaufgaben bewusst auf nicht-präsente Zeiten verlagert</strong> wurde.</p>
-<p>Es liegt in Ihrer Verantwortung, sich <strong>kontinuierlich mit den Inhalten auseinanderzusetzen</strong>, die <strong>zentralen Abgaben, Aufgaben und Teilnahmevoraussetzungen im Blick zu behalten</strong> und diese fristgerecht zu erfüllen.</p>
-<p>Falls Sie an bestimmten Terminen <strong>nicht anwesend sein können</strong>, aber <strong>Gruppenarbeiten</strong> vorgesehen sind, sind Sie dennoch verpflichtet, sich <strong>aktiv und zuverlässig in die Gruppenprozesse einzubringen</strong> – auch außerhalb der Präsenzzeiten. Eine fehlende Teilnahme in der Sitzung entbindet Sie <strong>nicht von der Mitverantwortung gegenüber Ihrer Gruppe</strong>.</p>
-<p>Gerade in <strong>empirisch ausgerichteten Kursen</strong> gibt es <strong>zahlreiche essentielle Sitzungen</strong>, die eng mit dem <strong>Erfolg Ihrer Projektarbeit und dem abschließenden Bericht</strong> verknüpft sind. Ein erfolgreicher Abschluss des Kurses ist <strong>ohne regelmäßige Teilnahme oder ein hohes Maß an eigenständiger Nachbereitung nicht möglich</strong>.</p>
+<section id="einen-überblick-verschaffen" class="level2">
+<h2 class="anchored" data-anchor-id="einen-überblick-verschaffen">Einen Überblick verschaffen</h2>
+<p>Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:</p>
+<ul>
+<li>Offizielle Präregistrierung des Projekts</li>
+<li>Codebook of Variables</li>
+<li>(ggf. Aufbau des Fragebogens)</li>
+</ul>
+<p>Überlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können.</p>
 </section>
-<section id="anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme" class="level2">
-<h2 class="anchored" data-anchor-id="anforderungen-und-fristen-zur-ergbringung-der-aktiven-teilnahme">Anforderungen und Fristen zur Ergbringung der aktiven Teilnahme</h2>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-participation">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<section id="daten-laden" class="level2">
+<h2 class="anchored" data-anchor-id="daten-laden">Daten laden</h2>
+<p>Legen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze <code>intake</code> und <code>esm</code> in die Umgebung.</p>
+<ul>
+<li>Verschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken</li>
+<li>Überlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann</li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
+<div class="callout-title-container flex-fill">
+Tipp
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Sehen Sie sich mal die Dokumentation zu den folgenden <code>tidyverse</code>-Funktionen an; am einfachsten geht es vermutlich mit <code>left_join()</code>: <a href="https://dplyr.tidyverse.org/reference/mutate-joins.html" class="uri">https://dplyr.tidyverse.org/reference/mutate-joins.html</a></p>
+</div>
+</div>
+</section>
+<section id="daten-bereinigen" class="level2">
+<h2 class="anchored" data-anchor-id="daten-bereinigen">Daten bereinigen</h2>
+<p>Wir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.</p>
+</section>
+<section id="variablen-anlegen" class="level2">
+<h2 class="anchored" data-anchor-id="variablen-anlegen">Variablen anlegen</h2>
+<p>Basierend auf Ihrem Überblick von oben: Überlegen Sie, welche Variablen Sie noch anlegen müssen, und wie dies funktionieren könnte.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tipp
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Sehen Sie sich mal die Dokumentation zu der folgenden <code>tidyverse</code>-Funktionen an: <a href="https://dplyr.tidyverse.org/reference/lead-lag.html" class="uri">https://dplyr.tidyverse.org/reference/lead-lag.html</a></p>
+<p>Denken Sie auch daran, dass wir bei der Analyse ggf. auch Within- und Between-Person Effekte unterscheiden wollen.</p>
+</div>
+</div>
+</section>
+<section id="modellspezifikation" class="level2">
+<h2 class="anchored" data-anchor-id="modellspezifikation">Modellspezifikation</h2>
+<p>Versuchen Sie, für jede Hypothese (mindestens) ein passendes Modell zu spezifizieren. In den meisten Fällen dürfte dies ein REWB-Modell mit der Funktion <code>lmer()</code> sein.</p>
 
-<th>
-Anforderung
-</th>
 
-<th>
-Abgabe
-</th>
+</section>
 
-<th>
-Deadline
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0">
-<td>
-<span class="listing-Anforderung">Aktive Teilnahme an Diskussionen und Gruppenarbeiten im Kurs</span>
-</td>
-<td>
-<span class="listing-Abgabe">&nbsp;</span>
-</td>
-<td>
-<span class="listing-Deadline">Fortlaufend</span>
-</td>
-
-</tr>
-
-<tr data-index="1">
-<td>
-<span class="listing-Anforderung">Sitzungsvorbereitung durch Literatur-Lektüre &amp; -Recherche</span>
-</td>
-<td>
-<span class="listing-Abgabe">&nbsp;</span>
-</td>
-<td>
-<span class="listing-Deadline">Fortlaufend</span>
-</td>
-
-</tr>
-
-<tr data-index="2">
-<td>
-<span class="listing-Anforderung">Einreichen von jeweils einer Verständnis- oder Diskussionsfrage zu den Videos (siehe: Vorbereitung Sitzung 2 &amp; 4)</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Dienstag vor der jeweiligen Sitzung (22.04. &amp; 06.05.), 23:59 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="3">
-<td>
-<span class="listing-Anforderung">Individuelle Abgabe einer vorläufigen Problemstellung/übergeordneten Frage für das Forschungsprojekt</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Sonntag, 27.04., 23:59 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="4">
-<td>
-<span class="listing-Anforderung">Individuelle Abgabe einer überarbeiteten Problemstellung/übergeordneten Frage für das Forschungsprojekt</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Sonntag, 11.05., 23:59 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="5">
-<td>
-<span class="listing-Anforderung">Gruppen-Abgabe eines Proposals für das Forschungsprojekt</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Sonntag, 18.05., 23:59 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="6">
-<td>
-<span class="listing-Anforderung">Gruppen-Abgabe der (vorläufigen) Präregistrierung für das Forschungsprojekt</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Sonntag, 18.05., 23:59 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="7">
-<td>
-<span class="listing-Anforderung">Pretest des Fragebogens &amp; Rekrutierung von Studienteilnehmenden</span>
-</td>
-<td>
-<span class="listing-Abgabe">&nbsp;</span>
-</td>
-<td>
-<span class="listing-Deadline">Donnerstag, 05.06., 16:15 Uhr</span>
-</td>
-
-</tr>
-
-<tr data-index="8">
-<td>
-<span class="listing-Anforderung">Abschlusspräsentation</span>
-</td>
-<td>
-<span class="listing-Abgabe">E-Mail an den Dozenten</span>
-</td>
-<td>
-<span class="listing-Deadline">Abgabe Dienstag, 15.07., 23:59 Uhr, Präsentation Donnerstag, 17.07., 16:15 Uhr</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
-<div class="listing-no-matching d-none">Keine Treffer</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
