@@ -590,14 +590,14 @@
     "href": "exercises/e12.html#daten-laden",
     "title": "Aufgabe 12",
     "section": "Daten laden",
-    "text": "Daten laden\nLegen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze intake und esm in die Umgebung.\n\nVerschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken\nÜberlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann\n\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu den folgenden tidyverse-Funktionen an; am einfachsten geht es vermutlich mit left_join(): https://dplyr.tidyverse.org/reference/mutate-joins.html"
+    "text": "Daten laden\nLegen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze intake und esm in die Umgebung.\n\nVerschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken\nÜberlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann\n\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu den folgenden tidyverse-Funktionen an; am einfachsten geht es vermutlich mit left_join(): https://dplyr.tidyverse.org/reference/mutate-joins.html\n\n\nLösung:\n#|: eval = FALSE\n\nd &lt;-\n  esm |&gt;\n  left_join(intake, by = \"participant\")"
   },
   {
     "objectID": "exercises/e12.html#daten-bereinigen",
     "href": "exercises/e12.html#daten-bereinigen",
     "title": "Aufgabe 12",
     "section": "Daten bereinigen",
-    "text": "Daten bereinigen\nWir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an."
+    "text": "Daten bereinigen\nWir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.\nLösung:\n#|: eval = FALSE\n\nesm &lt;-\n  esm |&gt;\n  arrange(participant, time) |&gt;\n  group_by(participant) |&gt;\n  mutate(very_close = difftime(time, lag(time), units = \"minute\"), .after = time) |&gt;\n  ungroup() |&gt;\n  filter(very_close &gt;= 600) # Den Zeitabstand können wir variieren"
   },
   {
     "objectID": "exercises/e12.html#variablen-anlegen",
