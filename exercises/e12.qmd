@@ -1,0 +1,44 @@
+---
+title: "Aufgabe 12"
+---
+
+## Einen Überblick verschaffen
+
+Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:
+
+- Offizielle Präregistrierung des Projekts
+- Codebook of Variables
+- (ggf. Aufbau des Fragebogens)
+
+Überlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können.
+
+## Daten laden
+
+Legen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze `intake` und `esm` in die Umgebung.
+
+- Verschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken
+- Überlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann
+
+:::{.callout-tip}
+### Tipp
+Sehen Sie sich mal die Dokumentation zu den folgenden `tidyverse`-Funktionen an; am einfachsten geht es vermutlich mit `left_join()`: <https://dplyr.tidyverse.org/reference/mutate-joins.html>
+:::
+
+## Daten bereinigen
+
+Wir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.
+
+## Variablen anlegen
+
+Basierend auf Ihrem Überblick von oben: Überlegen Sie, welche Variablen Sie noch anlegen müssen, und wie dies funktionieren könnte.
+
+:::{.callout-tip}
+### Tipp
+Sehen Sie sich mal die Dokumentation zu der folgenden `tidyverse`-Funktionen an: <https://dplyr.tidyverse.org/reference/lead-lag.html>
+
+Denken Sie auch daran, dass wir bei der Analyse ggf. auch Within- und Between-Person Effekte unterscheiden wollen.
+:::
+
+## Modellspezifikation
+
+Versuchen Sie, für jede Hypothese (mindestens) ein passendes Modell zu spezifizieren. In den meisten Fällen dürfte dies ein REWB-Modell mit der Funktion `lmer()` sein.
