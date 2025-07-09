@@ -1,0 +1,15 @@
+{
+  "hash": "6db5927882f636f6aba4e92b9249e243",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Aufgabe 12\"\n---\n\n## Einen Überblick verschaffen\n\nSehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:\n\n- Offizielle Präregistrierung des Projekts\n- Codebook of Variables\n- (ggf. Aufbau des Fragebogens)\n\nÜberlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können.\n\n## Daten laden\n\nLegen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze `intake` und `esm` in die Umgebung.\n\n- Verschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken\n- Überlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann\n\n:::{.callout-tip}\n### Tipp\nSehen Sie sich mal die Dokumentation zu den folgenden `tidyverse`-Funktionen an; am einfachsten geht es vermutlich mit `left_join()`: <https://dplyr.tidyverse.org/reference/mutate-joins.html>\n:::\n\n**Lösung:**\n\n\n::: {.cell}\n\n```{.r .cell-code}\nd <-\n  esm |>\n  left_join(intake, by = \"participant\")\n```\n:::\n\n\n## Daten bereinigen\n\nWir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.\n\n**Lösung:**\n\n\n::: {.cell}\n\n```{.r .cell-code}\nesm <-\n  esm |>\n  arrange(participant, time) |>\n  group_by(participant) |>\n  mutate(very_close = difftime(time, lag(time), units = \"minute\"), .after = time) |>\n  ungroup() |>\n  filter(very_close >= 600) # Den Zeitabstand können wir variieren\n```\n:::\n\n\n## Variablen anlegen\n\nBasierend auf Ihrem Überblick von oben: Überlegen Sie, welche Variablen Sie noch anlegen müssen, und wie dies funktionieren könnte.\n\n:::{.callout-tip}\n### Tipp\nSehen Sie sich mal die Dokumentation zu der folgenden `tidyverse`-Funktionen an: <https://dplyr.tidyverse.org/reference/lead-lag.html>\n\nDenken Sie auch daran, dass wir bei der Analyse ggf. auch Within- und Between-Person Effekte unterscheiden wollen.\n:::\n\n## Modellspezifikation\n\nVersuchen Sie, für jede Hypothese (mindestens) ein passendes Modell zu spezifizieren. In den meisten Fällen dürfte dies ein REWB-Modell mit der Funktion `lmer()` sein.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

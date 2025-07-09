@@ -26,8 +26,8 @@ Sehen Sie sich mal die Dokumentation zu den folgenden `tidyverse`-Funktionen an;
 
 **Lösung:**
 
-```r
-#|: eval = FALSE
+```{r}
+#| eval: false
 
 d <-
   esm |>
@@ -40,8 +40,8 @@ Wir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Frageb
 
 **Lösung:**
 
-```r
-#|: eval = FALSE
+```{r}
+#| eval: false
 
 esm <-
   esm |>
