@@ -4,7 +4,7 @@ title: "Informationen zum Projektbericht"
 
 ## Inhalt
 
-Der Projektbericht soll pro Gruppenmitglied maximal 10 Seiten umfassen, wobei insgesamt etwa 10.000 Wörter (ca. 40 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Gute und präzise Projektberichte können teilweise auch nur 20-25 Seiten lang sein. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend "signifikante" Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.
+Der Projektbericht soll pro Gruppenmitglied ca. 5 Seiten umfassen, wobei insgesamt etwa 7000-9000 Wörter (ca. 20-25 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend "signifikante" Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.
 
 
 Weitere Informationen zum konkreten Aufbau des Projekterichts erfolgen in der letzten Sitzung des Semesters. Außerdem finden Sie grundlegende Informationen auf den folgenden Seiten:
@@ -16,7 +16,7 @@ Im Speziellen gelten die folgenden Anforderungen an den Projektbericht:
 
 ## Umfang
 
-- maximal (!) 40 Seiten Text (10 Seiten pro Person), exkl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis etc.
+- 20-25 Seiten Text (ca. 5 Seiten pro Person), exkl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis etc.
 
 ## Formatierung
 
@@ -34,6 +34,7 @@ Im Speziellen gelten die folgenden Anforderungen an den Projektbericht:
 - Der Hausarbeit muss am Ende eine unterschriebene eidesstattliche Erklärung über das eigenständige Anfertigen der Arbeit beiliegen. Andernfalls kann die Arbeit nicht als Prüfungsleistung anerkannt werden.
 - Um Plagiate zu vermeiden, belegen Sie alle (prinzipiell überprüfbaren) Tatsachenbehauptungen mit wissenschaftlicher Literatur. Weiterführende Interpretationen, Theorietransfer und eigene Gedanken bedürfen keines Belegs. Sie können und sollten diese Eigenleistungen jedoch mit Literatur und empirischen Befunden untermauern, die den jeweiligen Gedankengang unterstützen.
 - Einsatz von "KI": In diesem Seminar ist der Einsatz von "KI"-Werkzeugen für unterstützende Aufgaben erlaubt, bspw. das Verstehen von Konzepten oder die Korrektur von Rechtschreibfehlern. Ebenso dürfen Sie sich bei der Arbeit mit Programmiersprachen wie R oder Python unterstützen lassen. Unzulässig ist jedoch die Nutzung von überwiegend "KI"-generiertem Text in Aufgaben ohne Quellenangabe oder die vollständige Bearbeitung von Arbeitsschritten durch "KI". Falls "KI"-Werkzeuge verwendet werden, muss dies transparent angegeben werden. Für die Richtigkeit der Ergebnisse sind Sie selbst verantwortlich!
+- Die aktuelle eidesstattliche Erklärung finden Sie unter <https://www.sozialwissenschaften.uni-mainz.de/files/2025/02/BA_Erklaerung_17.02.25.pdf>
 
 ## Abgabe des Projektberichts
 
