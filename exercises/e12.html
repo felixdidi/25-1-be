@@ -294,25 +294,25 @@ Tipp
 </div>
 </div>
 <p><strong>Lösung:</strong></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a><span class="co">#|: eval = FALSE</span></span>
-<span id="cb1-2"><a href="#cb1-2"></a></span>
-<span id="cb1-3"><a href="#cb1-3"></a>d <span class="ot">&lt;-</span></span>
-<span id="cb1-4"><a href="#cb1-4"></a>  esm <span class="sc">|&gt;</span></span>
-<span id="cb1-5"><a href="#cb1-5"></a>  <span class="fu">left_join</span>(intake, <span class="at">by =</span> <span class="st">"participant"</span>)</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1"></a>d <span class="ot">&lt;-</span></span>
+<span id="cb1-2"><a href="#cb1-2"></a>  esm <span class="sc">|&gt;</span></span>
+<span id="cb1-3"><a href="#cb1-3"></a>  <span class="fu">left_join</span>(intake, <span class="at">by =</span> <span class="st">"participant"</span>)</span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
 <section id="daten-bereinigen" class="level2">
 <h2 class="anchored" data-anchor-id="daten-bereinigen">Daten bereinigen</h2>
 <p>Wir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.</p>
 <p><strong>Lösung:</strong></p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a><span class="co">#|: eval = FALSE</span></span>
-<span id="cb2-2"><a href="#cb2-2"></a></span>
-<span id="cb2-3"><a href="#cb2-3"></a>esm <span class="ot">&lt;-</span></span>
-<span id="cb2-4"><a href="#cb2-4"></a>  esm <span class="sc">|&gt;</span></span>
-<span id="cb2-5"><a href="#cb2-5"></a>  <span class="fu">arrange</span>(participant, time) <span class="sc">|&gt;</span></span>
-<span id="cb2-6"><a href="#cb2-6"></a>  <span class="fu">group_by</span>(participant) <span class="sc">|&gt;</span></span>
-<span id="cb2-7"><a href="#cb2-7"></a>  <span class="fu">mutate</span>(<span class="at">very_close =</span> <span class="fu">difftime</span>(time, <span class="fu">lag</span>(time), <span class="at">units =</span> <span class="st">"minute"</span>), <span class="at">.after =</span> time) <span class="sc">|&gt;</span></span>
-<span id="cb2-8"><a href="#cb2-8"></a>  <span class="fu">ungroup</span>() <span class="sc">|&gt;</span></span>
-<span id="cb2-9"><a href="#cb2-9"></a>  <span class="fu">filter</span>(very_close <span class="sc">&gt;=</span> <span class="dv">600</span>) <span class="co"># Den Zeitabstand können wir variieren</span></span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1"></a>esm <span class="ot">&lt;-</span></span>
+<span id="cb2-2"><a href="#cb2-2"></a>  esm <span class="sc">|&gt;</span></span>
+<span id="cb2-3"><a href="#cb2-3"></a>  <span class="fu">arrange</span>(participant, time) <span class="sc">|&gt;</span></span>
+<span id="cb2-4"><a href="#cb2-4"></a>  <span class="fu">group_by</span>(participant) <span class="sc">|&gt;</span></span>
+<span id="cb2-5"><a href="#cb2-5"></a>  <span class="fu">mutate</span>(<span class="at">very_close =</span> <span class="fu">difftime</span>(time, <span class="fu">lag</span>(time), <span class="at">units =</span> <span class="st">"minute"</span>), <span class="at">.after =</span> time) <span class="sc">|&gt;</span></span>
+<span id="cb2-6"><a href="#cb2-6"></a>  <span class="fu">ungroup</span>() <span class="sc">|&gt;</span></span>
+<span id="cb2-7"><a href="#cb2-7"></a>  <span class="fu">filter</span>(very_close <span class="sc">&gt;=</span> <span class="dv">600</span>) <span class="co"># Den Zeitabstand können wir variieren</span></span></code><button title="In die Zwischenablage kopieren" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
 <section id="variablen-anlegen" class="level2">
 <h2 class="anchored" data-anchor-id="variablen-anlegen">Variablen anlegen</h2>
