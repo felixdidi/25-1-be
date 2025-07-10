@@ -1466,4 +1466,88 @@ Eigenes, ausführliches Beispiel:
 :::
 :::
 
+# Sitzung 14: Semesterabschluss und Informationen zum Projektbericht
+
+<br>
+
+![](img/14/celebrate.jpeg){height=300px}
+
+<br>
+
+:::callout-warning
+## Ressourcen für diese Sitzung
+<https://felixdidi.github.io/25-1-be/exercises/term_paper.html>
+:::
+
+:::aside
+Bild generiert mit FLUX.1-schnell: "A woman on a TV screen celebrating as a black and white cartoon"
+:::
+
+## Agenda
+
+- Informationen zum Projektbericht
+- Evaluation
+- Gruppen-Feedback / Fragen
+- Abschlusspräsentationen
+
+## Informationen zum Projektbericht
+
+- Die Kennzeichnung der eigenen Arbeitsleistung ist verpflichtend
+- Bei einer strikten Aufteilung der Kapitel unter den Teammitgliedern sollte eine finale Überarbeitung vorgenommen werden, damit die einzelnen Teile ineinandergreifen
+- Eidesstattliche Erklärung anfügen
+- Abgabetermin: 01.09., 12 Uhr mittags
+- Abgabe einer elektronischen Version (PDF) über die Abgabefunktion im LMS (“Abgabe der Hausarbeit”) — es genügt eine Abgabe pro Gruppe
+- Ergänzende Materialien (Analyseskripte, Datensätze, etc.) als .zip-Datei verpacken und hochladen
+- Weitere Informationen (Deckblatt, Schriftgröße, etc.) gibt es im [Leitfaden für Seminararbeiten](https://www.studium.ifp.uni-mainz.de/files/2021/11/Leitfaden-Seminararbeiten_20211103.pdf)
+
+## Inhaltliche Vorgaben
+
+- ca. 5 Seiten pro Gruppenmitglied, ca. 7000-9000 Wörter (ca. 20-25 Seiten) insgesamt
+  - Seitenanzahl ist nur eine grobe Orientierungshilfe
+  - Es gilt Qualität vor Quantität, d.h. adäquate Behandlung des Themas sowie angemessene Analyse der Daten und Einordnung der Ergebnisse
+  - Wichtige Grafiken und Tabellen in den Text, ergänzende Analysen in den Anhang
+- Hausarbeit sollte die folgenden Punkte enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse, Diskussion
+- Orientieren Sie sich an aktuellen Publikationen (insb. ESM-Studien)
+- Dokumentation der eigenen Arbeit, d.h. bereits vorhandene Materialien können recycled werden
+- Es muss nichts "rauskommen", Lernen und Üben im Fokus
+- Formalien und Regeln wissenschaftlicher Arbeit sind wichtig und notenrelevant
+
+## Einsatz von KI-Tools in der Hausarbeit
+
+::::columns
+:::column
+
+- Neue Eigenständigkeitserklärung für Hausarbeiten
+- Verwendung des Formulars mit erlaubtem KI-Einsatz, welcher im Anhang dokumentiert werden muss (siehe Beispiel in der neuen Selbstständigkeitserklärung)
+
+**In diesem Kurs erlaubt (wenn dokumentiert)**
+
+- KI-Nutzung zur Recherche von Literatur (z.B. Elicit, ResearchRabbit)
+- KI-Nutzung zur Überarbeitung des Textes (z.B. DeepL Write)
+- KI-Nutzung zur Inhaltsanalyse (Dokumentation im Methodenteil)
+
+**In diesem Kurs nicht erlaubt**
+
+- KI zur Generierung des Hausarbeitstextes (z.B. ChatGPT)
+
+:::
+
+:::column
+![](img/14/nutzung_ki_tools.png)
+:::
+::::
+
+## Angebote der JGU
+
+**Campusweite Schreibwerkstatt**
+
+- <https://www.schreibwerkstatt.uni-mainz.de/>
+- Individuelle Schreibberatung:
+  - Zeitmanagement, Schreibstrategien,  Lesestrategien, Textfeedback und Überarbeitungsstrategien, Selbstreflexion
+
+## Evaluation
+
+<!-- ![](img/14/eval_code.png){height="500px"} -->
+
+
 # Literaturangaben
