@@ -1547,7 +1547,13 @@ Bild generiert mit FLUX.1-schnell: "A woman on a TV screen celebrating as a blac
 
 ## Evaluation
 
-<!-- ![](img/14/eval_code.png){height="500px"} -->
+![](img/14/eval_code.png){height="500px"}
+
+<center>
+https://befragung.uni-mainz.de/evasys/online/
+
+AA1XF
+</center>
 
 
 # Literaturangaben
