@@ -1524,7 +1524,7 @@ Bild generiert mit FLUX.1-schnell: "A woman on a TV screen celebrating as a blac
 
 - KI-Nutzung zur Recherche von Literatur (z.B. Elicit, ResearchRabbit)
 - KI-Nutzung zur Überarbeitung des Textes (z.B. DeepL Write)
-- KI-Nutzung zur Inhaltsanalyse (Dokumentation im Methodenteil)
+- KI-Nutzung zur unterstützten Datenanalyse (z.B. ChatGPT, KI-Chat Uni Mainz)
 
 **In diesem Kurs nicht erlaubt**
 
