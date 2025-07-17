@@ -1,139 +1,5 @@
 [
   {
-    "objectID": "literature.html",
-    "href": "literature.html",
-    "title": "Literatur",
-    "section": "",
-    "text": "Anbei finden Sie als Nachschlagewerk eine Sammlung aller Literaturangaben, die im Rahmen dieses Kurses (bspw. in Übungen oder auch auf den Folien) genannt wurden oder die anderweitig (bspw. als ergänzende Literatur) für Sie relevant sein könnten.",
-    "crumbs": [
-      "Materialien",
-      "Literatur"
-    ]
-  },
-  {
-    "objectID": "literature.html#methoden",
-    "href": "literature.html#methoden",
-    "title": "Literatur",
-    "section": "Methoden",
-    "text": "Methoden\n\nGrundlagen (quantitativer) Befragung\n\n\nBrosius, H.-B., Haas, A., & Koschel, F. (2016). Methoden Der Empirischen Kommunikationsforschung: Eine Einführung (7. Aufl.). VS Verlag für Sozialwissenschaften.\n\n\nMöhring, W., & Schlütz, D. (2010). Die Befragung in Der Medien- Und Kommunikationswissenschaft: Eine Praxisorientierte Einführung (2. Aufl.). VS Verlag für Sozialwissenschaften.\n\n\nMöhring, W., & Schlütz, D. (Hrsg.). (2013). Handbuch standardisierte Erhebungsverfahren in der Kommunikationswissenschaft. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18776-1\n\n\n\n\nFragebogenkonstruktion\n\n\nBühner, M. (2011). Einführung in Die Test- Und Fragebogenkonstruktion (3. Aufl.). Pearson Studium.\n\n\nHartmann, T., & Reinecke, L. (2013). Skalenkonstruktion in der Kommunikationswissenschaft. In W. Möhring & D. Schlütz (Hrsg.), Handbuch standardisierte Erhebungsverfahren in der Kommunikationswissenschaft (S. 41–60). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18776-1_3\n\n\n\n\nIntensiv longitudinale Designs\n\n\nBolger, N., Davis, A., & Rafaeli, E. (2003). Diary Methods: Capturing Life as It Is Lived. Annual Review of Psychology, 54(1), 579–616. https://doi.org/10/cgrxwr\n\n\nMyin-Germeys, I., & Kuppens, P. (Hrsg.). (2022). The Open Handbook of Experience Sampling Methodology: A Step-by-Step Guide to Designing, Conducting, and Analyzing ESM Studies (Second edition). The center for Research on Experience sampling and Ambulatory methods Leuven.\n\n\nSchnauber-Stockmann, A., & Karnowski, V. (2020). Mobile Devices as Tools for Media and Communication Research: A Scoping Review on Collecting Self-Report Data in Repeated Measurement Designs. Communication Methods and Measures, 14(3), 145–164. https://doi.org/10/gks6zf\n\n\n\n\nStichprobenziehung\n\n\nADM Arbeitskreis Deutscher Markt- und Sozialforschungsinstitute e.V. (2014). Stichproben-Verfahren in der Umfrageforschung: Eine Darstellung für die Praxis. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18882-9\n\n\n\n\nAuswertung\n\n\nField, A. P., Miles, J., & Field, Z. (2012). Discovering Statistics Using R. Sage.\n\n\nLuhmann, M. (2020). R für Einsteiger: Einführung in die Statistik-Software für die Sozialwissenschaften (Originalausgabe, 5., überarbeitete Aufl). Beltz.\n\n\n\n\nVerhaltensdaten\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., de Schipper, N. C., & Araujo, T. (2024). Best Practices for Studies Using Digital Data Donation. Quality & Quantity. https://doi.org/10/g8zk7z\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nFreelon, D. (2018). Computational Research in the Post-API Age. Political Communication, 35(4), 665–668. https://doi.org/10/gfs6ng\n\n\nLazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful Measures of Human Society in the Twenty-First Century. Nature, 595(7866), 189–196. https://doi.org/10/gkzp4x\n\n\nMahrt, M., & Scharkow, M. (2013). The Value of Big Data in Digital Media Research. Journal of Broadcasting & Electronic Media, 57(1), 20–33. https://doi.org/10.1080/08838151.2012.761700\n\n\nMenchen-Trevino, E. (2013). Collecting Vertical Trace Data: Big Possibilities and Big Challenges for Multi-Method Research. Policy & Internet, 5(3), 328–339. https://doi.org/10.1002/1944-2866.POI336\n\n\nOhme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10/gs53z3\n\n\nOlteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Frontiers in Big Data, 2. https://doi.org/10/ggcxgj\n\n\nSen, I., Flöck, F., Weller, K., Weiß, B., & Wagner, C. (2021). A Total Error Framework for Digital Traces of Human Behavior on Online Platforms. Public Opinion Quarterly, 85(S1), 399–422. https://doi.org/10/gmx62w\n\n\nStier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. Social Science Computer Review, 38(5), 503–516. https://doi.org/10/gf3xxw\n\n\nVan Atteveldt, W., Althaus, & and Wessler, H. (2021). The Trouble with Sharing Your Privates: Pursuing Ethical Open Science and Collaborative Research across National Jurisdictions Using Sensitive Data. Political Communication, 38(1–2), 192–198. https://doi.org/10/g9ghxq",
-    "crumbs": [
-      "Materialien",
-      "Literatur"
-    ]
-  },
-  {
-    "objectID": "literature.html#theorie",
-    "href": "literature.html#theorie",
-    "title": "Literatur",
-    "section": "Theorie",
-    "text": "Theorie\n\nMedia Entertainment\n\n\nBosshart, L., & Macconi, I. (1998). Media Entertainment. Communication Research Trends, 18(3), 3–8.\n\n\nFahr, A., & Früh, H. (2021). Entertainment Is a Journey, Not Just a Destination: Process Perspectives in Entertainment Theories. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 22–44). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.2\n\n\nGilbert, A., Reinecke, L., Meier, A., Baumgartner, S. E., & Dietrich, F. (2024). Too Amused to Stop? Self-control and the Disengagement Process on Netflix. Journal of Communication, 74(5), 387–398. https://doi.org/10.1093/joc/jqae023\n\n\nHalfmann, A., & Reinecke, L. (2021). Binge-Watching as Case of Escapist Entertainment Use. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 180–203). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.11\n\n\nJanicke-Bowles, S. H., Bartsch, A., Oliver, M. B., & Raney, A. A. (2021). Transcending Eudaimonic Entertainment: A Review and Expansion of Meaningful Entertainment. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 362–381). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.20\n\n\nKlimmt, C., & Rieger, D. (2021). Biographic Resonance Theory of Eudaimonic Media Entertainment. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 381–402). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.21\n\n\nOliver, M. B., Bailey, E., Ferchaud, A., & Yang, C. (2017). Entertainment Effects: Media Appreciation. In P. Rössler, C. A. Hoffner, & L. Zoonen (Hrsg.), The International Encyclopedia of Media Effects (1. Aufl., S. 1–8). Wiley. https://doi.org/10.1002/9781118783764.wbieme0164\n\n\nOliver, M. B., & Raney, A. A. (2011). Entertainment as Pleasurable and Meaningful: Identifying Hedonic and Eudaimonic Motivations for Entertainment Consumption. Journal of Communication, 61(5), 984–1004. https://doi.org/10.1111/j.1460-2466.2011.01585.x\n\n\nPossler, D., Scheper, J., Raney, A. A., & Klimmt, C. (2025). Is There an Easy Path to Eudaimonia? Novel Insights on the Dual-Process Perspective in Media Entertainment. Communication Research, 00936502241306709. https://doi.org/10/g8xsrm\n\n\nRaney, A. A., & Bryant, J. (2019). Entertainment and Enjoyment as Media Effect. In M. B. Oliver, A. A. Raney, & J. Bryant (Hrsg.), Media Effects: Advances in Theory and Research (4. Aufl., S. 324–341). Routledge. https://doi.org/10.4324/9780429491146-21\n\n\nRaney, A. A., Oliver, M. B., & Bartsch, A. (2019). Eudaimonia as Media Effect. In M. B. Oliver, A. A. Raney, & J. Bryant (Hrsg.), Media Effects: Advances in Theory and Research (4. Aufl., S. 258–274). Routledge. https://doi.org/10.4324/9780429491146-17\n\n\nReinecke, L., & Kreling, R. J. (2022). The Longitudinal Influence of Hedonic and Eudaimonic Entertainment Preferences on Psychological Resilience and Wellbeing. Frontiers in Communication, 7, Article 991458. https://doi.org/10.3389/fcomm.2022.991458\n\n\nReinecke, L., & Meier, A. (2021). Media Entertainment as Guilty Pleasure? The Appraisal of Media Use, Self-Control, and Entertainment (AMUSE) Model. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 203–230). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.12\n\n\nReinecke, L., & Rieger, D. (2021). Media Entertainment as a Self-Regulatory Resource: The Recovery and Resilience in Entertaining Media Use (R²EM) Model. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 754–779). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.39\n\n\nRieger, D., Reinecke, L., Frischlich, L., & Bente, G. (2014). Media Entertainment and Well-Being: Linking Hedonic and Eudaimonic Entertainment Experience to Media-Induced Recovery and Vitality. Journal of Communication, 64(3), 456–478. https://doi.org/10.1111/jcom.12097\n\n\nSchneider, F. M., Bartsch, A., & Leonhard, L. (2021). An Extended Dual-Process Model of Entertainment Effects on Political Information Processing and Engagement. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 536–557). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.29\n\n\nSchneider, F. M., Bartsch, A., & Oliver, M. B. (2019). Factorial Validity and Measurement Invariance of the Appreciation, Fun, and Suspense Scales across US-American and German Samples. Journal of Media Psychology, 31(3), 149–156. https://doi.org/10/gms75s\n\n\nTamborini, R., Grady, S. M., Baldwin, J., McClaran, N., & Lewis, R. (2021). The Narrative Enjoyment and Appreciation Rationale. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 44–62). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.3\n\n\nTamborini, R., Grizzard, M., Bowman, N. D., Reinecke, L., Lewis, R. J., & Eden, A. (2011). Media Enjoyment as Need Satisfaction: The Contribution of Hedonic and Nonhedonic Needs. Journal of Communication, 61(6), 1025–1042. https://doi.org/10/dm34xj\n\n\nVorderer, P. (2021). Entertainment and Resonance. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (1. Aufl., S. 123–137). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.8\n\n\nVorderer, P., & Halfmann, A. (2019). Why Do We Entertain Ourselves with Media Narratives? A Theory of Resonance Perspective on Entertainment Experiences. Annals of the International Communication Association, 43(2), 79–96. https://doi.org/10/gh2tbj\n\n\nVorderer, P., Klimmt, C., & Bryant, J. (2021). A Brief Analysis of the State of Entertainment Theory: Historical Achievements, Contemporary Challenges, and Future Possibilities. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.1\n\n\nVorderer, P., Klimmt, C., & Ritterfeld, U. (2004). Enjoyment: At the Heart of Media Entertainment. Communication Theory, 14(4), 388–408. https://doi.org/10.1111/j.1468-2885.2004.tb00321.x\n\n\nVorderer, P., & Reinecke, L. (2015). From Mood to Meaning: The Changing Model of the User in Entertainment Research. Communication Theory, 25(4), 447–453. https://doi.org/10/f7wwtn\n\n\nZillmann, D. (2000). The Coming of Media Entertainment. In D. Zillmann & P. Vorderer (Hrsg.), Media Entertainment: The Psychology of Its Appeal. Lawrence Erlbaum Associates Publishers.",
-    "crumbs": [
-      "Materialien",
-      "Literatur"
-    ]
-  },
-  {
-    "objectID": "exercises/e01.html",
-    "href": "exercises/e01.html",
-    "title": "Aufgabe 01",
-    "section": "",
-    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
-  },
-  {
-    "objectID": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
-    "href": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
-    "title": "Aufgabe 01",
-    "section": "",
-    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
-  },
-  {
-    "objectID": "exercises/term_paper.html",
-    "href": "exercises/term_paper.html",
-    "title": "Informationen zum Projektbericht",
-    "section": "",
-    "text": "Der Projektbericht soll pro Gruppenmitglied ca. 5 Seiten umfassen, wobei insgesamt etwa 7000-9000 Wörter (ca. 20-25 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend “signifikante” Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.\nWeitere Informationen zum konkreten Aufbau des Projekterichts erfolgen in der letzten Sitzung des Semesters. Außerdem finden Sie grundlegende Informationen auf den folgenden Seiten:\n\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/formale-vorgaben/\n\nIm Speziellen gelten die folgenden Anforderungen an den Projektbericht:",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "exercises/term_paper.html#inhalt",
-    "href": "exercises/term_paper.html#inhalt",
-    "title": "Informationen zum Projektbericht",
-    "section": "",
-    "text": "Der Projektbericht soll pro Gruppenmitglied ca. 5 Seiten umfassen, wobei insgesamt etwa 7000-9000 Wörter (ca. 20-25 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend “signifikante” Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.\nWeitere Informationen zum konkreten Aufbau des Projekterichts erfolgen in der letzten Sitzung des Semesters. Außerdem finden Sie grundlegende Informationen auf den folgenden Seiten:\n\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/formale-vorgaben/\n\nIm Speziellen gelten die folgenden Anforderungen an den Projektbericht:",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "exercises/term_paper.html#umfang",
-    "href": "exercises/term_paper.html#umfang",
-    "title": "Informationen zum Projektbericht",
-    "section": "Umfang",
-    "text": "Umfang\n\n20-25 Seiten Text (ca. 5 Seiten pro Person), exkl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis etc.",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "exercises/term_paper.html#formatierung",
-    "href": "exercises/term_paper.html#formatierung",
-    "title": "Informationen zum Projektbericht",
-    "section": "Formatierung",
-    "text": "Formatierung\n\nSchriftart: Times New Roman (Schriftgröße 12) oder Arial (Schriftgröße 11)\n1,5-facher Zeilenabstand\nBlocksatz, blocksatzbedingte Leerstellen innerhalb der Zeilen sind durch automatische Silbentrennung zu vermeiden\nSeitenränder: Abstand zum Seitenrand je 2,5 cm nach oben und unten, 3,5 cm nach links und 3 cm nach rechts\nZitation nach APA 7 (siehe APA Website\n\nDirekte und indirekte Zitate erfolgen ausschließlich als Kurzbelege nach APA (keine Fußnotenbelege)\nFür das Anlegen einer Literaturliste nach APA hilfreich: Literatursoftware Citavi oder Zotero (per ZDV-Apps dem eigenen Uni-Account zuweisen)\nFußnoten in Schriftgröße 10 am jeweiligen Seitenende können sparsam für Ergänzungen und Hintergrundinformationen eingesetzt werden",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "exercises/term_paper.html#plagiate",
-    "href": "exercises/term_paper.html#plagiate",
-    "title": "Informationen zum Projektbericht",
-    "section": "Plagiate",
-    "text": "Plagiate\n\nDer Hausarbeit muss am Ende eine unterschriebene eidesstattliche Erklärung über das eigenständige Anfertigen der Arbeit beiliegen. Andernfalls kann die Arbeit nicht als Prüfungsleistung anerkannt werden.\nUm Plagiate zu vermeiden, belegen Sie alle (prinzipiell überprüfbaren) Tatsachenbehauptungen mit wissenschaftlicher Literatur. Weiterführende Interpretationen, Theorietransfer und eigene Gedanken bedürfen keines Belegs. Sie können und sollten diese Eigenleistungen jedoch mit Literatur und empirischen Befunden untermauern, die den jeweiligen Gedankengang unterstützen.\nEinsatz von “KI”: In diesem Seminar ist der Einsatz von “KI”-Werkzeugen für unterstützende Aufgaben erlaubt, bspw. das Verstehen von Konzepten oder die Korrektur von Rechtschreibfehlern. Ebenso dürfen Sie sich bei der Arbeit mit Programmiersprachen wie R oder Python unterstützen lassen. Unzulässig ist jedoch die Nutzung von überwiegend “KI”-generiertem Text in Aufgaben ohne Quellenangabe oder die vollständige Bearbeitung von Arbeitsschritten durch “KI”. Falls “KI”-Werkzeuge verwendet werden, muss dies transparent angegeben werden. Für die Richtigkeit der Ergebnisse sind Sie selbst verantwortlich!\nDie aktuelle eidesstattliche Erklärung finden Sie unter https://www.sozialwissenschaften.uni-mainz.de/files/2025/02/BA_Erklaerung_17.02.25.pdf",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "exercises/term_paper.html#abgabe-des-projektberichts",
-    "href": "exercises/term_paper.html#abgabe-des-projektberichts",
-    "title": "Informationen zum Projektbericht",
-    "section": "Abgabe des Projektberichts",
-    "text": "Abgabe des Projektberichts\n\nFrist: 01.09.2025, 12:00 Uhr (keine Verlängerung ohne Attest möglich)\nAbgabe einer elektronischen Version (PDF) über die Abgabefunktion im LMS (“Abgabe der Hausarbeit”) — es genügt eine Abgabe pro Gruppe\nErgänzende Materialien (Analyseskripte, Datensätze, etc.) als .zip-Datei verpacken und hochladen",
-    "crumbs": [
-      "Kursinformationen",
-      "Projektbericht"
-    ]
-  },
-  {
-    "objectID": "prep/p04.html",
-    "href": "prep/p04.html",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "",
-    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die folgenden Videos an:\n\nVideo 3: Messen\nVideo 4: Fragebogengestaltung\nVideo 5: Auswahlverfahren\nVideo 6: Grundlagen intensiv longitudinaler Designs\nVideo 7: Besonderheiten intensiv longitudinaler Designs I\nVideo 8: Besonderheiten intensiv longitudinaler Designs II\nVideo 9: Besonderheiten intensiv longitudinaler Designs III\n\nSenden Sie bis spätestens Dienstag, 06.05., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
-  },
-  {
-    "objectID": "prep/p04.html#lernvideos",
-    "href": "prep/p04.html#lernvideos",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "",
-    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die folgenden Videos an:\n\nVideo 3: Messen\nVideo 4: Fragebogengestaltung\nVideo 5: Auswahlverfahren\nVideo 6: Grundlagen intensiv longitudinaler Designs\nVideo 7: Besonderheiten intensiv longitudinaler Designs I\nVideo 8: Besonderheiten intensiv longitudinaler Designs II\nVideo 9: Besonderheiten intensiv longitudinaler Designs III\n\nSenden Sie bis spätestens Dienstag, 06.05., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
-  },
-  {
-    "objectID": "prep/p04.html#abgabe-der-ccs-übung-zu-digitalen-verhaltensdaten",
-    "href": "prep/p04.html#abgabe-der-ccs-übung-zu-digitalen-verhaltensdaten",
-    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
-    "section": "Abgabe der CCS-Übung zu digitalen Verhaltensdaten",
-    "text": "Abgabe der CCS-Übung zu digitalen Verhaltensdaten\nGeben Sie ebenfalls bis spätestens Dienstag, 06.05., 23:59 eine .R-Datei mit Ihrer Bearbeitung der Aufgaben aus der Übung zu digitalen Verhaltensdaten ab."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "BA Befragung: Mediennutzung & -effekte",
@@ -198,6 +64,116 @@
       "Kursinformationen",
       "Übersicht"
     ]
+  },
+  {
+    "objectID": "exercises/e01.html",
+    "href": "exercises/e01.html",
+    "title": "Aufgabe 01",
+    "section": "",
+    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
+  },
+  {
+    "objectID": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
+    "href": "exercises/e01.html#machen-sie-sich-mit-dem-kurs-vertraut",
+    "title": "Aufgabe 01",
+    "section": "",
+    "text": "Bitte lesen Sie die Kurs-Website sorgfältig durch und sammeln Sie alle Fragen, die sich ergeben könnten, damit Sie sie in der nächsten Sitzung stellen können.\nVergessen Sie insbesondere nicht, die Aufgaben zur Vorbereitung auf die 2. Sitzung zu erledigen und alle Einreichungen rechtzeitig vorzunehmen!"
+  },
+  {
+    "objectID": "exercises/e12.html",
+    "href": "exercises/e12.html",
+    "title": "Aufgabe 12",
+    "section": "",
+    "text": "Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:\n\nOffizielle Präregistrierung des Projekts\nCodebook of Variables\n(ggf. Aufbau des Fragebogens)\n\nÜberlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können."
+  },
+  {
+    "objectID": "exercises/e12.html#einen-überblick-verschaffen",
+    "href": "exercises/e12.html#einen-überblick-verschaffen",
+    "title": "Aufgabe 12",
+    "section": "",
+    "text": "Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:\n\nOffizielle Präregistrierung des Projekts\nCodebook of Variables\n(ggf. Aufbau des Fragebogens)\n\nÜberlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können."
+  },
+  {
+    "objectID": "exercises/e12.html#daten-laden",
+    "href": "exercises/e12.html#daten-laden",
+    "title": "Aufgabe 12",
+    "section": "Daten laden",
+    "text": "Daten laden\nLegen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze intake und esm in die Umgebung.\n\nVerschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken\nÜberlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann\n\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu den folgenden tidyverse-Funktionen an; am einfachsten geht es vermutlich mit left_join(): https://dplyr.tidyverse.org/reference/mutate-joins.html\n\n\nLösung:\n\nd &lt;-\n  esm |&gt;\n  left_join(intake, by = \"participant\")"
+  },
+  {
+    "objectID": "exercises/e12.html#daten-bereinigen",
+    "href": "exercises/e12.html#daten-bereinigen",
+    "title": "Aufgabe 12",
+    "section": "Daten bereinigen",
+    "text": "Daten bereinigen\nWir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.\nLösung:\n\nesm &lt;-\n  esm |&gt;\n  arrange(participant, time) |&gt;\n  group_by(participant) |&gt;\n  mutate(very_close = difftime(time, lag(time), units = \"minute\"), .after = time) |&gt;\n  ungroup() |&gt;\n  filter(very_close &gt;= 600) # Den Zeitabstand können wir variieren"
+  },
+  {
+    "objectID": "exercises/e12.html#variablen-anlegen",
+    "href": "exercises/e12.html#variablen-anlegen",
+    "title": "Aufgabe 12",
+    "section": "Variablen anlegen",
+    "text": "Variablen anlegen\nBasierend auf Ihrem Überblick von oben: Überlegen Sie, welche Variablen Sie noch anlegen müssen, und wie dies funktionieren könnte.\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu der folgenden tidyverse-Funktionen an: https://dplyr.tidyverse.org/reference/lead-lag.html\nDenken Sie auch daran, dass wir bei der Analyse ggf. auch Within- und Between-Person Effekte unterscheiden wollen."
+  },
+  {
+    "objectID": "exercises/e12.html#modellspezifikation",
+    "href": "exercises/e12.html#modellspezifikation",
+    "title": "Aufgabe 12",
+    "section": "Modellspezifikation",
+    "text": "Modellspezifikation\nVersuchen Sie, für jede Hypothese (mindestens) ein passendes Modell zu spezifizieren. In den meisten Fällen dürfte dies ein REWB-Modell mit der Funktion lmer() sein."
+  },
+  {
+    "objectID": "literature.html",
+    "href": "literature.html",
+    "title": "Literatur",
+    "section": "",
+    "text": "Anbei finden Sie als Nachschlagewerk eine Sammlung aller Literaturangaben, die im Rahmen dieses Kurses (bspw. in Übungen oder auch auf den Folien) genannt wurden oder die anderweitig (bspw. als ergänzende Literatur) für Sie relevant sein könnten.",
+    "crumbs": [
+      "Materialien",
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "literature.html#methoden",
+    "href": "literature.html#methoden",
+    "title": "Literatur",
+    "section": "Methoden",
+    "text": "Methoden\n\nGrundlagen (quantitativer) Befragung\n\n\nBrosius, H.-B., Haas, A., & Koschel, F. (2016). Methoden Der Empirischen Kommunikationsforschung: Eine Einführung (7. Aufl.). VS Verlag für Sozialwissenschaften.\n\n\nMöhring, W., & Schlütz, D. (2010). Die Befragung in Der Medien- Und Kommunikationswissenschaft: Eine Praxisorientierte Einführung (2. Aufl.). VS Verlag für Sozialwissenschaften.\n\n\nMöhring, W., & Schlütz, D. (Hrsg.). (2013). Handbuch standardisierte Erhebungsverfahren in der Kommunikationswissenschaft. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18776-1\n\n\n\n\nFragebogenkonstruktion\n\n\nBühner, M. (2011). Einführung in Die Test- Und Fragebogenkonstruktion (3. Aufl.). Pearson Studium.\n\n\nHartmann, T., & Reinecke, L. (2013). Skalenkonstruktion in der Kommunikationswissenschaft. In W. Möhring & D. Schlütz (Hrsg.), Handbuch standardisierte Erhebungsverfahren in der Kommunikationswissenschaft (S. 41–60). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18776-1_3\n\n\n\n\nIntensiv longitudinale Designs\n\n\nBolger, N., Davis, A., & Rafaeli, E. (2003). Diary Methods: Capturing Life as It Is Lived. Annual Review of Psychology, 54(1), 579–616. https://doi.org/10/cgrxwr\n\n\nMyin-Germeys, I., & Kuppens, P. (Hrsg.). (2022). The Open Handbook of Experience Sampling Methodology: A Step-by-Step Guide to Designing, Conducting, and Analyzing ESM Studies (Second edition). The center for Research on Experience sampling and Ambulatory methods Leuven.\n\n\nSchnauber-Stockmann, A., & Karnowski, V. (2020). Mobile Devices as Tools for Media and Communication Research: A Scoping Review on Collecting Self-Report Data in Repeated Measurement Designs. Communication Methods and Measures, 14(3), 145–164. https://doi.org/10/gks6zf\n\n\n\n\nStichprobenziehung\n\n\nADM Arbeitskreis Deutscher Markt- und Sozialforschungsinstitute e.V. (2014). Stichproben-Verfahren in der Umfrageforschung: Eine Darstellung für die Praxis. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-531-18882-9\n\n\n\n\nAuswertung\n\n\nField, A. P., Miles, J., & Field, Z. (2012). Discovering Statistics Using R. Sage.\n\n\nLuhmann, M. (2020). R für Einsteiger: Einführung in die Statistik-Software für die Sozialwissenschaften (Originalausgabe, 5., überarbeitete Aufl). Beltz.\n\n\n\n\nVerhaltensdaten\n\n\nCarrière, T. C., Boeschoten, L., Struminskaya, B., Janssen, H. L., de Schipper, N. C., & Araujo, T. (2024). Best Practices for Studies Using Digital Data Donation. Quality & Quantity. https://doi.org/10/g8zk7z\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nFreelon, D. (2018). Computational Research in the Post-API Age. Political Communication, 35(4), 665–668. https://doi.org/10/gfs6ng\n\n\nLazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful Measures of Human Society in the Twenty-First Century. Nature, 595(7866), 189–196. https://doi.org/10/gkzp4x\n\n\nMahrt, M., & Scharkow, M. (2013). The Value of Big Data in Digital Media Research. Journal of Broadcasting & Electronic Media, 57(1), 20–33. https://doi.org/10.1080/08838151.2012.761700\n\n\nMenchen-Trevino, E. (2013). Collecting Vertical Trace Data: Big Possibilities and Big Challenges for Multi-Method Research. Policy & Internet, 5(3), 328–339. https://doi.org/10.1002/1944-2866.POI336\n\n\nOhme, J., Araujo, Boeschoten, Freelon, Ram, Reeves, & and Robinson, T. N. (2024). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures, 18(2), 124–141. https://doi.org/10/gs53z3\n\n\nOlteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries. Frontiers in Big Data, 2. https://doi.org/10/ggcxgj\n\n\nSen, I., Flöck, F., Weller, K., Weiß, B., & Wagner, C. (2021). A Total Error Framework for Digital Traces of Human Behavior on Online Platforms. Public Opinion Quarterly, 85(S1), 399–422. https://doi.org/10/gmx62w\n\n\nStier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. Social Science Computer Review, 38(5), 503–516. https://doi.org/10/gf3xxw\n\n\nVan Atteveldt, W., Althaus, & and Wessler, H. (2021). The Trouble with Sharing Your Privates: Pursuing Ethical Open Science and Collaborative Research across National Jurisdictions Using Sensitive Data. Political Communication, 38(1–2), 192–198. https://doi.org/10/g9ghxq",
+    "crumbs": [
+      "Materialien",
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "literature.html#theorie",
+    "href": "literature.html#theorie",
+    "title": "Literatur",
+    "section": "Theorie",
+    "text": "Theorie\n\nMedia Entertainment\n\n\nBosshart, L., & Macconi, I. (1998). Media Entertainment. Communication Research Trends, 18(3), 3–8.\n\n\nFahr, A., & Früh, H. (2021). Entertainment Is a Journey, Not Just a Destination: Process Perspectives in Entertainment Theories. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 22–44). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.2\n\n\nGilbert, A., Reinecke, L., Meier, A., Baumgartner, S. E., & Dietrich, F. (2024). Too Amused to Stop? Self-control and the Disengagement Process on Netflix. Journal of Communication, 74(5), 387–398. https://doi.org/10.1093/joc/jqae023\n\n\nHalfmann, A., & Reinecke, L. (2021). Binge-Watching as Case of Escapist Entertainment Use. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 180–203). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.11\n\n\nJanicke-Bowles, S. H., Bartsch, A., Oliver, M. B., & Raney, A. A. (2021). Transcending Eudaimonic Entertainment: A Review and Expansion of Meaningful Entertainment. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 362–381). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.20\n\n\nKlimmt, C., & Rieger, D. (2021). Biographic Resonance Theory of Eudaimonic Media Entertainment. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 381–402). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.21\n\n\nOliver, M. B., Bailey, E., Ferchaud, A., & Yang, C. (2017). Entertainment Effects: Media Appreciation. In P. Rössler, C. A. Hoffner, & L. Zoonen (Hrsg.), The International Encyclopedia of Media Effects (1. Aufl., S. 1–8). Wiley. https://doi.org/10.1002/9781118783764.wbieme0164\n\n\nOliver, M. B., & Raney, A. A. (2011). Entertainment as Pleasurable and Meaningful: Identifying Hedonic and Eudaimonic Motivations for Entertainment Consumption. Journal of Communication, 61(5), 984–1004. https://doi.org/10.1111/j.1460-2466.2011.01585.x\n\n\nPossler, D., Scheper, J., Raney, A. A., & Klimmt, C. (2025). Is There an Easy Path to Eudaimonia? Novel Insights on the Dual-Process Perspective in Media Entertainment. Communication Research, 00936502241306709. https://doi.org/10/g8xsrm\n\n\nRaney, A. A., & Bryant, J. (2019). Entertainment and Enjoyment as Media Effect. In M. B. Oliver, A. A. Raney, & J. Bryant (Hrsg.), Media Effects: Advances in Theory and Research (4. Aufl., S. 324–341). Routledge. https://doi.org/10.4324/9780429491146-21\n\n\nRaney, A. A., Oliver, M. B., & Bartsch, A. (2019). Eudaimonia as Media Effect. In M. B. Oliver, A. A. Raney, & J. Bryant (Hrsg.), Media Effects: Advances in Theory and Research (4. Aufl., S. 258–274). Routledge. https://doi.org/10.4324/9780429491146-17\n\n\nReinecke, L., & Kreling, R. J. (2022). The Longitudinal Influence of Hedonic and Eudaimonic Entertainment Preferences on Psychological Resilience and Wellbeing. Frontiers in Communication, 7, Article 991458. https://doi.org/10.3389/fcomm.2022.991458\n\n\nReinecke, L., & Meier, A. (2021). Media Entertainment as Guilty Pleasure? The Appraisal of Media Use, Self-Control, and Entertainment (AMUSE) Model. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 203–230). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.12\n\n\nReinecke, L., & Rieger, D. (2021). Media Entertainment as a Self-Regulatory Resource: The Recovery and Resilience in Entertaining Media Use (R²EM) Model. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 754–779). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.39\n\n\nRieger, D., Reinecke, L., Frischlich, L., & Bente, G. (2014). Media Entertainment and Well-Being: Linking Hedonic and Eudaimonic Entertainment Experience to Media-Induced Recovery and Vitality. Journal of Communication, 64(3), 456–478. https://doi.org/10.1111/jcom.12097\n\n\nSchneider, F. M., Bartsch, A., & Leonhard, L. (2021). An Extended Dual-Process Model of Entertainment Effects on Political Information Processing and Engagement. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 536–557). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.29\n\n\nSchneider, F. M., Bartsch, A., & Oliver, M. B. (2019). Factorial Validity and Measurement Invariance of the Appreciation, Fun, and Suspense Scales across US-American and German Samples. Journal of Media Psychology, 31(3), 149–156. https://doi.org/10/gms75s\n\n\nTamborini, R., Grady, S. M., Baldwin, J., McClaran, N., & Lewis, R. (2021). The Narrative Enjoyment and Appreciation Rationale. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 44–62). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.3\n\n\nTamborini, R., Grizzard, M., Bowman, N. D., Reinecke, L., Lewis, R. J., & Eden, A. (2011). Media Enjoyment as Need Satisfaction: The Contribution of Hedonic and Nonhedonic Needs. Journal of Communication, 61(6), 1025–1042. https://doi.org/10/dm34xj\n\n\nVorderer, P. (2021). Entertainment and Resonance. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (1. Aufl., S. 123–137). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.8\n\n\nVorderer, P., & Halfmann, A. (2019). Why Do We Entertain Ourselves with Media Narratives? A Theory of Resonance Perspective on Entertainment Experiences. Annals of the International Communication Association, 43(2), 79–96. https://doi.org/10/gh2tbj\n\n\nVorderer, P., Klimmt, C., & Bryant, J. (2021). A Brief Analysis of the State of Entertainment Theory: Historical Achievements, Contemporary Challenges, and Future Possibilities. In P. Vorderer & C. Klimmt (Hrsg.), The Oxford Handbook of Entertainment Theory (S. 0). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780190072216.013.1\n\n\nVorderer, P., Klimmt, C., & Ritterfeld, U. (2004). Enjoyment: At the Heart of Media Entertainment. Communication Theory, 14(4), 388–408. https://doi.org/10.1111/j.1468-2885.2004.tb00321.x\n\n\nVorderer, P., & Reinecke, L. (2015). From Mood to Meaning: The Changing Model of the User in Entertainment Research. Communication Theory, 25(4), 447–453. https://doi.org/10/f7wwtn\n\n\nZillmann, D. (2000). The Coming of Media Entertainment. In D. Zillmann & P. Vorderer (Hrsg.), Media Entertainment: The Psychology of Its Appeal. Lawrence Erlbaum Associates Publishers.",
+    "crumbs": [
+      "Materialien",
+      "Literatur"
+    ]
+  },
+  {
+    "objectID": "prep/p04.html",
+    "href": "prep/p04.html",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "",
+    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die folgenden Videos an:\n\nVideo 3: Messen\nVideo 4: Fragebogengestaltung\nVideo 5: Auswahlverfahren\nVideo 6: Grundlagen intensiv longitudinaler Designs\nVideo 7: Besonderheiten intensiv longitudinaler Designs I\nVideo 8: Besonderheiten intensiv longitudinaler Designs II\nVideo 9: Besonderheiten intensiv longitudinaler Designs III\n\nSenden Sie bis spätestens Dienstag, 06.05., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
+  },
+  {
+    "objectID": "prep/p04.html#lernvideos",
+    "href": "prep/p04.html#lernvideos",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "",
+    "text": "Sehen Sie sich in der Vorbereitung auf die kommende Sitzung die folgenden Videos an:\n\nVideo 3: Messen\nVideo 4: Fragebogengestaltung\nVideo 5: Auswahlverfahren\nVideo 6: Grundlagen intensiv longitudinaler Designs\nVideo 7: Besonderheiten intensiv longitudinaler Designs I\nVideo 8: Besonderheiten intensiv longitudinaler Designs II\nVideo 9: Besonderheiten intensiv longitudinaler Designs III\n\nSenden Sie bis spätestens Dienstag, 06.05., 23:59 pro Video eine Verständnisfrage und eine Diskussionsfrage zu den im Video vorgestellten Inhalten an den Dozenten."
+  },
+  {
+    "objectID": "prep/p04.html#abgabe-der-ccs-übung-zu-digitalen-verhaltensdaten",
+    "href": "prep/p04.html#abgabe-der-ccs-übung-zu-digitalen-verhaltensdaten",
+    "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
+    "section": "Abgabe der CCS-Übung zu digitalen Verhaltensdaten",
+    "text": "Abgabe der CCS-Übung zu digitalen Verhaltensdaten\nGeben Sie ebenfalls bis spätestens Dienstag, 06.05., 23:59 eine .R-Datei mit Ihrer Bearbeitung der Aufgaben aus der Übung zu digitalen Verhaltensdaten ab."
   },
   {
     "objectID": "slides/slides.html#zum-einstieg",
@@ -556,7 +532,7 @@
     "href": "slides/slides.html#evaluation",
     "title": "BA Befragung: Mediennutzung & -effekte",
     "section": "Evaluation",
-    "text": "Evaluation",
+    "text": "Evaluation\n\n\nhttps://befragung.uni-mainz.de/evasys/online/\nAA1XF",
     "crumbs": [
       "Materialien",
       "Folien"
@@ -589,20 +565,6 @@
     "title": "Wöchentliche Vorbereitung auf die Seminar-Sitzung",
     "section": "Anfrage YouTube Takeout Daten",
     "text": "Anfrage YouTube Takeout Daten\nSofern Sie einen YouTube-Account / ein Google-Konto besitzen, fragen Sie bitte bis zur nächsten Sitzung Ihre YouTube-Nutzungsdaten als TakeOut an. Keine Sorge: Sie müssen/werden diese Daten mit niemandem teilen!\n\nRufen Sie die Adresse takeout.google.com auf und melden Sie sich, sofern nicht bereits geschehen, mit Ihrem Google-Account an, der Ihrem YouTube-Konto zugeordnet ist.\nWählen Sie unter “Neuen Export erstellen”, sofern dort zurzeit alle Produkte markiert sind, die Option “Auswahl aufheben”, um bei allen Produkten den Haken zu entfernen.\nScrollen Sie in der Liste der Produkte weit nach unten bis Sie “YouTube und YouTube Music” finden (die Liste ist alphabetisch sortiert).\nSetzen Sie nur bei diesem Produkt (“YouTube und YouTube Music”) einen Haken.\nWählen Sie anschließend den darunter befindlichen linken Button auf dem (vermutlich) “Mehrere Formate” steht. Ändern Sie bei “Verlauf” die Option von “HTML” auf “JSON” und bestätigen Sie mit “OK”. Auf dem Button sollte nun “JSON-Format” stehen.\nAuf dem rechten Button steht (vermutlich) standardmäßig “Alle YouTube Daten eingeschlossen”. Dies können Sie so belassen (dann können Sie sich alle Daten ansehen, die Google auf YouTube über Sie gesammelt hat). Wenn Sie möchten, können Sie jedoch auch einzelne Datenpunkte abwählen, die Sie als zu sensibel betrachten.\nWählen Sie am Seitenende den Button “Nächster Schritt”.\nWählen Sie, wie Sie die Daten empfangen wollen. Ich empfehle hier “Download-Link per E-Mail senden”. Wählen Sie außerdem bei Häufigkeit “Einmal exportieren” und bei Dateityp “ZIP”. Die angegebene Dateigröße ist i.d.R. irrelevant, diese können Sie bei der Standardeinstellung belassen.\nWählen Sie den Button “Export erstellen”.\nNormalerweise dauert der Datenexport, sofern Sie nur YouTube ausgewählt haben, nur wenige Sekunden. Warten Sie 20-30 Sekunden und laden Sie dann die Seite neu. Nun sollten Sie oben auf der Seite bei “Ihr letzer Export” einen Button zum “Herunterladen” der Daten finden. Wählen Sie diesen aus und laden Sie die Daten herunter. Speichern Sie sie auf Ihrem Computer an einem sicheren Ort ab.\nSollte der Daten-Export unerwartet doch länger dauern, erhalten Sie eine E-Mail an Ihre Google-Mail Adresse (mail.google.com), sobald der Download bereitsteht. Laden Sie die Daten dann über den dort bereitgestellten Link herunter.\n\nBringen Sie die Daten auf Ihrem Computer zur nächsten Sitzung mit. Wenn Sie möchten, können Sie die .zip-Datei bereits entpacken und sich ein wenig durch die Daten klicken um herauszufinden, was alles im Data-Takeout enthalten ist."
-  },
-  {
-    "objectID": "exercises/e05.html",
-    "href": "exercises/e05.html",
-    "title": "Aufgabe 05",
-    "section": "",
-    "text": "Setzen Sie die Arbeit aus der heutigen Sitzung fort und erarbeiten Sie bis spätestens Sonntag, 18.05., 23:59 ein Gruppenproposal für Ihr Teilprojekt. Dieses kann (muss aber nicht) bereits auf dem Template für eine Präregistrierung (siehe LMS) basieren. Je mehr Inhalte Sie hier bereits einbauen, desto besseres Feedback erhalten Sie in der nächsten Sitzung zum Fortschritt des Projekts.\nJede Arbeitsgruppe soll bis spätestens Freitag, 23.05., eine umfassende Präregistrierung für das aktuelle Forschungsprojekt erstellen, die alle in dem bereitgestellten Dokument enthaltenen Elemente abdeckt. Der Fokus liegt auf Transparenz, Vollständigkeit und Genauigkeit, um die Forschungsergebnisse nachvollziehbar und replizierbar zu machen.\n\nAllgemeines\n\nTitel: Formulieren Sie einen präzisen Arbeitstitel für die Studie.\nAutor:innen: Listen Sie alle beteiligten Teammitglieder auf.\nBeschreibung: Erstellen Sie eine kurze Studienbeschreibung (ca. 150 Wörter), einschließlich der übergeordneten Forschungsfrage und Zielsetzung.\n\nHypothesen und Forschungsfragen\n\nFormulieren Sie die finalen Hypothesen und Forschungsfragen. Diese sollten nach der Festlegung nicht mehr geändert werden.\n\nForschungsdesign\n\nStudiendesign: Beschreiben Sie das Gesamtdesign der Studie (z.B. ESM-Design).\nStudiendauer: Geben Sie die Anzahl der Tage für die ESM-Periode an.\n\nPersonenstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die geplante Stichprobengröße und die Methode der Rekrutierung.\nBegründung für die Stichprobengröße: Begründen Sie die Entscheidung für die Stichprobengröße (z.B. aufgrund vorheriger Studien, Ressourcenbeschränkungen).\nMaßnahmen zur Steigerung der Teilnahmebereitschaft: Beschreiben Sie alle geplanten Maßnahmen (z.B. Erinnerungen, Incentives).\n\nSituationsstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die Art der Stichprobenziehung, die Anzahl der Situationen und die Begründung hierfür.\nErhebungsschema: Spezifizieren Sie, wann und wie die Auslösung erfolgt (z.B. zufällig, intervallbasiert, event-basiert), den Zeitraumbezug der Items und das Time-out für die Beantwortung.\n\nOperationalisierung\n\nVorab- und Nachbefragung: Listen Sie alle Variablen auf, die in der Vorab- und/oder Nachbefragung erhoben werden, einschließlich Fragen, Antwortoptionen, Skalen und Quellen.\nESM-Fragebogen: Beschreiben Sie alle Variablen im ESM-Fragebogen, einschließlich Fragen, Antwortoptionen, Skalen, Quellen und die Reihenfolge der Items (randomisiert oder fest). Erläutern Sie die Auswahl von Items aus längeren Skalen.\nGesamtzahl und Art der Items: Geben Sie die Gesamtzahl der Items pro Bewertung an, einschließlich offener und geschlossener Fragen, und schätzen Sie die Bearbeitungszeit.\n\nZusätzliche Erhebung von digitalen Verhaltensdaten\n\nBeschreiben Sie, welche zusätzlichen Daten erhoben werden.\n\nDurchführung\n\nGeben Sie wichtige Informationen zur Durchführung während der Feldphase an, die nicht durch die anderen Punkte abgedeckt sind.\n\nLiteraturverzeichnis\n\nListen Sie alle Quellen auf, die in der Präregistrierung verwendet werden."
-  },
-  {
-    "objectID": "exercises/e05.html#gruppen-abgabe-eines-proposals-für-das-forschungsprojekt",
-    "href": "exercises/e05.html#gruppen-abgabe-eines-proposals-für-das-forschungsprojekt",
-    "title": "Aufgabe 05",
-    "section": "",
-    "text": "Setzen Sie die Arbeit aus der heutigen Sitzung fort und erarbeiten Sie bis spätestens Sonntag, 18.05., 23:59 ein Gruppenproposal für Ihr Teilprojekt. Dieses kann (muss aber nicht) bereits auf dem Template für eine Präregistrierung (siehe LMS) basieren. Je mehr Inhalte Sie hier bereits einbauen, desto besseres Feedback erhalten Sie in der nächsten Sitzung zum Fortschritt des Projekts.\nJede Arbeitsgruppe soll bis spätestens Freitag, 23.05., eine umfassende Präregistrierung für das aktuelle Forschungsprojekt erstellen, die alle in dem bereitgestellten Dokument enthaltenen Elemente abdeckt. Der Fokus liegt auf Transparenz, Vollständigkeit und Genauigkeit, um die Forschungsergebnisse nachvollziehbar und replizierbar zu machen.\n\nAllgemeines\n\nTitel: Formulieren Sie einen präzisen Arbeitstitel für die Studie.\nAutor:innen: Listen Sie alle beteiligten Teammitglieder auf.\nBeschreibung: Erstellen Sie eine kurze Studienbeschreibung (ca. 150 Wörter), einschließlich der übergeordneten Forschungsfrage und Zielsetzung.\n\nHypothesen und Forschungsfragen\n\nFormulieren Sie die finalen Hypothesen und Forschungsfragen. Diese sollten nach der Festlegung nicht mehr geändert werden.\n\nForschungsdesign\n\nStudiendesign: Beschreiben Sie das Gesamtdesign der Studie (z.B. ESM-Design).\nStudiendauer: Geben Sie die Anzahl der Tage für die ESM-Periode an.\n\nPersonenstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die geplante Stichprobengröße und die Methode der Rekrutierung.\nBegründung für die Stichprobengröße: Begründen Sie die Entscheidung für die Stichprobengröße (z.B. aufgrund vorheriger Studien, Ressourcenbeschränkungen).\nMaßnahmen zur Steigerung der Teilnahmebereitschaft: Beschreiben Sie alle geplanten Maßnahmen (z.B. Erinnerungen, Incentives).\n\nSituationsstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die Art der Stichprobenziehung, die Anzahl der Situationen und die Begründung hierfür.\nErhebungsschema: Spezifizieren Sie, wann und wie die Auslösung erfolgt (z.B. zufällig, intervallbasiert, event-basiert), den Zeitraumbezug der Items und das Time-out für die Beantwortung.\n\nOperationalisierung\n\nVorab- und Nachbefragung: Listen Sie alle Variablen auf, die in der Vorab- und/oder Nachbefragung erhoben werden, einschließlich Fragen, Antwortoptionen, Skalen und Quellen.\nESM-Fragebogen: Beschreiben Sie alle Variablen im ESM-Fragebogen, einschließlich Fragen, Antwortoptionen, Skalen, Quellen und die Reihenfolge der Items (randomisiert oder fest). Erläutern Sie die Auswahl von Items aus längeren Skalen.\nGesamtzahl und Art der Items: Geben Sie die Gesamtzahl der Items pro Bewertung an, einschließlich offener und geschlossener Fragen, und schätzen Sie die Bearbeitungszeit.\n\nZusätzliche Erhebung von digitalen Verhaltensdaten\n\nBeschreiben Sie, welche zusätzlichen Daten erhoben werden.\n\nDurchführung\n\nGeben Sie wichtige Informationen zur Durchführung während der Feldphase an, die nicht durch die anderen Punkte abgedeckt sind.\n\nLiteraturverzeichnis\n\nListen Sie alle Quellen auf, die in der Präregistrierung verwendet werden."
   },
   {
     "objectID": "exercises/participation.html",
@@ -638,45 +600,83 @@
     ]
   },
   {
-    "objectID": "exercises/e12.html",
-    "href": "exercises/e12.html",
-    "title": "Aufgabe 12",
+    "objectID": "exercises/term_paper.html",
+    "href": "exercises/term_paper.html",
+    "title": "Informationen zum Projektbericht",
     "section": "",
-    "text": "Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:\n\nOffizielle Präregistrierung des Projekts\nCodebook of Variables\n(ggf. Aufbau des Fragebogens)\n\nÜberlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können."
+    "text": "Der Projektbericht soll pro Gruppenmitglied ca. 5 Seiten umfassen, wobei insgesamt etwa 7000-9000 Wörter (ca. 20-25 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend “signifikante” Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.\nWeitere Informationen zum konkreten Aufbau des Projekterichts erfolgen in der letzten Sitzung des Semesters. Außerdem finden Sie grundlegende Informationen auf den folgenden Seiten:\n\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/formale-vorgaben/\n\nIm Speziellen gelten die folgenden Anforderungen an den Projektbericht:",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
   },
   {
-    "objectID": "exercises/e12.html#einen-überblick-verschaffen",
-    "href": "exercises/e12.html#einen-überblick-verschaffen",
-    "title": "Aufgabe 12",
+    "objectID": "exercises/term_paper.html#inhalt",
+    "href": "exercises/term_paper.html#inhalt",
+    "title": "Informationen zum Projektbericht",
     "section": "",
-    "text": "Sehen Sie sich in der Gruppe die folgenden, im LMS hinterlegten Dateien an:\n\nOffizielle Präregistrierung des Projekts\nCodebook of Variables\n(ggf. Aufbau des Fragebogens)\n\nÜberlegen Sie sich, welche Variablen für Ihr Projekt relevant sind, welche Daten und/oder Variablen ggf. noch fehlen und wie wir diese erstellen können."
+    "text": "Der Projektbericht soll pro Gruppenmitglied ca. 5 Seiten umfassen, wobei insgesamt etwa 7000-9000 Wörter (ca. 20-25 Seiten) als Richtwert gelten. Die Seitenanzahl ist jedoch lediglich eine Orientierung; im Vordergrund steht die Qualität der Ausarbeitung. Entscheidend ist eine fundierte Bearbeitung des Themas, eine sorgfältige Analyse der Daten sowie eine sachgerechte Einordnung der Ergebnisse. Wichtige Grafiken und Tabellen sollen in den Text integriert werden, während ergänzende Analysen im Anhang Platz finden. Die Hausarbeit soll die folgenden Bestandteile enthalten: Einleitung, Theorie-/Literaturteil, Methoden, Ergebnisse und Diskussion. Zudem ist die Dokumentation der eigenen Arbeit unerlässlich, wobei Sie selbstverständlich die im Verlauf des Semester angefertigte Dokumentation weiterverwerten können. Wichtig ist, dass es nicht zwingend “signifikante” Ergebnisse geben muss – der Lernprozess steht im Vordergrund. Die Einhaltung der Formalien und Regeln wissenschaftlicher Arbeit ist notenrelevant. Viele Inhalte und Anforderungen werden bereits im Verlauf des Semester in den Kleingruppen besprochen — bei Bedarf können jedoch auch Sprechstundentermine vereinbart werden, um konkrete Fragen zu besprechen.\nWeitere Informationen zum konkreten Aufbau des Projekterichts erfolgen in der letzten Sitzung des Semesters. Außerdem finden Sie grundlegende Informationen auf den folgenden Seiten:\n\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/\nhttps://www.studium.ifp.uni-mainz.de/studierende/seminararbeiten/formale-vorgaben/\n\nIm Speziellen gelten die folgenden Anforderungen an den Projektbericht:",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
   },
   {
-    "objectID": "exercises/e12.html#daten-laden",
-    "href": "exercises/e12.html#daten-laden",
-    "title": "Aufgabe 12",
-    "section": "Daten laden",
-    "text": "Daten laden\nLegen Sie ein neues RStudio-Projekt an und laden Sie die beiden (vorläufigen) Datensätze intake und esm in die Umgebung.\n\nVerschaffen Sie sich einen Überblick, berechnen Sie ggf. erste deskriptive Statistiken\nÜberlegen Sie, wie man die beiden Datensätze sinnvoll miteinander verbinden kann\n\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu den folgenden tidyverse-Funktionen an; am einfachsten geht es vermutlich mit left_join(): https://dplyr.tidyverse.org/reference/mutate-joins.html\n\n\nLösung:\n\nd &lt;-\n  esm |&gt;\n  left_join(intake, by = \"participant\")"
+    "objectID": "exercises/term_paper.html#umfang",
+    "href": "exercises/term_paper.html#umfang",
+    "title": "Informationen zum Projektbericht",
+    "section": "Umfang",
+    "text": "Umfang\n\n20-25 Seiten Text (ca. 5 Seiten pro Person), exkl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis etc.",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
   },
   {
-    "objectID": "exercises/e12.html#daten-bereinigen",
-    "href": "exercises/e12.html#daten-bereinigen",
-    "title": "Aufgabe 12",
-    "section": "Daten bereinigen",
-    "text": "Daten bereinigen\nWir erinnern uns: Die GESIS-App hatte dummerweise keinen Timeout für die Fragebögen. Einige teilnehmende haben mehrere Datensätze kurz nacheinander ausgefüllt. Überlegen Sie sich eine Strategie zur Bereinigung der Daten und wenden Sie diese auf die Daten an.\nLösung:\n\nesm &lt;-\n  esm |&gt;\n  arrange(participant, time) |&gt;\n  group_by(participant) |&gt;\n  mutate(very_close = difftime(time, lag(time), units = \"minute\"), .after = time) |&gt;\n  ungroup() |&gt;\n  filter(very_close &gt;= 600) # Den Zeitabstand können wir variieren"
+    "objectID": "exercises/term_paper.html#formatierung",
+    "href": "exercises/term_paper.html#formatierung",
+    "title": "Informationen zum Projektbericht",
+    "section": "Formatierung",
+    "text": "Formatierung\n\nSchriftart: Times New Roman (Schriftgröße 12) oder Arial (Schriftgröße 11)\n1,5-facher Zeilenabstand\nBlocksatz, blocksatzbedingte Leerstellen innerhalb der Zeilen sind durch automatische Silbentrennung zu vermeiden\nSeitenränder: Abstand zum Seitenrand je 2,5 cm nach oben und unten, 3,5 cm nach links und 3 cm nach rechts\nZitation nach APA 7 (siehe APA Website\n\nDirekte und indirekte Zitate erfolgen ausschließlich als Kurzbelege nach APA (keine Fußnotenbelege)\nFür das Anlegen einer Literaturliste nach APA hilfreich: Literatursoftware Citavi oder Zotero (per ZDV-Apps dem eigenen Uni-Account zuweisen)\nFußnoten in Schriftgröße 10 am jeweiligen Seitenende können sparsam für Ergänzungen und Hintergrundinformationen eingesetzt werden",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
   },
   {
-    "objectID": "exercises/e12.html#variablen-anlegen",
-    "href": "exercises/e12.html#variablen-anlegen",
-    "title": "Aufgabe 12",
-    "section": "Variablen anlegen",
-    "text": "Variablen anlegen\nBasierend auf Ihrem Überblick von oben: Überlegen Sie, welche Variablen Sie noch anlegen müssen, und wie dies funktionieren könnte.\n\n\n\n\n\n\nTipp\n\n\n\nSehen Sie sich mal die Dokumentation zu der folgenden tidyverse-Funktionen an: https://dplyr.tidyverse.org/reference/lead-lag.html\nDenken Sie auch daran, dass wir bei der Analyse ggf. auch Within- und Between-Person Effekte unterscheiden wollen."
+    "objectID": "exercises/term_paper.html#plagiate",
+    "href": "exercises/term_paper.html#plagiate",
+    "title": "Informationen zum Projektbericht",
+    "section": "Plagiate",
+    "text": "Plagiate\n\nDer Hausarbeit muss am Ende eine unterschriebene eidesstattliche Erklärung über das eigenständige Anfertigen der Arbeit beiliegen. Andernfalls kann die Arbeit nicht als Prüfungsleistung anerkannt werden.\nUm Plagiate zu vermeiden, belegen Sie alle (prinzipiell überprüfbaren) Tatsachenbehauptungen mit wissenschaftlicher Literatur. Weiterführende Interpretationen, Theorietransfer und eigene Gedanken bedürfen keines Belegs. Sie können und sollten diese Eigenleistungen jedoch mit Literatur und empirischen Befunden untermauern, die den jeweiligen Gedankengang unterstützen.\nEinsatz von “KI”: In diesem Seminar ist der Einsatz von “KI”-Werkzeugen für unterstützende Aufgaben erlaubt, bspw. das Verstehen von Konzepten oder die Korrektur von Rechtschreibfehlern. Ebenso dürfen Sie sich bei der Arbeit mit Programmiersprachen wie R oder Python unterstützen lassen. Unzulässig ist jedoch die Nutzung von überwiegend “KI”-generiertem Text in Aufgaben ohne Quellenangabe oder die vollständige Bearbeitung von Arbeitsschritten durch “KI”. Falls “KI”-Werkzeuge verwendet werden, muss dies transparent angegeben werden. Für die Richtigkeit der Ergebnisse sind Sie selbst verantwortlich!\nDie aktuelle eidesstattliche Erklärung finden Sie unter https://www.sozialwissenschaften.uni-mainz.de/files/2025/02/BA_Erklaerung_17.02.25.pdf",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
   },
   {
-    "objectID": "exercises/e12.html#modellspezifikation",
-    "href": "exercises/e12.html#modellspezifikation",
-    "title": "Aufgabe 12",
-    "section": "Modellspezifikation",
-    "text": "Modellspezifikation\nVersuchen Sie, für jede Hypothese (mindestens) ein passendes Modell zu spezifizieren. In den meisten Fällen dürfte dies ein REWB-Modell mit der Funktion lmer() sein."
+    "objectID": "exercises/term_paper.html#abgabe-des-projektberichts",
+    "href": "exercises/term_paper.html#abgabe-des-projektberichts",
+    "title": "Informationen zum Projektbericht",
+    "section": "Abgabe des Projektberichts",
+    "text": "Abgabe des Projektberichts\n\nFrist: 01.09.2025, 12:00 Uhr (keine Verlängerung ohne Attest möglich)\nAbgabe einer elektronischen Version (PDF) über die Abgabefunktion im LMS (“Abgabe der Hausarbeit”) — es genügt eine Abgabe pro Gruppe\nErgänzende Materialien (Analyseskripte, Datensätze, etc.) als .zip-Datei verpacken und hochladen",
+    "crumbs": [
+      "Kursinformationen",
+      "Projektbericht"
+    ]
+  },
+  {
+    "objectID": "exercises/e05.html",
+    "href": "exercises/e05.html",
+    "title": "Aufgabe 05",
+    "section": "",
+    "text": "Setzen Sie die Arbeit aus der heutigen Sitzung fort und erarbeiten Sie bis spätestens Sonntag, 18.05., 23:59 ein Gruppenproposal für Ihr Teilprojekt. Dieses kann (muss aber nicht) bereits auf dem Template für eine Präregistrierung (siehe LMS) basieren. Je mehr Inhalte Sie hier bereits einbauen, desto besseres Feedback erhalten Sie in der nächsten Sitzung zum Fortschritt des Projekts.\nJede Arbeitsgruppe soll bis spätestens Freitag, 23.05., eine umfassende Präregistrierung für das aktuelle Forschungsprojekt erstellen, die alle in dem bereitgestellten Dokument enthaltenen Elemente abdeckt. Der Fokus liegt auf Transparenz, Vollständigkeit und Genauigkeit, um die Forschungsergebnisse nachvollziehbar und replizierbar zu machen.\n\nAllgemeines\n\nTitel: Formulieren Sie einen präzisen Arbeitstitel für die Studie.\nAutor:innen: Listen Sie alle beteiligten Teammitglieder auf.\nBeschreibung: Erstellen Sie eine kurze Studienbeschreibung (ca. 150 Wörter), einschließlich der übergeordneten Forschungsfrage und Zielsetzung.\n\nHypothesen und Forschungsfragen\n\nFormulieren Sie die finalen Hypothesen und Forschungsfragen. Diese sollten nach der Festlegung nicht mehr geändert werden.\n\nForschungsdesign\n\nStudiendesign: Beschreiben Sie das Gesamtdesign der Studie (z.B. ESM-Design).\nStudiendauer: Geben Sie die Anzahl der Tage für die ESM-Periode an.\n\nPersonenstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die geplante Stichprobengröße und die Methode der Rekrutierung.\nBegründung für die Stichprobengröße: Begründen Sie die Entscheidung für die Stichprobengröße (z.B. aufgrund vorheriger Studien, Ressourcenbeschränkungen).\nMaßnahmen zur Steigerung der Teilnahmebereitschaft: Beschreiben Sie alle geplanten Maßnahmen (z.B. Erinnerungen, Incentives).\n\nSituationsstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die Art der Stichprobenziehung, die Anzahl der Situationen und die Begründung hierfür.\nErhebungsschema: Spezifizieren Sie, wann und wie die Auslösung erfolgt (z.B. zufällig, intervallbasiert, event-basiert), den Zeitraumbezug der Items und das Time-out für die Beantwortung.\n\nOperationalisierung\n\nVorab- und Nachbefragung: Listen Sie alle Variablen auf, die in der Vorab- und/oder Nachbefragung erhoben werden, einschließlich Fragen, Antwortoptionen, Skalen und Quellen.\nESM-Fragebogen: Beschreiben Sie alle Variablen im ESM-Fragebogen, einschließlich Fragen, Antwortoptionen, Skalen, Quellen und die Reihenfolge der Items (randomisiert oder fest). Erläutern Sie die Auswahl von Items aus längeren Skalen.\nGesamtzahl und Art der Items: Geben Sie die Gesamtzahl der Items pro Bewertung an, einschließlich offener und geschlossener Fragen, und schätzen Sie die Bearbeitungszeit.\n\nZusätzliche Erhebung von digitalen Verhaltensdaten\n\nBeschreiben Sie, welche zusätzlichen Daten erhoben werden.\n\nDurchführung\n\nGeben Sie wichtige Informationen zur Durchführung während der Feldphase an, die nicht durch die anderen Punkte abgedeckt sind.\n\nLiteraturverzeichnis\n\nListen Sie alle Quellen auf, die in der Präregistrierung verwendet werden."
+  },
+  {
+    "objectID": "exercises/e05.html#gruppen-abgabe-eines-proposals-für-das-forschungsprojekt",
+    "href": "exercises/e05.html#gruppen-abgabe-eines-proposals-für-das-forschungsprojekt",
+    "title": "Aufgabe 05",
+    "section": "",
+    "text": "Setzen Sie die Arbeit aus der heutigen Sitzung fort und erarbeiten Sie bis spätestens Sonntag, 18.05., 23:59 ein Gruppenproposal für Ihr Teilprojekt. Dieses kann (muss aber nicht) bereits auf dem Template für eine Präregistrierung (siehe LMS) basieren. Je mehr Inhalte Sie hier bereits einbauen, desto besseres Feedback erhalten Sie in der nächsten Sitzung zum Fortschritt des Projekts.\nJede Arbeitsgruppe soll bis spätestens Freitag, 23.05., eine umfassende Präregistrierung für das aktuelle Forschungsprojekt erstellen, die alle in dem bereitgestellten Dokument enthaltenen Elemente abdeckt. Der Fokus liegt auf Transparenz, Vollständigkeit und Genauigkeit, um die Forschungsergebnisse nachvollziehbar und replizierbar zu machen.\n\nAllgemeines\n\nTitel: Formulieren Sie einen präzisen Arbeitstitel für die Studie.\nAutor:innen: Listen Sie alle beteiligten Teammitglieder auf.\nBeschreibung: Erstellen Sie eine kurze Studienbeschreibung (ca. 150 Wörter), einschließlich der übergeordneten Forschungsfrage und Zielsetzung.\n\nHypothesen und Forschungsfragen\n\nFormulieren Sie die finalen Hypothesen und Forschungsfragen. Diese sollten nach der Festlegung nicht mehr geändert werden.\n\nForschungsdesign\n\nStudiendesign: Beschreiben Sie das Gesamtdesign der Studie (z.B. ESM-Design).\nStudiendauer: Geben Sie die Anzahl der Tage für die ESM-Periode an.\n\nPersonenstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die geplante Stichprobengröße und die Methode der Rekrutierung.\nBegründung für die Stichprobengröße: Begründen Sie die Entscheidung für die Stichprobengröße (z.B. aufgrund vorheriger Studien, Ressourcenbeschränkungen).\nMaßnahmen zur Steigerung der Teilnahmebereitschaft: Beschreiben Sie alle geplanten Maßnahmen (z.B. Erinnerungen, Incentives).\n\nSituationsstichprobe\n\nStichprobengröße und -ziehung: Beschreiben Sie die Art der Stichprobenziehung, die Anzahl der Situationen und die Begründung hierfür.\nErhebungsschema: Spezifizieren Sie, wann und wie die Auslösung erfolgt (z.B. zufällig, intervallbasiert, event-basiert), den Zeitraumbezug der Items und das Time-out für die Beantwortung.\n\nOperationalisierung\n\nVorab- und Nachbefragung: Listen Sie alle Variablen auf, die in der Vorab- und/oder Nachbefragung erhoben werden, einschließlich Fragen, Antwortoptionen, Skalen und Quellen.\nESM-Fragebogen: Beschreiben Sie alle Variablen im ESM-Fragebogen, einschließlich Fragen, Antwortoptionen, Skalen, Quellen und die Reihenfolge der Items (randomisiert oder fest). Erläutern Sie die Auswahl von Items aus längeren Skalen.\nGesamtzahl und Art der Items: Geben Sie die Gesamtzahl der Items pro Bewertung an, einschließlich offener und geschlossener Fragen, und schätzen Sie die Bearbeitungszeit.\n\nZusätzliche Erhebung von digitalen Verhaltensdaten\n\nBeschreiben Sie, welche zusätzlichen Daten erhoben werden.\n\nDurchführung\n\nGeben Sie wichtige Informationen zur Durchführung während der Feldphase an, die nicht durch die anderen Punkte abgedeckt sind.\n\nLiteraturverzeichnis\n\nListen Sie alle Quellen auf, die in der Präregistrierung verwendet werden."
   }
 ]
